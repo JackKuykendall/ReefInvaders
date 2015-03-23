@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 884c6a8fa5bff2044907aebbae4b629b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Puffer_Attack.0001
+    21300002: Puffer_Attack.0002
+    21300004: Puffer_Attack.0003
+    21300006: Puffer_Attack.0004
+    21300008: Puffer_Attack.0005
+    21300010: Puffer_Attack.0006
+    21300012: Puffer_Attack.0007
+    21300014: Puffer_Attack.0008
+    21300016: Puffer_Attack.0009
+    21300018: Puffer_Attack.0010
+    21300020: Puffer_Attack.0011
+    21300022: Puffer_Attack.0012
+    21300024: Puffer_Attack.0013
+    21300026: Puffer_Attack.0014
+    21300028: Puffer_Attack.0015
+    21300030: Puffer_Attack.0016
+    21300032: Puffer_Attack.0017
+    21300034: Puffer_Attack.0018
+    21300036: Puffer_Attack.0019
+    21300038: Puffer_Attack.0020
+    21300040: Puffer_Attack.0021
+    21300042: Puffer_Attack.0022
+    21300044: Puffer_Attack.0023
+    21300046: Puffer_Attack.0024
+    21300048: Puffer_Attack.0025
+    21300050: Puffer_Attack.0026
+    21300052: Puffer_Attack.0027
+    21300054: Puffer_Attack.0028
+    21300056: Puffer_Attack.0029
+    21300058: Puffer_Attack.0030
+    21300060: Puffer_Attack.0031
+    21300062: Puffer_Attack.0032
+    21300064: Puffer_Attack.0033
+    21300066: Puffer_Attack.0034
+    21300068: Puffer_Attack.0035
+    21300070: Puffer_Attack.0036
+    21300072: Puffer_Attack.0037
+    21300074: Puffer_Attack.0038
+    21300076: Puffer_Attack.0039
+    21300078: Puffer_Attack.0040
+    21300080: Puffer_Attack.0041
+    21300082: Puffer_Attack.0042
+    21300084: Puffer_Attack.0043
+    21300086: Puffer_Attack.0044
+    21300088: Puffer_Attack.0045
+    21300090: Puffer_Attack.0046
+    21300092: Puffer_Attack.0047
+    21300094: Puffer_Attack.0048
+    21300096: Puffer_Attack.0049
+    21300098: Puffer_Attack.0050
+    21300100: Puffer_Attack.0051
+    21300102: Puffer_Attack.0052
+    21300104: Puffer_Attack.0053
+    21300106: Puffer_Attack.0054
+    21300108: Puffer_Attack.0055
+    21300110: Puffer_Attack.0056
+    21300112: Puffer_Attack.0057
+    21300114: Puffer_Attack.0058
+    21300116: Puffer_Attack.0059
+    21300118: Puffer_Attack.0060
+    21300120: Puffer_Attack.0061
+    21300122: Puffer_Attack.0062
+    21300124: Puffer_Attack.0063
+    21300126: Puffer_Attack.0064
+    21300128: Puffer_Attack.0065
+    21300130: Puffer_Attack.0066
+    21300132: Puffer_Attack.0067
+    21300134: Puffer_Attack.0068
+    21300136: Puffer_Attack.0069
+    21300138: Puffer_Attack.0070
+    21300140: Puffer_Attack.0071
+    21300142: Puffer_Attack.0072
+    21300144: Puffer_Attack.0073
+    21300146: Puffer_Attack.0074
+    21300148: Puffer_Attack.0075
+    21300150: Puffer_Attack.0076
+    21300152: Puffer_Attack.0077
+    21300154: Puffer_Attack.0078
+    21300156: Puffer_Attack.0079
+    21300158: Puffer_Attack.0080
+    21300160: Puffer_Idle.0001
+    21300162: Puffer_Idle.0002
+    21300164: Puffer_Idle.0003
+    21300166: Puffer_Idle.0004
+    21300168: Puffer_Idle.0005
+    21300170: Puffer_Idle.0006
+    21300172: Puffer_Idle.0007
+    21300174: Puffer_Idle.0008
+    21300176: Puffer_Idle.0009
+    21300178: Puffer_Idle.0010
+    21300180: Puffer_Idle.0011
+    21300182: Puffer_Idle.0012
+    21300184: Puffer_Idle.0013
+    21300186: Puffer_Idle.0014
+    21300188: Puffer_Idle.0015
+    21300190: Puffer_Idle.0016
+    21300192: Puffer_Idle.0017
+    21300194: Puffer_Idle.0018
+    21300196: Puffer_Idle.0019
+    21300198: Puffer_Idle.0020
+    21300200: Puffer_Idle.0021
+    21300202: Puffer_Idle.0022
+    21300204: Puffer_Idle.0023
+    21300206: Puffer_Idle.0024
+    21300208: Puffer_Idle.0025
+    21300210: Puffer_Idle.0026
+    21300212: Puffer_Idle.0027
+    21300214: Puffer_Idle.0028
+    21300216: Puffer_Idle.0029
+    21300218: Puffer_Idle.0030
+    21300220: Puffer_Idle.0031
+    21300222: Puffer_Idle.0032
+    21300224: Puffer_Idle.0033
+    21300226: Puffer_Idle.0034
+    21300228: Puffer_Idle.0035
+    21300230: Puffer_Idle.0036
+    21300232: Puffer_Idle.0037
+    21300234: Puffer_Idle.0038
+    21300236: Puffer_Idle.0039
+    21300238: Puffer_Idle.0040
+    21300240: Puffer_Idle.0041
+    21300242: Puffer_Idle.0042
+    21300244: Puffer_Idle.0043
+    21300246: Puffer_Idle.0044
+    21300248: Puffer_Idle.0045
+    21300250: Puffer_Idle.0046
+    21300252: Puffer_Idle.0047
+    21300254: Puffer_Idle.0048
+    21300256: Puffer_Idle.0049
+    21300258: Puffer_Idle.0050
+    21300260: Puffer_Idle.0051
+    21300262: Puffer_Idle.0052
+    21300264: Puffer_Idle.0053
+    21300266: Puffer_Idle.0054
+    21300268: Puffer_Idle.0055
+    21300270: Puffer_Idle.0056
+    21300272: Puffer_Idle.0057
+    21300274: Puffer_Idle.0058
+    21300276: Puffer_Idle.0059
+    21300278: Puffer_Idle.0060
+    21300280: Puffer_Idle.0061
+    21300282: Puffer_Idle.0062
+    21300284: Puffer_Idle.0063
+    21300286: Puffer_Idle.0064
+    21300288: Puffer_Idle.0065
+    21300290: Puffer_Idle.0066
+    21300292: Puffer_Idle.0067
+    21300294: Puffer_Idle.0068
+    21300296: Puffer_Idle.0069
+    21300298: Puffer_Idle.0070
+    21300300: Puffer_Idle.0071
+    21300302: Puffer_Idle.0072
+    21300304: Puffer_Idle.0073
+    21300306: Puffer_Idle.0074
+    21300308: Puffer_Idle.0075
+    21300310: Puffer_Idle.0076
+    21300312: Puffer_Idle.0077
+    21300314: Puffer_Idle.0078
+    21300316: Puffer_Idle.0079
+    21300318: Puffer_Idle.0080
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 425
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Puffer_Attack.0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3830
+        width: 412
+        height: 264
+      alignment: 9
+      pivot: {x: .616504848, y: .518939376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0003
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 3829
+        width: 410
+        height: 265
+      alignment: 9
+      pivot: {x: .621951222, y: .524528325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0005
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3826
+        width: 408
+        height: 268
+      alignment: 9
+      pivot: {x: .632352948, y: .529850721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0007
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3822
+        width: 409
+        height: 272
+      alignment: 9
+      pivot: {x: .640586793, y: .540441155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0009
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 3819
+        width: 412
+        height: 275
+      alignment: 9
+      pivot: {x: .648058236, y: .552727282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0011
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 3813
+        width: 413
+        height: 281
+      alignment: 9
+      pivot: {x: .656174362, y: .56583631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0013
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 3807
+        width: 414
+        height: 287
+      alignment: 9
+      pivot: {x: .664251208, y: .581881523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0015
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 3801
+        width: 414
+        height: 293
+      alignment: 9
+      pivot: {x: .671497583, y: .593856633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0017
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 3795
+        width: 413
+        height: 299
+      alignment: 9
+      pivot: {x: .677966118, y: .602006674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0019
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3488
+        width: 417
+        height: 305
+      alignment: 9
+      pivot: {x: .676258981, y: .606557369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0021
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3482
+        width: 419
+        height: 311
+      alignment: 9
+      pivot: {x: .675417662, y: .607717037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0023
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 3479
+        width: 421
+        height: 314
+      alignment: 9
+      pivot: {x: .674584329, y: .611464977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0025
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3476
+        width: 421
+        height: 317
+      alignment: 9
+      pivot: {x: .674584329, y: .611987352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0027
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3475
+        width: 421
+        height: 318
+      alignment: 9
+      pivot: {x: .674584329, y: .613207519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0029
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 3474
+        width: 422
+        height: 319
+      alignment: 9
+      pivot: {x: .672985792, y: .614420056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0031
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 3475
+        width: 421
+        height: 318
+      alignment: 9
+      pivot: {x: .672209024, y: .616352201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0033
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 3476
+        width: 418
+        height: 317
+      alignment: 9
+      pivot: {x: .669856489, y: .62145108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0035
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 3482
+        width: 411
+        height: 311
+      alignment: 9
+      pivot: {x: .666666687, y: .623794198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0037
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3168
+        width: 404
+        height: 304
+      alignment: 9
+      pivot: {x: .653465331, y: .618421078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0039
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3174
+        width: 406
+        height: 298
+      alignment: 9
+      pivot: {x: .642857134, y: .600671113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0041
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 3184
+        width: 403
+        height: 288
+      alignment: 9
+      pivot: {x: .627791584, y: .579861104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0043
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 3195
+        width: 396
+        height: 277
+      alignment: 9
+      pivot: {x: .595959604, y: .559566796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0045
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 3203
+        width: 385
+        height: 269
+      alignment: 9
+      pivot: {x: .558441579, y: .546468377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0047
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 3207
+        width: 371
+        height: 265
+      alignment: 9
+      pivot: {x: .522911072, y: .543396235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0049
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 3206
+        width: 363
+        height: 266
+      alignment: 9
+      pivot: {x: .495867759, y: .541353405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0051
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 3206
+        width: 367
+        height: 266
+      alignment: 9
+      pivot: {x: .493188024, y: .541353405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0053
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 3209
+        width: 403
+        height: 263
+      alignment: 9
+      pivot: {x: .550868511, y: .536121666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0055
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 3207
+        width: 407
+        height: 265
+      alignment: 9
+      pivot: {x: .579852581, y: .543396235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0057
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2903
+        width: 409
+        height: 263
+      alignment: 9
+      pivot: {x: .594132006, y: .547528505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0059
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2903
+        width: 411
+        height: 263
+      alignment: 9
+      pivot: {x: .598540127, y: .547528505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0061
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2903
+        width: 411
+        height: 263
+      alignment: 9
+      pivot: {x: .60340631, y: .543726265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0063
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2901
+        width: 409
+        height: 265
+      alignment: 9
+      pivot: {x: .608801961, y: .539622664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0065
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2901
+        width: 408
+        height: 265
+      alignment: 9
+      pivot: {x: .607843161, y: .535849035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0067
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2902
+        width: 411
+        height: 264
+      alignment: 9
+      pivot: {x: .610705614, y: .530303001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0069
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 2902
+        width: 412
+        height: 264
+      alignment: 9
+      pivot: {x: .611650467, y: .526515126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0071
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 2902
+        width: 413
+        height: 264
+      alignment: 9
+      pivot: {x: .61259079, y: .526515126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0073
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 2902
+        width: 414
+        height: 264
+      alignment: 9
+      pivot: {x: .613526583, y: .522727251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0075
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2635
+        width: 414
+        height: 264
+      alignment: 9
+      pivot: {x: .613526583, y: .522727251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0077
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2635
+        width: 413
+        height: 264
+      alignment: 9
+      pivot: {x: .615012109, y: .518939376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Attack.0079
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2635
+        width: 413
+        height: 264
+      alignment: 9
+      pivot: {x: .615012109, y: .518939376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0001
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2635
+        width: 412
+        height: 264
+      alignment: 9
+      pivot: {x: .616504848, y: .518939376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0003
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2635
+        width: 411
+        height: 264
+      alignment: 9
+      pivot: {x: .615571797, y: .518939376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0005
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2634
+        width: 410
+        height: 265
+      alignment: 9
+      pivot: {x: .614634156, y: .520754695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0007
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2634
+        width: 409
+        height: 265
+      alignment: 9
+      pivot: {x: .613691926, y: .520754695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0009
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 2633
+        width: 407
+        height: 266
+      alignment: 9
+      pivot: {x: .611793637, y: .522556365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0011
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 2633
+        width: 406
+        height: 266
+      alignment: 9
+      pivot: {x: .61083746, y: .522556365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2364
+        width: 404
+        height: 267
+      alignment: 9
+      pivot: {x: .608910918, y: .524344563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0015
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2363
+        width: 403
+        height: 268
+      alignment: 9
+      pivot: {x: .607940435, y: .526119411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0017
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2362
+        width: 401
+        height: 269
+      alignment: 9
+      pivot: {x: .605985045, y: .527881026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0019
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2360
+        width: 400
+        height: 271
+      alignment: 9
+      pivot: {x: .605000019, y: .531365335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0021
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 2359
+        width: 398
+        height: 272
+      alignment: 9
+      pivot: {x: .603015065, y: .533088207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0023
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 2359
+        width: 396
+        height: 272
+      alignment: 9
+      pivot: {x: .601010084, y: .536764681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0025
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2358
+        width: 395
+        height: 273
+      alignment: 9
+      pivot: {x: .600000024, y: .538461566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0027
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 2357
+        width: 394
+        height: 274
+      alignment: 9
+      pivot: {x: .598984778, y: .540145993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0029
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 2356
+        width: 393
+        height: 275
+      alignment: 9
+      pivot: {x: .597964406, y: .541818202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0031
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 2354
+        width: 392
+        height: 277
+      alignment: 9
+      pivot: {x: .596938789, y: .545126379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0033
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2075
+        width: 391
+        height: 277
+      alignment: 9
+      pivot: {x: .595907927, y: .545126379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0035
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2074
+        width: 390
+        height: 278
+      alignment: 9
+      pivot: {x: .594871819, y: .546762586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0037
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2074
+        width: 390
+        height: 278
+      alignment: 9
+      pivot: {x: .594871819, y: .546762586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0039
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2073
+        width: 390
+        height: 279
+      alignment: 9
+      pivot: {x: .594871819, y: .54838711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0041
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2073
+        width: 390
+        height: 279
+      alignment: 9
+      pivot: {x: .594871819, y: .54838711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0043
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2074
+        width: 390
+        height: 278
+      alignment: 9
+      pivot: {x: .594871819, y: .546762586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0045
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 2074
+        width: 390
+        height: 278
+      alignment: 9
+      pivot: {x: .594871819, y: .546762586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0047
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 2075
+        width: 391
+        height: 277
+      alignment: 9
+      pivot: {x: .595907927, y: .545126379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0049
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 2075
+        width: 392
+        height: 277
+      alignment: 9
+      pivot: {x: .596938789, y: .545126379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0051
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 2077
+        width: 393
+        height: 275
+      alignment: 9
+      pivot: {x: .597964406, y: .541818202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0053
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1797
+        width: 394
+        height: 274
+      alignment: 9
+      pivot: {x: .598984778, y: .540145993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0055
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1798
+        width: 395
+        height: 273
+      alignment: 9
+      pivot: {x: .600000024, y: .538461566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0057
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1799
+        width: 396
+        height: 272
+      alignment: 9
+      pivot: {x: .601010084, y: .536764681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0059
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1799
+        width: 398
+        height: 272
+      alignment: 9
+      pivot: {x: .603015065, y: .533088207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0061
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1800
+        width: 400
+        height: 271
+      alignment: 9
+      pivot: {x: .605000019, y: .531365335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0063
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1802
+        width: 401
+        height: 269
+      alignment: 9
+      pivot: {x: .605985045, y: .527881026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0065
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1803
+        width: 403
+        height: 268
+      alignment: 9
+      pivot: {x: .607940435, y: .526119411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0067
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1804
+        width: 404
+        height: 267
+      alignment: 9
+      pivot: {x: .608910918, y: .524344563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0069
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 1805
+        width: 406
+        height: 266
+      alignment: 9
+      pivot: {x: .61083746, y: .522556365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0071
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 1805
+        width: 407
+        height: 266
+      alignment: 9
+      pivot: {x: .611793637, y: .522556365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0073
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1530
+        width: 409
+        height: 265
+      alignment: 9
+      pivot: {x: .613691926, y: .520754695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0075
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1530
+        width: 410
+        height: 265
+      alignment: 9
+      pivot: {x: .614634156, y: .520754695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0077
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1531
+        width: 411
+        height: 264
+      alignment: 9
+      pivot: {x: .615571797, y: .518939376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Puffer_Idle.0079
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1531
+        width: 412
+        height: 264
+      alignment: 9
+      pivot: {x: .616504848, y: .518939376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

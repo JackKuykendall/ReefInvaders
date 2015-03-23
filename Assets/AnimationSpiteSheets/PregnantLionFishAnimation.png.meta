@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 73e9d17d800e554408ffd1260164a1d0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pregnant_Lionfish_Attack.0001
+    21300002: Pregnant_Lionfish_Attack.0002
+    21300004: Pregnant_Lionfish_Attack.0003
+    21300006: Pregnant_Lionfish_Attack.0004
+    21300008: Pregnant_Lionfish_Attack.0005
+    21300010: Pregnant_Lionfish_Attack.0006
+    21300012: Pregnant_Lionfish_Attack.0007
+    21300014: Pregnant_Lionfish_Attack.0008
+    21300016: Pregnant_Lionfish_Attack.0009
+    21300018: Pregnant_Lionfish_Attack.0010
+    21300020: Pregnant_Lionfish_Attack.0011
+    21300022: Pregnant_Lionfish_Attack.0012
+    21300024: Pregnant_Lionfish_Attack.0013
+    21300026: Pregnant_Lionfish_Attack.0014
+    21300028: Pregnant_Lionfish_Attack.0015
+    21300030: Pregnant_Lionfish_Attack.0016
+    21300032: Pregnant_Lionfish_Attack.0017
+    21300034: Pregnant_Lionfish_Attack.0018
+    21300036: Pregnant_Lionfish_Attack.0019
+    21300038: Pregnant_Lionfish_Attack.0020
+    21300040: Pregnant_Lionfish_Attack.0021
+    21300042: Pregnant_Lionfish_Attack.0022
+    21300044: Pregnant_Lionfish_Attack.0023
+    21300046: Pregnant_Lionfish_Attack.0024
+    21300048: Pregnant_Lionfish_Attack.0025
+    21300050: Pregnant_Lionfish_Attack.0026
+    21300052: Pregnant_Lionfish_Attack.0027
+    21300054: Pregnant_Lionfish_Attack.0028
+    21300056: Pregnant_Lionfish_Attack.0029
+    21300058: Pregnant_Lionfish_Attack.0030
+    21300060: Pregnant_Lionfish_Attack.0031
+    21300062: Pregnant_Lionfish_Attack.0032
+    21300064: Pregnant_Lionfish_Attack.0033
+    21300066: Pregnant_Lionfish_Attack.0034
+    21300068: Pregnant_Lionfish_Attack.0035
+    21300070: Pregnant_Lionfish_Attack.0036
+    21300072: Pregnant_Lionfish_Attack.0037
+    21300074: Pregnant_Lionfish_Attack.0038
+    21300076: Pregnant_Lionfish_Attack.0039
+    21300078: Pregnant_Lionfish_Attack.0040
+    21300080: Pregnant_Lionfish_Attack.0041
+    21300082: Pregnant_Lionfish_Attack.0042
+    21300084: Pregnant_Lionfish_Attack.0043
+    21300086: Pregnant_Lionfish_Attack.0044
+    21300088: Pregnant_Lionfish_Attack.0045
+    21300090: Pregnant_Lionfish_Attack.0046
+    21300092: Pregnant_Lionfish_Attack.0047
+    21300094: Pregnant_Lionfish_Attack.0048
+    21300096: Pregnant_Lionfish_Attack.0049
+    21300098: Pregnant_Lionfish_Attack.0050
+    21300100: Pregnant_Lionfish_Attack.0051
+    21300102: Pregnant_Lionfish_Attack.0052
+    21300104: Pregnant_Lionfish_Attack.0053
+    21300106: Pregnant_Lionfish_Attack.0054
+    21300108: Pregnant_Lionfish_Attack.0055
+    21300110: Pregnant_Lionfish_Attack.0056
+    21300112: Pregnant_Lionfish_Attack.0057
+    21300114: Pregnant_Lionfish_Attack.0058
+    21300116: Pregnant_Lionfish_Attack.0059
+    21300118: Pregnant_Lionfish_Attack.0060
+    21300120: Pregnant_Lionfish_Attack.0061
+    21300122: Pregnant_Lionfish_Attack.0062
+    21300124: Pregnant_Lionfish_Attack.0063
+    21300126: Pregnant_Lionfish_Attack.0064
+    21300128: Pregnant_Lionfish_Attack.0065
+    21300130: Pregnant_Lionfish_Attack.0066
+    21300132: Pregnant_Lionfish_Attack.0067
+    21300134: Pregnant_Lionfish_Attack.0068
+    21300136: Pregnant_Lionfish_Attack.0069
+    21300138: Pregnant_Lionfish_Attack.0070
+    21300140: Pregnant_Lionfish_Attack.0071
+    21300142: Pregnant_Lionfish_Attack.0072
+    21300144: Pregnant_Lionfish_Attack.0073
+    21300146: Pregnant_Lionfish_Attack.0074
+    21300148: Pregnant_Lionfish_Attack.0075
+    21300150: Pregnant_Lionfish_Attack.0076
+    21300152: Pregnant_Lionfish_Attack.0077
+    21300154: Pregnant_Lionfish_Attack.0078
+    21300156: Pregnant_Lionfish_Attack.0079
+    21300158: Pregnant_Lionfish_Attack.0080
+    21300160: Pregnant_Lionfish_Swim.0001
+    21300162: Pregnant_Lionfish_Swim.0002
+    21300164: Pregnant_Lionfish_Swim.0003
+    21300166: Pregnant_Lionfish_Swim.0004
+    21300168: Pregnant_Lionfish_Swim.0005
+    21300170: Pregnant_Lionfish_Swim.0006
+    21300172: Pregnant_Lionfish_Swim.0007
+    21300174: Pregnant_Lionfish_Swim.0008
+    21300176: Pregnant_Lionfish_Swim.0009
+    21300178: Pregnant_Lionfish_Swim.0010
+    21300180: Pregnant_Lionfish_Swim.0011
+    21300182: Pregnant_Lionfish_Swim.0012
+    21300184: Pregnant_Lionfish_Swim.0013
+    21300186: Pregnant_Lionfish_Swim.0014
+    21300188: Pregnant_Lionfish_Swim.0015
+    21300190: Pregnant_Lionfish_Swim.0016
+    21300192: Pregnant_Lionfish_Swim.0017
+    21300194: Pregnant_Lionfish_Swim.0018
+    21300196: Pregnant_Lionfish_Swim.0019
+    21300198: Pregnant_Lionfish_Swim.0020
+    21300200: Pregnant_Lionfish_Swim.0021
+    21300202: Pregnant_Lionfish_Swim.0022
+    21300204: Pregnant_Lionfish_Swim.0023
+    21300206: Pregnant_Lionfish_Swim.0024
+    21300208: Pregnant_Lionfish_Swim.0025
+    21300210: Pregnant_Lionfish_Swim.0026
+    21300212: Pregnant_Lionfish_Swim.0027
+    21300214: Pregnant_Lionfish_Swim.0028
+    21300216: Pregnant_Lionfish_Swim.0029
+    21300218: Pregnant_Lionfish_Swim.0030
+    21300220: Pregnant_Lionfish_Swim.0031
+    21300222: Pregnant_Lionfish_Swim.0032
+    21300224: Pregnant_Lionfish_Swim.0033
+    21300226: Pregnant_Lionfish_Swim.0034
+    21300228: Pregnant_Lionfish_Swim.0035
+    21300230: Pregnant_Lionfish_Swim.0036
+    21300232: Pregnant_Lionfish_Swim.0037
+    21300234: Pregnant_Lionfish_Swim.0038
+    21300236: Pregnant_Lionfish_Swim.0039
+    21300238: Pregnant_Lionfish_Swim.0040
+    21300240: Pregnant_Lionfish_Swim.0041
+    21300242: Pregnant_Lionfish_Swim.0042
+    21300244: Pregnant_Lionfish_Swim.0043
+    21300246: Pregnant_Lionfish_Swim.0044
+    21300248: Pregnant_Lionfish_Swim.0045
+    21300250: Pregnant_Lionfish_Swim.0046
+    21300252: Pregnant_Lionfish_Swim.0047
+    21300254: Pregnant_Lionfish_Swim.0048
+    21300256: Pregnant_Lionfish_Swim.0049
+    21300258: Pregnant_Lionfish_Swim.0050
+    21300260: Pregnant_Lionfish_Swim.0051
+    21300262: Pregnant_Lionfish_Swim.0052
+    21300264: Pregnant_Lionfish_Swim.0053
+    21300266: Pregnant_Lionfish_Swim.0054
+    21300268: Pregnant_Lionfish_Swim.0055
+    21300270: Pregnant_Lionfish_Swim.0056
+    21300272: Pregnant_Lionfish_Swim.0057
+    21300274: Pregnant_Lionfish_Swim.0058
+    21300276: Pregnant_Lionfish_Swim.0059
+    21300278: Pregnant_Lionfish_Swim.0060
+    21300280: Pregnant_Lionfish_Swim.0061
+    21300282: Pregnant_Lionfish_Swim.0062
+    21300284: Pregnant_Lionfish_Swim.0063
+    21300286: Pregnant_Lionfish_Swim.0064
+    21300288: Pregnant_Lionfish_Swim.0065
+    21300290: Pregnant_Lionfish_Swim.0066
+    21300292: Pregnant_Lionfish_Swim.0067
+    21300294: Pregnant_Lionfish_Swim.0068
+    21300296: Pregnant_Lionfish_Swim.0069
+    21300298: Pregnant_Lionfish_Swim.0070
+    21300300: Pregnant_Lionfish_Swim.0071
+    21300302: Pregnant_Lionfish_Swim.0072
+    21300304: Pregnant_Lionfish_Swim.0073
+    21300306: Pregnant_Lionfish_Swim.0074
+    21300308: Pregnant_Lionfish_Swim.0075
+    21300310: Pregnant_Lionfish_Swim.0076
+    21300312: Pregnant_Lionfish_Swim.0077
+    21300314: Pregnant_Lionfish_Swim.0078
+    21300316: Pregnant_Lionfish_Swim.0079
+    21300318: Pregnant_Lionfish_Swim.0080
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 425
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Pregnant_Lionfish_Attack.0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3779
+        width: 380
+        height: 315
+      alignment: 9
+      pivot: {x: .434210539, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0003
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3778
+        width: 378
+        height: 316
+      alignment: 9
+      pivot: {x: .423280418, y: .424050629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0005
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3778
+        width: 377
+        height: 316
+      alignment: 9
+      pivot: {x: .413793117, y: .427215189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0007
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 3778
+        width: 374
+        height: 316
+      alignment: 9
+      pivot: {x: .401069522, y: .430379748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0009
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 3777
+        width: 371
+        height: 317
+      alignment: 9
+      pivot: {x: .390835583, y: .43217665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0011
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 3775
+        width: 367
+        height: 319
+      alignment: 9
+      pivot: {x: .378746599, y: .432601869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0013
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 3774
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: .367403328, y: .434374988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0015
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3773
+        width: 357
+        height: 321
+      alignment: 9
+      pivot: {x: .355742306, y: .43613708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0017
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 3772
+        width: 351
+        height: 322
+      alignment: 9
+      pivot: {x: .344729334, y: .437888205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0019
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 3771
+        width: 345
+        height: 323
+      alignment: 9
+      pivot: {x: .333333343, y: .439628482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0021
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 3770
+        width: 340
+        height: 324
+      alignment: 9
+      pivot: {x: .323529422, y: .44135803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0023
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3445
+        width: 336
+        height: 323
+      alignment: 9
+      pivot: {x: .315476179, y: .442724466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0025
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3443
+        width: 332
+        height: 325
+      alignment: 9
+      pivot: {x: .307228923, y: .443076909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0027
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3443
+        width: 329
+        height: 325
+      alignment: 9
+      pivot: {x: .300911844, y: .443076909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0029
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3444
+        width: 328
+        height: 324
+      alignment: 9
+      pivot: {x: .295731694, y: .44135803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0031
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 3444
+        width: 328
+        height: 324
+      alignment: 9
+      pivot: {x: .292682916, y: .438271612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0033
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 3446
+        width: 330
+        height: 322
+      alignment: 9
+      pivot: {x: .290909082, y: .428571433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0035
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 3457
+        width: 331
+        height: 311
+      alignment: 9
+      pivot: {x: .28700906, y: .398713827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0037
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 3468
+        width: 336
+        height: 300
+      alignment: 9
+      pivot: {x: .294642866, y: .370000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0039
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 3468
+        width: 352
+        height: 300
+      alignment: 9
+      pivot: {x: .335227281, y: .373333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0041
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 3462
+        width: 370
+        height: 306
+      alignment: 9
+      pivot: {x: .391891897, y: .379084975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0043
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 3465
+        width: 382
+        height: 303
+      alignment: 9
+      pivot: {x: .447643965, y: .366336644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0045
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3156
+        width: 376
+        height: 285
+      alignment: 9
+      pivot: {x: .486702114, y: .343859643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0047
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3166
+        width: 362
+        height: 275
+      alignment: 9
+      pivot: {x: .516574562, y: .330909103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0049
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3165
+        width: 349
+        height: 276
+      alignment: 9
+      pivot: {x: .532951295, y: .336956531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0051
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 3163
+        width: 345
+        height: 278
+      alignment: 9
+      pivot: {x: .539130449, y: .341726631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0053
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 3161
+        width: 352
+        height: 280
+      alignment: 9
+      pivot: {x: .534090936, y: .339285702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0055
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 3156
+        width: 363
+        height: 285
+      alignment: 9
+      pivot: {x: .523415983, y: .333333343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0057
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 3149
+        width: 371
+        height: 292
+      alignment: 9
+      pivot: {x: .512129366, y: .325342476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0059
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 3145
+        width: 370
+        height: 296
+      alignment: 9
+      pivot: {x: .502702713, y: .320945948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0061
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 3140
+        width: 363
+        height: 301
+      alignment: 9
+      pivot: {x: .495867759, y: .345514953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0063
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 3138
+        width: 356
+        height: 303
+      alignment: 9
+      pivot: {x: .491573036, y: .372937292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0065
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 3135
+        width: 352
+        height: 306
+      alignment: 9
+      pivot: {x: .485795468, y: .382352948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0067
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2825
+        width: 352
+        height: 308
+      alignment: 9
+      pivot: {x: .477272719, y: .38961038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0069
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2823
+        width: 354
+        height: 310
+      alignment: 9
+      pivot: {x: .468926549, y: .396774203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0071
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2823
+        width: 358
+        height: 310
+      alignment: 9
+      pivot: {x: .460893869, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0073
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2822
+        width: 363
+        height: 311
+      alignment: 9
+      pivot: {x: .454545468, y: .405144691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0075
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2822
+        width: 369
+        height: 311
+      alignment: 9
+      pivot: {x: .447154462, y: .411575556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0077
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2819
+        width: 374
+        height: 314
+      alignment: 9
+      pivot: {x: .441176474, y: .41401273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Attack.0079
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2819
+        width: 378
+        height: 314
+      alignment: 9
+      pivot: {x: .43650794, y: .417197466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0001
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 2818
+        width: 322
+        height: 315
+      alignment: 9
+      pivot: {x: .524844706, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0003
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 2818
+        width: 324
+        height: 315
+      alignment: 9
+      pivot: {x: .521604955, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0005
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 2818
+        width: 330
+        height: 315
+      alignment: 9
+      pivot: {x: .512121201, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0007
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 2818
+        width: 338
+        height: 315
+      alignment: 9
+      pivot: {x: .5, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2501
+        width: 348
+        height: 315
+      alignment: 9
+      pivot: {x: .485632181, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0011
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2501
+        width: 359
+        height: 315
+      alignment: 9
+      pivot: {x: .47075209, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0013
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2501
+        width: 369
+        height: 315
+      alignment: 9
+      pivot: {x: .455284566, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0015
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2501
+        width: 377
+        height: 315
+      alignment: 9
+      pivot: {x: .445623338, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0017
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 2501
+        width: 383
+        height: 315
+      alignment: 9
+      pivot: {x: .438642293, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0019
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 2501
+        width: 384
+        height: 315
+      alignment: 9
+      pivot: {x: .434895843, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0021
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 2501
+        width: 381
+        height: 315
+      alignment: 9
+      pivot: {x: .435695529, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0023
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 2501
+        width: 375
+        height: 315
+      alignment: 9
+      pivot: {x: .44266668, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0025
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 2502
+        width: 366
+        height: 314
+      alignment: 9
+      pivot: {x: .450819671, y: .423566878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0027
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 2502
+        width: 354
+        height: 314
+      alignment: 9
+      pivot: {x: .463276833, y: .420382172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0029
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 2502
+        width: 343
+        height: 314
+      alignment: 9
+      pivot: {x: .478134125, y: .420382172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0031
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2186
+        width: 330
+        height: 313
+      alignment: 9
+      pivot: {x: .4939394, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0033
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2186
+        width: 318
+        height: 313
+      alignment: 9
+      pivot: {x: .509433985, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0035
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2186
+        width: 309
+        height: 313
+      alignment: 9
+      pivot: {x: .524271846, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0037
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2186
+        width: 302
+        height: 313
+      alignment: 9
+      pivot: {x: .533112586, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0039
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2186
+        width: 300
+        height: 313
+      alignment: 9
+      pivot: {x: .536666691, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0041
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2186
+        width: 299
+        height: 313
+      alignment: 9
+      pivot: {x: .538461566, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0043
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2186
+        width: 300
+        height: 313
+      alignment: 9
+      pivot: {x: .536666691, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0045
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 2186
+        width: 302
+        height: 313
+      alignment: 9
+      pivot: {x: .533112586, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0047
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2186
+        width: 309
+        height: 313
+      alignment: 9
+      pivot: {x: .524271846, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0049
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 2186
+        width: 318
+        height: 313
+      alignment: 9
+      pivot: {x: .509433985, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0051
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 2186
+        width: 330
+        height: 313
+      alignment: 9
+      pivot: {x: .4939394, y: .421725243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0053
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 2185
+        width: 343
+        height: 314
+      alignment: 9
+      pivot: {x: .478134125, y: .420382172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0055
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1868
+        width: 354
+        height: 315
+      alignment: 9
+      pivot: {x: .463276833, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0057
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1869
+        width: 366
+        height: 314
+      alignment: 9
+      pivot: {x: .450819671, y: .423566878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0059
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1868
+        width: 375
+        height: 315
+      alignment: 9
+      pivot: {x: .44266668, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0061
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1868
+        width: 381
+        height: 315
+      alignment: 9
+      pivot: {x: .435695529, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0063
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1868
+        width: 384
+        height: 315
+      alignment: 9
+      pivot: {x: .434895843, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0065
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1868
+        width: 383
+        height: 315
+      alignment: 9
+      pivot: {x: .438642293, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0067
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1868
+        width: 377
+        height: 315
+      alignment: 9
+      pivot: {x: .445623338, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0069
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 1868
+        width: 369
+        height: 315
+      alignment: 9
+      pivot: {x: .455284566, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0071
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 1868
+        width: 359
+        height: 315
+      alignment: 9
+      pivot: {x: .47075209, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0073
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1868
+        width: 348
+        height: 315
+      alignment: 9
+      pivot: {x: .485632181, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0075
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1868
+        width: 338
+        height: 315
+      alignment: 9
+      pivot: {x: .5, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0077
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1551
+        width: 330
+        height: 315
+      alignment: 9
+      pivot: {x: .512121201, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pregnant_Lionfish_Swim.0079
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1551
+        width: 324
+        height: 315
+      alignment: 9
+      pivot: {x: .521604955, y: .422222227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

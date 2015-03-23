@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: 2da3ca4b4e9b16b4f83b16500740b906
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Snail_Anim_Attack_01.0001
+    21300002: Snail_Anim_Attack_01.0002
+    21300004: Snail_Anim_Attack_01.0003
+    21300006: Snail_Anim_Attack_01.0004
+    21300008: Snail_Anim_Attack_01.0005
+    21300010: Snail_Anim_Attack_01.0006
+    21300012: Snail_Anim_Attack_01.0007
+    21300014: Snail_Anim_Attack_01.0008
+    21300016: Snail_Anim_Attack_01.0009
+    21300018: Snail_Anim_Attack_01.0010
+    21300020: Snail_Anim_Attack_01.0011
+    21300022: Snail_Anim_Attack_01.0012
+    21300024: Snail_Anim_Attack_01.0013
+    21300026: Snail_Anim_Attack_01.0014
+    21300028: Snail_Anim_Attack_01.0015
+    21300030: Snail_Anim_Attack_01.0016
+    21300032: Snail_Anim_Attack_01.0017
+    21300034: Snail_Anim_Attack_01.0018
+    21300036: Snail_Anim_Idle_01.0001
+    21300038: Snail_Anim_Idle_01.0002
+    21300040: Snail_Anim_Idle_01.0003
+    21300042: Snail_Anim_Idle_01.0004
+    21300044: Snail_Anim_Idle_01.0005
+    21300046: Snail_Anim_Idle_01.0006
+    21300048: Snail_Anim_Idle_01.0007
+    21300050: Snail_Anim_Idle_01.0008
+    21300052: Snail_Anim_Idle_01.0009
+    21300054: Snail_Anim_Idle_01.0010
+    21300056: Snail_Anim_Idle_01.0011
+    21300058: Snail_Anim_Idle_01.0012
+    21300060: Snail_Anim_Idle_01.0013
+    21300062: Snail_Anim_Idle_01.0014
+    21300064: Snail_Anim_Idle_01.0015
+    21300066: Snail_Anim_Idle_01.0016
+    21300068: Snail_Anim_Idle_01.0017
+    21300070: Snail_Anim_Idle_01.0018
+    21300072: Snail_Anim_Idle_01.0019
+    21300074: Snail_Anim_Idle_01.0020
+    21300076: Snail_Anim_Idle_01.0021
+    21300078: Snail_Anim_Idle_01.0022
+    21300080: Snail_Anim_Idle_01.0023
+    21300082: Snail_Anim_Idle_01.0024
+    21300084: Snail_Anim_Idle_01.0025
+    21300086: Snail_Anim_Idle_01.0026
+    21300088: Snail_Anim_Idle_01.0027
+    21300090: Snail_Anim_Idle_01.0028
+    21300092: Snail_Anim_Idle_01.0029
+    21300094: Snail_Anim_Idle_01.0030
+    21300096: Snail_Anim_Idle_01.0031
+    21300098: Snail_Anim_Idle_01.0032
+    21300100: Snail_Anim_Idle_01.0033
+    21300102: Snail_Anim_Idle_01.0034
+    21300104: Snail_Anim_Idle_01.0035
+    21300106: Snail_Anim_Idle_01.0036
+    21300108: Snail_Anim_Idle_01.0037
+    21300110: Snail_Anim_Idle_01.0038
+    21300112: Snail_Anim_Idle_01.0039
+    21300114: Snail_Anim_Idle_01.0040
+    21300116: Snail_Anim_Idle_01.0041
+    21300118: Snail_Anim_Idle_01.0042
+    21300120: Snail_Anim_Idle_01.0043
+    21300122: Snail_Anim_Idle_01.0044
+    21300124: Snail_Anim_Idle_01.0045
+    21300126: Snail_Anim_Idle_01.0046
+    21300128: Snail_Anim_Idle_01.0047
+    21300130: Snail_Anim_Idle_01.0048
+    21300132: Snail_Attack.0001
+    21300134: Snail_Attack.0002
+    21300136: Snail_Attack.0003
+    21300138: Snail_Attack.0004
+    21300140: Snail_Attack.0005
+    21300142: Snail_Attack.0006
+    21300144: Snail_Attack.0007
+    21300146: Snail_Attack.0008
+    21300148: Snail_Attack.0009
+    21300150: Snail_Attack.0010
+    21300152: Snail_Attack.0011
+    21300154: Snail_Attack.0012
+    21300156: Snail_Attack.0013
+    21300158: Snail_Attack.0014
+    21300160: Snail_Attack.0015
+    21300162: Snail_Attack.0016
+    21300164: Snail_Attack.0017
+    21300166: Snail_Attack.0018
+    21300168: Snail_Attack.0019
+    21300170: Snail_Attack.0020
+    21300172: Snail_Attack.0021
+    21300174: Snail_Attack.0022
+    21300176: Snail_Attack.0023
+    21300178: Snail_Attack.0024
+    21300180: Snail_Attack.0025
+    21300182: Snail_Attack.0026
+    21300184: Snail_Attack.0027
+    21300186: Snail_Attack.0028
+    21300188: Snail_Attack.0029
+    21300190: Snail_Attack.0030
+    21300192: Snail_Attack.0031
+    21300194: Snail_Attack.0032
+    21300196: Snail_Attack.0033
+    21300198: Snail_Attack.0034
+    21300200: Snail_Attack.0035
+    21300202: Snail_Attack.0036
+    21300204: Snail_Attack.0037
+    21300206: Snail_Attack.0038
+    21300208: Snail_Attack.0039
+    21300210: Snail_Attack.0040
+    21300212: Snail_Attack.0041
+    21300214: Snail_Attack.0042
+    21300216: Snail_Attack.0043
+    21300218: Snail_Attack.0044
+    21300220: Snail_Attack.0045
+    21300222: Snail_Attack.0046
+    21300224: Snail_Attack.0047
+    21300226: Snail_Attack.0048
+    21300228: Snail_Attack.0049
+    21300230: Snail_Attack.0050
+    21300232: Snail_Attack.0051
+    21300234: Snail_Attack.0052
+    21300236: Snail_Attack.0053
+    21300238: Snail_Attack.0054
+    21300240: Snail_Attack.0055
+    21300242: Snail_Attack.0056
+    21300244: Snail_Attack.0057
+    21300246: Snail_Attack.0058
+    21300248: Snail_Attack.0059
+    21300250: Snail_Attack.0060
+    21300252: Snail_Idle.0001
+    21300254: Snail_Idle.0002
+    21300256: Snail_Idle.0003
+    21300258: Snail_Idle.0004
+    21300260: Snail_Idle.0005
+    21300262: Snail_Idle.0006
+    21300264: Snail_Idle.0007
+    21300266: Snail_Idle.0008
+    21300268: Snail_Idle.0009
+    21300270: Snail_Idle.0010
+    21300272: Snail_Idle.0011
+    21300274: Snail_Idle.0012
+    21300276: Snail_Idle.0013
+    21300278: Snail_Idle.0014
+    21300280: Snail_Idle.0015
+    21300282: Snail_Idle.0016
+    21300284: Snail_Idle.0017
+    21300286: Snail_Idle.0018
+    21300288: Snail_Idle.0019
+    21300290: Snail_Idle.0020
+    21300292: Snail_Idle.0021
+    21300294: Snail_Idle.0022
+    21300296: Snail_Idle.0023
+    21300298: Snail_Idle.0024
+    21300300: Snail_Idle.0025
+    21300302: Snail_Idle.0026
+    21300304: Snail_Idle.0027
+    21300306: Snail_Idle.0028
+    21300308: Snail_Idle.0029
+    21300310: Snail_Idle.0030
+    21300312: Snail_Idle.0031
+    21300314: Snail_Idle.0032
+    21300316: Snail_Idle.0033
+    21300318: Snail_Idle.0034
+    21300320: Snail_Idle.0035
+    21300322: Snail_Idle.0036
+    21300324: Snail_Idle.0037
+    21300326: Snail_Idle.0038
+    21300328: Snail_Idle.0039
+    21300330: Snail_Idle.0040
+    21300332: Snail_Idle.0041
+    21300334: Snail_Idle.0042
+    21300336: Snail_Idle.0043
+    21300338: Snail_Idle.0044
+    21300340: Snail_Idle.0045
+    21300342: Snail_Idle.0046
+    21300344: Snail_Idle.0047
+    21300346: Snail_Idle.0048
+    21300348: Snail_Attack_60.0001
+    21300350: Snail_Attack_60.0002
+    21300352: Snail_Attack_60.0003
+    21300354: Snail_Attack_60.0004
+    21300356: Snail_Attack_60.0005
+    21300358: Snail_Attack_60.0006
+    21300360: Snail_Attack_60.0007
+    21300362: Snail_Attack_60.0008
+    21300364: Snail_Attack_60.0009
+    21300366: Snail_Attack_60.0010
+    21300368: Snail_Attack_60.0011
+    21300370: Snail_Attack_60.0012
+    21300372: Snail_Attack_60.0013
+    21300374: Snail_Attack_60.0014
+    21300376: Snail_Attack_60.0015
+    21300378: Snail_Attack_60.0016
+    21300380: Snail_Attack_60.0017
+    21300382: Snail_Attack_60.0018
+    21300384: Snail_Attack_60.0019
+    21300386: Snail_Attack_60.0020
+    21300388: Snail_Attack_60.0021
+    21300390: Snail_Attack_60.0022
+    21300392: Snail_Attack_60.0023
+    21300394: Snail_Attack_60.0024
+    21300396: Snail_Attack_60.0025
+    21300398: Snail_Attack_60.0026
+    21300400: Snail_Attack_60.0027
+    21300402: Snail_Attack_60.0028
+    21300404: Snail_Attack_60.0029
+    21300406: Snail_Attack_60.0030
+    21300408: Snail_Attack_60.0031
+    21300410: Snail_Attack_60.0032
+    21300412: Snail_Attack_60.0033
+    21300414: Snail_Attack_60.0034
+    21300416: Snail_Attack_60.0035
+    21300418: Snail_Attack_60.0036
+    21300420: Snail_Attack_60.0037
+    21300422: Snail_Attack_60.0038
+    21300424: Snail_Attack_60.0039
+    21300426: Snail_Attack_60.0040
+    21300428: Snail_Attack_60.0041
+    21300430: Snail_Attack_60.0042
+    21300432: Snail_Attack_60.0043
+    21300434: Snail_Attack_60.0044
+    21300436: Snail_Attack_60.0045
+    21300438: Snail_Attack_60.0046
+    21300440: Snail_Attack_60.0047
+    21300442: Snail_Attack_60.0048
+    21300444: Snail_Attack_60.0049
+    21300446: Snail_Attack_60.0050
+    21300448: Snail_Attack_60.0051
+    21300450: Snail_Attack_60.0052
+    21300452: Snail_Attack_60.0053
+    21300454: Snail_Attack_60.0054
+    21300456: Snail_Attack_60.0055
+    21300458: Snail_Attack_60.0056
+    21300460: Snail_Attack_60.0057
+    21300462: Snail_Attack_60.0058
+    21300464: Snail_Attack_60.0059
+    21300466: Snail_Attack_60.0060
+    21300468: Snail_Attack_60.0061
+    21300470: Snail_Attack_60.0062
+    21300472: Snail_Attack_60.0063
+    21300474: Snail_Attack_60.0064
+    21300476: Snail_Attack_60.0065
+    21300478: Snail_Attack_60.0066
+    21300480: Snail_Attack_60.0067
+    21300482: Snail_Attack_60.0068
+    21300484: Snail_Attack_60.0069
+    21300486: Snail_Attack_60.0070
+    21300488: Snail_Attack_60.0071
+    21300490: Snail_Attack_60.0072
+    21300492: Snail_Attack_60.0073
+    21300494: Snail_Attack_60.0074
+    21300496: Snail_Attack_60.0075
+    21300498: Snail_Attack_60.0076
+    21300500: Snail_Attack_60.0077
+    21300502: Snail_Attack_60.0078
+    21300504: Snail_Attack_60.0079
+    21300506: Snail_Attack_60.0080
+    21300508: Snail_Idle_60.0001
+    21300510: Snail_Idle_60.0002
+    21300512: Snail_Idle_60.0003
+    21300514: Snail_Idle_60.0004
+    21300516: Snail_Idle_60.0005
+    21300518: Snail_Idle_60.0006
+    21300520: Snail_Idle_60.0007
+    21300522: Snail_Idle_60.0008
+    21300524: Snail_Idle_60.0009
+    21300526: Snail_Idle_60.0010
+    21300528: Snail_Idle_60.0011
+    21300530: Snail_Idle_60.0012
+    21300532: Snail_Idle_60.0013
+    21300534: Snail_Idle_60.0014
+    21300536: Snail_Idle_60.0015
+    21300538: Snail_Idle_60.0016
+    21300540: Snail_Idle_60.0017
+    21300542: Snail_Idle_60.0018
+    21300544: Snail_Idle_60.0019
+    21300546: Snail_Idle_60.0020
+    21300548: Snail_Idle_60.0021
+    21300550: Snail_Idle_60.0022
+    21300552: Snail_Idle_60.0023
+    21300554: Snail_Idle_60.0024
+    21300556: Snail_Idle_60.0025
+    21300558: Snail_Idle_60.0026
+    21300560: Snail_Idle_60.0027
+    21300562: Snail_Idle_60.0028
+    21300564: Snail_Idle_60.0029
+    21300566: Snail_Idle_60.0030
+    21300568: Snail_Idle_60.0031
+    21300570: Snail_Idle_60.0032
+    21300572: Snail_Idle_60.0033
+    21300574: Snail_Idle_60.0034
+    21300576: Snail_Idle_60.0035
+    21300578: Snail_Idle_60.0036
+    21300580: Snail_Idle_60.0037
+    21300582: Snail_Idle_60.0038
+    21300584: Snail_Idle_60.0039
+    21300586: Snail_Idle_60.0040
+    21300588: Snail_Idle_60.0041
+    21300590: Snail_Idle_60.0042
+    21300592: Snail_Idle_60.0043
+    21300594: Snail_Idle_60.0044
+    21300596: Snail_Idle_60.0045
+    21300598: Snail_Idle_60.0046
+    21300600: Snail_Idle_60.0047
+    21300602: Snail_Idle_60.0048
+    21300604: Snail_Idle_60.0049
+    21300606: Snail_Idle_60.0050
+    21300608: Snail_Idle_60.0051
+    21300610: Snail_Idle_60.0052
+    21300612: Snail_Idle_60.0053
+    21300614: Snail_Idle_60.0054
+    21300616: Snail_Idle_60.0055
+    21300618: Snail_Idle_60.0056
+    21300620: Snail_Idle_60.0057
+    21300622: Snail_Idle_60.0058
+    21300624: Snail_Idle_60.0059
+    21300626: Snail_Idle_60.0060
+    21300628: Snail_Idle_60.0061
+    21300630: Snail_Idle_60.0062
+    21300632: Snail_Idle_60.0063
+    21300634: Snail_Idle_60.0064
+    21300636: Snail_Idle_60.0065
+    21300638: Snail_Idle_60.0066
+    21300640: Snail_Idle_60.0067
+    21300642: Snail_Idle_60.0068
+    21300644: Snail_Idle_60.0069
+    21300646: Snail_Idle_60.0070
+    21300648: Snail_Idle_60.0071
+    21300650: Snail_Idle_60.0072
+    21300652: Snail_Idle_60.0073
+    21300654: Snail_Idle_60.0074
+    21300656: Snail_Idle_60.0075
+    21300658: Snail_Idle_60.0076
+    21300660: Snail_Idle_60.0077
+    21300662: Snail_Idle_60.0078
+    21300664: Snail_Idle_60.0079
+    21300666: Snail_Idle_60.0080
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 550
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Snail_Attack_60.0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3774
+        width: 515
+        height: 320
+      alignment: 9
+      pivot: {x: .510679603, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0003
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3774
+        width: 515
+        height: 320
+      alignment: 9
+      pivot: {x: .510679603, y: .359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0005
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3773
+        width: 515
+        height: 321
+      alignment: 9
+      pivot: {x: .510679603, y: .355140179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0007
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 3769
+        width: 514
+        height: 325
+      alignment: 9
+      pivot: {x: .511673152, y: .350769222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0009
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3765
+        width: 511
+        height: 329
+      alignment: 9
+      pivot: {x: .514677107, y: .346504569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0011
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 3762
+        width: 506
+        height: 332
+      alignment: 9
+      pivot: {x: .517786562, y: .340361446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0013
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 3758
+        width: 499
+        height: 336
+      alignment: 9
+      pivot: {x: .525050104, y: .336309522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0015
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 3754
+        width: 491
+        height: 340
+      alignment: 9
+      pivot: {x: .531568229, y: .332352936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0017
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3409
+        width: 482
+        height: 343
+      alignment: 9
+      pivot: {x: .539419115, y: .329446077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0019
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3406
+        width: 474
+        height: 346
+      alignment: 9
+      pivot: {x: .546413481, y: .326589584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0021
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3405
+        width: 468
+        height: 347
+      alignment: 9
+      pivot: {x: .551282048, y: .325648427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0023
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 3405
+        width: 467
+        height: 347
+      alignment: 9
+      pivot: {x: .552462518, y: .325648427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0025
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 3409
+        width: 471
+        height: 343
+      alignment: 9
+      pivot: {x: .549893856, y: .329446077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0027
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3417
+        width: 476
+        height: 335
+      alignment: 9
+      pivot: {x: .546218514, y: .337313443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0029
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 3427
+        width: 479
+        height: 325
+      alignment: 9
+      pivot: {x: .544885159, y: .347692311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0031
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 3437
+        width: 486
+        height: 315
+      alignment: 9
+      pivot: {x: .539094627, y: .358730167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0033
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3094
+        width: 501
+        height: 309
+      alignment: 9
+      pivot: {x: .524950087, y: .365695804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0035
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3100
+        width: 533
+        height: 303
+      alignment: 9
+      pivot: {x: .500938058, y: .372937292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0037
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 3104
+        width: 561
+        height: 299
+      alignment: 9
+      pivot: {x: .488413543, y: .381270915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0039
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 3107
+        width: 568
+        height: 296
+      alignment: 9
+      pivot: {x: .491197169, y: .388513505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0041
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 3107
+        width: 566
+        height: 296
+      alignment: 9
+      pivot: {x: .496466428, y: .391891897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0043
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 3107
+        width: 565
+        height: 296
+      alignment: 9
+      pivot: {x: .49734512, y: .391891897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0045
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 3105
+        width: 563
+        height: 298
+      alignment: 9
+      pivot: {x: .497335702, y: .392617464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0047
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2791
+        width: 561
+        height: 301
+      alignment: 9
+      pivot: {x: .497326195, y: .398671091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0049
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2788
+        width: 575
+        height: 304
+      alignment: 9
+      pivot: {x: .483478248, y: .398026317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0051
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2785
+        width: 614
+        height: 307
+      alignment: 9
+      pivot: {x: .449511409, y: .400651455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0053
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2783
+        width: 636
+        height: 309
+      alignment: 9
+      pivot: {x: .430817604, y: .4012945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0055
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2781
+        width: 640
+        height: 311
+      alignment: 9
+      pivot: {x: .423437506, y: .398713827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0057
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 2779
+        width: 635
+        height: 313
+      alignment: 9
+      pivot: {x: .423622042, y: .396166146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0059
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2463
+        width: 628
+        height: 314
+      alignment: 9
+      pivot: {x: .423566878, y: .391719759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0061
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2461
+        width: 621
+        height: 316
+      alignment: 9
+      pivot: {x: .423510462, y: .389240503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0063
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 2461
+        width: 616
+        height: 316
+      alignment: 9
+      pivot: {x: .426948041, y: .386075944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0065
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 2460
+        width: 609
+        height: 317
+      alignment: 9
+      pivot: {x: .4318555, y: .381703466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0067
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 2459
+        width: 599
+        height: 318
+      alignment: 9
+      pivot: {x: .439065099, y: .377358496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0069
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 2459
+        width: 587
+        height: 318
+      alignment: 9
+      pivot: {x: .448040873, y: .374213845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0071
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2138
+        width: 570
+        height: 319
+      alignment: 9
+      pivot: {x: .461403519, y: .369905949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0073
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2138
+        width: 553
+        height: 319
+      alignment: 9
+      pivot: {x: .475587696, y: .366771162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0075
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2137
+        width: 535
+        height: 320
+      alignment: 9
+      pivot: {x: .491588771, y: .365624994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0077
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2137
+        width: 521
+        height: 320
+      alignment: 9
+      pivot: {x: .504798472, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Attack_60.0079
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 2137
+        width: 516
+        height: 320
+      alignment: 9
+      pivot: {x: .509689927, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0001
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 2137
+        width: 515
+        height: 320
+      alignment: 9
+      pivot: {x: .510679603, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0003
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2137
+        width: 515
+        height: 320
+      alignment: 9
+      pivot: {x: .510679603, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1815
+        width: 514
+        height: 320
+      alignment: 9
+      pivot: {x: .511673152, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0007
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1815
+        width: 513
+        height: 320
+      alignment: 9
+      pivot: {x: .512670577, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0009
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1815
+        width: 511
+        height: 320
+      alignment: 9
+      pivot: {x: .512720168, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0011
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1816
+        width: 508
+        height: 319
+      alignment: 9
+      pivot: {x: .513779521, y: .363636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0013
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1816
+        width: 506
+        height: 319
+      alignment: 9
+      pivot: {x: .515810251, y: .363636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0015
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1816
+        width: 504
+        height: 319
+      alignment: 9
+      pivot: {x: .515873015, y: .363636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0017
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 1817
+        width: 502
+        height: 318
+      alignment: 9
+      pivot: {x: .515936255, y: .36477986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0019
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 1817
+        width: 500
+        height: 318
+      alignment: 9
+      pivot: {x: .515999973, y: .36477986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0021
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1496
+        width: 498
+        height: 317
+      alignment: 9
+      pivot: {x: .516064286, y: .365930587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0023
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1496
+        width: 495
+        height: 317
+      alignment: 9
+      pivot: {x: .517171741, y: .365930587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0025
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1497
+        width: 493
+        height: 316
+      alignment: 9
+      pivot: {x: .519269764, y: .367088616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0027
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1497
+        width: 489
+        height: 316
+      alignment: 9
+      pivot: {x: .521472394, y: .367088616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0029
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1497
+        width: 484
+        height: 316
+      alignment: 9
+      pivot: {x: .524793386, y: .367088616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0031
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1497
+        width: 481
+        height: 316
+      alignment: 9
+      pivot: {x: .528066516, y: .367088616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0033
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 1498
+        width: 479
+        height: 315
+      alignment: 9
+      pivot: {x: .528183699, y: .368253976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0035
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1498
+        width: 478
+        height: 315
+      alignment: 9
+      pivot: {x: .529288709, y: .368253976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0037
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1179
+        width: 478
+        height: 315
+      alignment: 9
+      pivot: {x: .529288709, y: .368253976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0039
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1179
+        width: 479
+        height: 315
+      alignment: 9
+      pivot: {x: .528183699, y: .368253976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0041
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1179
+        width: 480
+        height: 315
+      alignment: 9
+      pivot: {x: .529166639, y: .368253976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0043
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1178
+        width: 481
+        height: 316
+      alignment: 9
+      pivot: {x: .528066516, y: .367088616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0045
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1178
+        width: 482
+        height: 316
+      alignment: 9
+      pivot: {x: .526970983, y: .367088616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0047
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1178
+        width: 484
+        height: 316
+      alignment: 9
+      pivot: {x: .526859522, y: .367088616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0049
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 1178
+        width: 486
+        height: 316
+      alignment: 9
+      pivot: {x: .524691343, y: .367088616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0051
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1177
+        width: 488
+        height: 317
+      alignment: 9
+      pivot: {x: .524590135, y: .365930587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0053
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 858
+        width: 490
+        height: 317
+      alignment: 9
+      pivot: {x: .522448957, y: .365930587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0055
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 858
+        width: 493
+        height: 317
+      alignment: 9
+      pivot: {x: .52129817, y: .365930587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0057
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 857
+        width: 495
+        height: 318
+      alignment: 9
+      pivot: {x: .521212101, y: .36477986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0059
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 857
+        width: 497
+        height: 318
+      alignment: 9
+      pivot: {x: .519114673, y: .36477986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0061
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 857
+        width: 500
+        height: 318
+      alignment: 9
+      pivot: {x: .518000007, y: .36477986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0063
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 856
+        width: 503
+        height: 319
+      alignment: 9
+      pivot: {x: .516898632, y: .363636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0065
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 856
+        width: 505
+        height: 319
+      alignment: 9
+      pivot: {x: .516831696, y: .363636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0067
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 856
+        width: 507
+        height: 319
+      alignment: 9
+      pivot: {x: .514792919, y: .363636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0069
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 534
+        width: 510
+        height: 320
+      alignment: 9
+      pivot: {x: .513725519, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0071
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 534
+        width: 511
+        height: 320
+      alignment: 9
+      pivot: {x: .512720168, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0073
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 534
+        width: 512
+        height: 320
+      alignment: 9
+      pivot: {x: .51171875, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0075
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 534
+        width: 514
+        height: 320
+      alignment: 9
+      pivot: {x: .511673152, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0077
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 534
+        width: 515
+        height: 320
+      alignment: 9
+      pivot: {x: .510679603, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Snail_Idle_60.0079
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 534
+        width: 515
+        height: 320
+      alignment: 9
+      pivot: {x: .510679603, y: .362500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

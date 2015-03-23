@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5d71b17d06585174d89f831e11cc2cd8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bubbleTexture: {fileID: 2800000, guid: 7112cee90f3b05542bbeba447cc7c690, type: 3}
+  - angelFishTexture: {fileID: 2800000, guid: 8241d0522ccb0084baf35daafd82e3c0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
