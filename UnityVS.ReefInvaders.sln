@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ReefInvaders.CSharp", "UnityVS.ReefInvaders.CSharp.csproj", "{5D093BBE-3FC6-C345-DA59-AF40C3FBDC11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ReefInvaders.CSharp.Editor", "UnityVS.ReefInvaders.CSharp.Editor.csproj", "{90AB95A5-6B68-413B-9A09-DA00D43DE0C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D093BBE-3FC6-C345-DA59-AF40C3FBDC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D093BBE-3FC6-C345-DA59-AF40C3FBDC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D093BBE-3FC6-C345-DA59-AF40C3FBDC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D093BBE-3FC6-C345-DA59-AF40C3FBDC11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90AB95A5-6B68-413B-9A09-DA00D43DE0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AB95A5-6B68-413B-9A09-DA00D43DE0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AB95A5-6B68-413B-9A09-DA00D43DE0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AB95A5-6B68-413B-9A09-DA00D43DE0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
