@@ -1,0 +1,11 @@
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\obj\Debug\UnityVS.03_16_2015_LionFishBuildv8.1.CSharp.csprojResolveAssemblyReference.cache
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\obj\Debug\Assembly-CSharp.dll
+D:\Unity\Unity Projects\GS3\03_16_2015_LionFishBuildv8.1\obj\Debug\Assembly-CSharp.pdb
