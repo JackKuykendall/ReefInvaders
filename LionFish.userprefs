@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ChestScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ChestScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyMovementAndAttacking.cs" Line="152" Column="15" />
+      <File FileName="Assets\Scripts\CooldownTimerScripts.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OctopusSlow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProjectileSlow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UnitStatScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelSelectScript\LevelSelectScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemySpawn.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

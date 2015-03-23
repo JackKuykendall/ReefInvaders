@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: feb37c6fc862a9c46862e3e3dd2b8417
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Grouper_Idle0001
+    21300002: Grouper_Idle0002
+    21300004: Grouper_Idle0003
+    21300006: Grouper_Idle0004
+    21300008: Grouper_Idle0005
+    21300010: Grouper_Idle0006
+    21300012: Grouper_Idle0007
+    21300014: Grouper_Idle0008
+    21300016: Grouper_Idle0009
+    21300018: Grouper_Idle0010
+    21300020: Grouper_Idle0011
+    21300022: Grouper_Idle0012
+    21300024: Grouper_Idle0013
+    21300026: Grouper_Idle0014
+    21300028: Grouper_Idle0015
+    21300030: Grouper_Idle0016
+    21300032: Grouper_Idle0017
+    21300034: Grouper_Idle0018
+    21300036: Grouper_Idle0019
+    21300038: Grouper_Idle0020
+    21300040: Grouper_Idle0021
+    21300042: Grouper_Idle0022
+    21300044: Grouper_Idle0023
+    21300046: Grouper_Idle0024
+    21300048: Grouper_Idle0025
+    21300050: Grouper_Idle0026
+    21300052: Grouper_Idle0027
+    21300054: Grouper_Idle0028
+    21300056: Grouper_Idle0029
+    21300058: Grouper_Idle0030
+    21300060: Grouper_Idle0031
+    21300062: Grouper_Idle0032
+    21300064: Grouper_Idle0033
+    21300066: Grouper_Idle0034
+    21300068: Grouper_Idle0035
+    21300070: Grouper_Idle0036
+    21300072: Grouper_Idle0037
+    21300074: Grouper_Idle0038
+    21300076: Grouper_Idle0039
+    21300078: Grouper_Idle0040
+    21300080: Grouper_Idle0041
+    21300082: Grouper_Idle0042
+    21300084: Grouper_Idle0043
+    21300086: Grouper_Idle0044
+    21300088: Grouper_Idle0045
+    21300090: Grouper_Idle0046
+    21300092: Grouper_Idle0047
+    21300094: Grouper_Idle0048
+    21300096: Grouper_Idle0049
+    21300098: Grouper_Idle0050
+    21300100: Grouper_Idle0051
+    21300102: Grouper_Idle0052
+    21300104: Grouper_Idle0053
+    21300106: Grouper_Idle0054
+    21300108: Grouper_Idle0055
+    21300110: Grouper_Idle0056
+    21300112: Grouper_Idle0057
+    21300114: Grouper_Idle0058
+    21300116: Grouper_Idle0059
+    21300118: Grouper_Idle0060
+    21300120: Grouper_Idle0061
+    21300122: Grouper_Idle0062
+    21300124: Grouper_Idle0063
+    21300126: Grouper_Idle0064
+    21300128: Grouper_Idle0065
+    21300130: Grouper_Idle0066
+    21300132: Grouper_Idle0067
+    21300134: Grouper_Idle0068
+    21300136: Grouper_Idle0069
+    21300138: Grouper_Idle0070
+    21300140: Grouper_Idle0071
+    21300142: Grouper_Idle0072
+    21300144: Grouper_Idle0073
+    21300146: Grouper_Idle0074
+    21300148: Grouper_Idle0075
+    21300150: Grouper_Idle0076
+    21300152: Grouper_Idle0077
+    21300154: Grouper_Idle0078
+    21300156: Grouper_Idle0079
+    21300158: Grouper_Idle0080
+    21300160: Grouper_Idle0081
+    21300162: Grouper_Idle0082
+    21300164: Grouper_Idle0083
+    21300166: Grouper_Idle0084
+    21300168: Grouper_Idle0085
+    21300170: Grouper_Idle0086
+    21300172: Grouper_Idle0087
+    21300174: Grouper_Idle0088
+    21300176: Grouper_Idle0089
+    21300178: Grouper_Idle0090
+    21300180: Grouper_Idle0091
+    21300182: Grouper_Idle0092
+    21300184: Grouper_Idle0093
+    21300186: Grouper_Idle0094
+    21300188: Grouper_Idle0095
+    21300190: Grouper_Rig_Final_Attack2.0001
+    21300192: Grouper_Rig_Final_Attack2.0002
+    21300194: Grouper_Rig_Final_Attack2.0003
+    21300196: Grouper_Rig_Final_Attack2.0004
+    21300198: Grouper_Rig_Final_Attack2.0005
+    21300200: Grouper_Rig_Final_Attack2.0006
+    21300202: Grouper_Rig_Final_Attack2.0007
+    21300204: Grouper_Rig_Final_Attack2.0008
+    21300206: Grouper_Rig_Final_Attack2.0009
+    21300208: Grouper_Rig_Final_Attack2.0010
+    21300210: Grouper_Rig_Final_Attack2.0011
+    21300212: Grouper_Rig_Final_Attack2.0012
+    21300214: Grouper_Rig_Final_Attack2.0013
+    21300216: Grouper_Rig_Final_Attack2.0014
+    21300218: Grouper_Rig_Final_Attack2.0015
+    21300220: Grouper_Rig_Final_Attack2.0016
+    21300222: Grouper_Rig_Final_Attack2.0017
+    21300224: Grouper_Rig_Final_Attack2.0018
+    21300226: Grouper_Rig_Final_Attack2.0019
+    21300228: Grouper_Rig_Final_Attack2.0020
+    21300230: Grouper_Rig_Final_Attack2.0021
+    21300232: Grouper_Rig_Final_Attack2.0022
+    21300234: Grouper_Rig_Final_Attack2.0023
+    21300236: Grouper_Rig_Final_Attack2.0024
+    21300238: Grouper_Rig_Final_Attack2.0025
+    21300240: Grouper_Rig_Final_Attack2.0026
+    21300242: Grouper_Rig_Final_Attack2.0027
+    21300244: Grouper_Rig_Final_Attack2.0028
+    21300246: Grouper_Rig_Final_Attack2.0029
+    21300248: Grouper_Rig_Final_Attack2.0030
+    21300250: Grouper_Rig_Final_Attack2.0031
+    21300252: Grouper_Rig_Final_Attack2.0032
+    21300254: Grouper_Rig_Final_Attack2.0033
+    21300256: Grouper_Rig_Final_Attack2.0034
+    21300258: Grouper_Rig_Final_Attack2.0035
+    21300260: Grouper_Rig_Final_Attack2.0036
+    21300262: Grouper_Rig_Final_Attack2.0037
+    21300264: Grouper_Rig_Final_Swim.0001
+    21300266: Grouper_Rig_Final_Swim.0002
+    21300268: Grouper_Rig_Final_Swim.0003
+    21300270: Grouper_Rig_Final_Swim.0004
+    21300272: Grouper_Rig_Final_Swim.0005
+    21300274: Grouper_Rig_Final_Swim.0006
+    21300276: Grouper_Rig_Final_Swim.0007
+    21300278: Grouper_Rig_Final_Swim.0008
+    21300280: Grouper_Rig_Final_Swim.0009
+    21300282: Grouper_Rig_Final_Swim.0010
+    21300284: Grouper_Rig_Final_Swim.0011
+    21300286: Grouper_Rig_Final_Swim.0012
+    21300288: Grouper_Rig_Final_Swim.0013
+    21300290: Grouper_Rig_Final_Swim.0014
+    21300292: Grouper_Rig_Final_Swim.0015
+    21300294: Grouper_Rig_Final_Swim.0016
+    21300296: Grouper_Rig_Final_Swim.0017
+    21300298: Grouper_Rig_Final_Swim.0018
+    21300300: Grouper_Rig_Final_Swim.0019
+    21300302: Grouper_Rig_Final_Swim.0020
+    21300304: Grouper_Rig_Final_Swim.0021
+    21300306: Grouper_Rig_Final_Swim.0022
+    21300308: Grouper_Rig_Final_Swim.0023
+    21300310: Grouper_Rig_Final_Swim.0024
+    21300312: Grouper_Rig_Final_Swim.0025
+    21300314: Grouper_Rig_Final_Swim.0026
+    21300316: Grouper_Rig_Final_Swim.0027
+    21300318: Grouper_Rig_Final_Swim.0028
+    21300320: Grouper_Rig_Final_Swim.0029
+    21300322: Grouper_Rig_Final_Swim.0030
+    21300324: Grouper_Rig_Final_Swim.0031
+    21300326: Grouper_Rig_Final_Swim.0032
+    21300328: Grouper_Rig_Final_Swim.0033
+    21300330: Grouper_Rig_Final_Swim.0034
+    21300332: Grouper_Rig_Final_Swim.0035
+    21300334: Grouper_Rig_Final_Swim.0036
+    21300336: Grouper_Rig_Final_Swim.0037
+    21300338: Grouper_Rig_Final_Swim.0038
+    21300340: Grouper_Rig_Final_Swim.0039
+    21300342: Grouper_Rig_Final_Swim.0040
+    21300344: Grouper_Rig_Final_Swim.0041
+    21300346: Grouper_Rig_Final_Swim.0042
+    21300348: Grouper_Rig_Final_Swim.0043
+    21300350: Grouper_Rig_Final_Swim.0044
+    21300352: Grouper_Rig_Final_Swim.0045
+    21300354: Grouper_Rig_Final_Swim.0046
+    21300356: Grouper_Rig_Final_Swim.0047
+    21300358: Grouper_Attack.0001
+    21300360: Grouper_Attack.0002
+    21300362: Grouper_Attack.0003
+    21300364: Grouper_Attack.0004
+    21300366: Grouper_Attack.0005
+    21300368: Grouper_Attack.0006
+    21300370: Grouper_Attack.0007
+    21300372: Grouper_Attack.0008
+    21300374: Grouper_Attack.0009
+    21300376: Grouper_Attack.0010
+    21300378: Grouper_Attack.0011
+    21300380: Grouper_Attack.0012
+    21300382: Grouper_Attack.0013
+    21300384: Grouper_Attack.0014
+    21300386: Grouper_Attack.0015
+    21300388: Grouper_Attack.0016
+    21300390: Grouper_Attack.0017
+    21300392: Grouper_Attack.0018
+    21300394: Grouper_Attack.0019
+    21300396: Grouper_Attack.0020
+    21300398: Grouper_Attack.0021
+    21300400: Grouper_Attack.0022
+    21300402: Grouper_Attack.0023
+    21300404: Grouper_Attack.0024
+    21300406: Grouper_Attack.0025
+    21300408: Grouper_Attack.0026
+    21300410: Grouper_Attack.0027
+    21300412: Grouper_Attack.0028
+    21300414: Grouper_Attack.0029
+    21300416: Grouper_Attack.0030
+    21300418: Grouper_Attack.0031
+    21300420: Grouper_Attack.0032
+    21300422: Grouper_Attack.0033
+    21300424: Grouper_Attack.0034
+    21300426: Grouper_Attack.0035
+    21300428: Grouper_Attack.0036
+    21300430: Grouper_Attack.0037
+    21300432: Grouper_Attack.0038
+    21300434: Grouper_Attack.0039
+    21300436: Grouper_Attack.0040
+    21300438: Grouper_Attack.0041
+    21300440: Grouper_Attack.0042
+    21300442: Grouper_Attack.0043
+    21300444: Grouper_Attack.0044
+    21300446: Grouper_Attack.0045
+    21300448: Grouper_Attack.0046
+    21300450: Grouper_Attack.0047
+    21300452: Grouper_Attack.0048
+    21300454: Grouper_Attack.0049
+    21300456: Grouper_Attack.0050
+    21300458: Grouper_Attack.0051
+    21300460: Grouper_Attack.0052
+    21300462: Grouper_Attack.0053
+    21300464: Grouper_Attack.0054
+    21300466: Grouper_Attack.0055
+    21300468: Grouper_Attack.0056
+    21300470: Grouper_Attack.0057
+    21300472: Grouper_Attack.0058
+    21300474: Grouper_Attack.0059
+    21300476: Grouper_Attack.0060
+    21300478: Grouper_Attack.0061
+    21300480: Grouper_Attack.0062
+    21300482: Grouper_Attack.0063
+    21300484: Grouper_Attack.0064
+    21300486: Grouper_Attack.0065
+    21300488: Grouper_Attack.0066
+    21300490: Grouper_Attack.0067
+    21300492: Grouper_Attack.0068
+    21300494: Grouper_Attack.0069
+    21300496: Grouper_Attack.0070
+    21300498: Grouper_Attack.0071
+    21300500: Grouper_Attack.0072
+    21300502: Grouper_Attack.0073
+    21300504: Grouper_Attack.0074
+    21300506: Grouper_Attack.0075
+    21300508: Grouper_Attack.0076
+    21300510: Grouper_Attack.0077
+    21300512: Grouper_Attack.0078
+    21300514: Grouper_Attack.0079
+    21300516: Grouper_Attack.0080
+    21300518: Grouper_Idle.0001
+    21300520: Grouper_Idle.0002
+    21300522: Grouper_Idle.0003
+    21300524: Grouper_Idle.0004
+    21300526: Grouper_Idle.0005
+    21300528: Grouper_Idle.0006
+    21300530: Grouper_Idle.0007
+    21300532: Grouper_Idle.0008
+    21300534: Grouper_Idle.0009
+    21300536: Grouper_Idle.0010
+    21300538: Grouper_Idle.0011
+    21300540: Grouper_Idle.0012
+    21300542: Grouper_Idle.0013
+    21300544: Grouper_Idle.0014
+    21300546: Grouper_Idle.0015
+    21300548: Grouper_Idle.0016
+    21300550: Grouper_Idle.0017
+    21300552: Grouper_Idle.0018
+    21300554: Grouper_Idle.0019
+    21300556: Grouper_Idle.0020
+    21300558: Grouper_Idle.0021
+    21300560: Grouper_Idle.0022
+    21300562: Grouper_Idle.0023
+    21300564: Grouper_Idle.0024
+    21300566: Grouper_Idle.0025
+    21300568: Grouper_Idle.0026
+    21300570: Grouper_Idle.0027
+    21300572: Grouper_Idle.0028
+    21300574: Grouper_Idle.0029
+    21300576: Grouper_Idle.0030
+    21300578: Grouper_Idle.0031
+    21300580: Grouper_Idle.0032
+    21300582: Grouper_Idle.0033
+    21300584: Grouper_Idle.0034
+    21300586: Grouper_Idle.0035
+    21300588: Grouper_Idle.0036
+    21300590: Grouper_Idle.0037
+    21300592: Grouper_Idle.0038
+    21300594: Grouper_Idle.0039
+    21300596: Grouper_Idle.0040
+    21300598: Grouper_Idle.0041
+    21300600: Grouper_Idle.0042
+    21300602: Grouper_Idle.0043
+    21300604: Grouper_Idle.0044
+    21300606: Grouper_Idle.0045
+    21300608: Grouper_Idle.0046
+    21300610: Grouper_Idle.0047
+    21300612: Grouper_Idle.0048
+    21300614: Grouper_Idle.0049
+    21300616: Grouper_Idle.0050
+    21300618: Grouper_Idle.0051
+    21300620: Grouper_Idle.0052
+    21300622: Grouper_Idle.0053
+    21300624: Grouper_Idle.0054
+    21300626: Grouper_Idle.0055
+    21300628: Grouper_Idle.0056
+    21300630: Grouper_Idle.0057
+    21300632: Grouper_Idle.0058
+    21300634: Grouper_Idle.0059
+    21300636: Grouper_Idle.0060
+    21300638: Grouper_Idle.0061
+    21300640: Grouper_Idle.0062
+    21300642: Grouper_Idle.0063
+    21300644: Grouper_Idle.0064
+    21300646: Grouper_Idle.0065
+    21300648: Grouper_Idle.0066
+    21300650: Grouper_Idle.0067
+    21300652: Grouper_Idle.0068
+    21300654: Grouper_Idle.0069
+    21300656: Grouper_Idle.0070
+    21300658: Grouper_Idle.0071
+    21300660: Grouper_Idle.0072
+    21300662: Grouper_Idle.0073
+    21300664: Grouper_Idle.0074
+    21300666: Grouper_Idle.0075
+    21300668: Grouper_Idle.0076
+    21300670: Grouper_Idle.0077
+    21300672: Grouper_Idle.0078
+    21300674: Grouper_Idle.0079
+    21300676: Grouper_Idle.0080
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 510
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Grouper_Attack.0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3849
+        width: 539
+        height: 245
+      alignment: 9
+      pivot: {x: .597402573, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0003
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3849
+        width: 539
+        height: 245
+      alignment: 9
+      pivot: {x: .597402573, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0005
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3849
+        width: 540
+        height: 245
+      alignment: 9
+      pivot: {x: .59629631, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0007
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 3849
+        width: 540
+        height: 245
+      alignment: 9
+      pivot: {x: .59629631, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0009
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3850
+        width: 540
+        height: 244
+      alignment: 9
+      pivot: {x: .59629631, y: .454918027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0011
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 3851
+        width: 540
+        height: 243
+      alignment: 9
+      pivot: {x: .59629631, y: .452674896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0013
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 3851
+        width: 539
+        height: 243
+      alignment: 9
+      pivot: {x: .597402573, y: .452674896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0015
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3606
+        width: 539
+        height: 241
+      alignment: 9
+      pivot: {x: .599257886, y: .452282161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0017
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3607
+        width: 537
+        height: 240
+      alignment: 9
+      pivot: {x: .601489782, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0019
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 3608
+        width: 535
+        height: 239
+      alignment: 9
+      pivot: {x: .603738308, y: .447698742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0021
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 3608
+        width: 534
+        height: 239
+      alignment: 9
+      pivot: {x: .604868889, y: .447698742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0023
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 3610
+        width: 534
+        height: 237
+      alignment: 9
+      pivot: {x: .604868889, y: .44725737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0025
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 3611
+        width: 533
+        height: 236
+      alignment: 9
+      pivot: {x: .606003761, y: .444915265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0027
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 3612
+        width: 531
+        height: 235
+      alignment: 9
+      pivot: {x: .606402993, y: .442553192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0029
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3370
+        width: 531
+        height: 234
+      alignment: 9
+      pivot: {x: .606402993, y: .440170944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0031
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3370
+        width: 530
+        height: 234
+      alignment: 9
+      pivot: {x: .607547164, y: .440170944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0033
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 3371
+        width: 530
+        height: 233
+      alignment: 9
+      pivot: {x: .607547164, y: .437768251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0035
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 3371
+        width: 529
+        height: 233
+      alignment: 9
+      pivot: {x: .608695626, y: .437768251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0037
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3371
+        width: 529
+        height: 233
+      alignment: 9
+      pivot: {x: .608695626, y: .437768251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0039
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 3371
+        width: 530
+        height: 233
+      alignment: 9
+      pivot: {x: .609433949, y: .437768251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0041
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 3370
+        width: 532
+        height: 234
+      alignment: 9
+      pivot: {x: .609022558, y: .440170944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0043
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3129
+        width: 536
+        height: 239
+      alignment: 9
+      pivot: {x: .608208954, y: .447698742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0045
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3123
+        width: 541
+        height: 245
+      alignment: 9
+      pivot: {x: .604436219, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0047
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 3123
+        width: 533
+        height: 245
+      alignment: 9
+      pivot: {x: .607879937, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0049
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 3125
+        width: 523
+        height: 243
+      alignment: 9
+      pivot: {x: .617590845, y: .452674896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0051
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 3127
+        width: 521
+        height: 241
+      alignment: 9
+      pivot: {x: .619961619, y: .452282161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0053
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 3127
+        width: 523
+        height: 241
+      alignment: 9
+      pivot: {x: .6214149, y: .452282161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0055
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 3126
+        width: 526
+        height: 242
+      alignment: 9
+      pivot: {x: .619771838, y: .450413227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0057
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2878
+        width: 532
+        height: 243
+      alignment: 9
+      pivot: {x: .616541326, y: .452674896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0059
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2878
+        width: 538
+        height: 243
+      alignment: 9
+      pivot: {x: .613382876, y: .452674896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0061
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2877
+        width: 542
+        height: 244
+      alignment: 9
+      pivot: {x: .610701084, y: .450819671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0063
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2876
+        width: 542
+        height: 245
+      alignment: 9
+      pivot: {x: .60701108, y: .448979586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0065
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2876
+        width: 544
+        height: 245
+      alignment: 9
+      pivot: {x: .604779422, y: .448979586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0067
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2876
+        width: 544
+        height: 245
+      alignment: 9
+      pivot: {x: .602941155, y: .448979586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0069
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 2876
+        width: 544
+        height: 245
+      alignment: 9
+      pivot: {x: .601102948, y: .448979586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0071
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2628
+        width: 544
+        height: 246
+      alignment: 9
+      pivot: {x: .599264681, y: .451219499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0073
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2628
+        width: 544
+        height: 246
+      alignment: 9
+      pivot: {x: .599264681, y: .451219499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0075
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2629
+        width: 543
+        height: 245
+      alignment: 9
+      pivot: {x: .598526716, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0077
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 2629
+        width: 542
+        height: 245
+      alignment: 9
+      pivot: {x: .59778595, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Attack.0079
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 2629
+        width: 539
+        height: 245
+      alignment: 9
+      pivot: {x: .597402573, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3849
+        width: 539
+        height: 245
+      alignment: 9
+      pivot: {x: .597402573, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0003
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 2629
+        width: 542
+        height: 245
+      alignment: 9
+      pivot: {x: .59778595, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0005
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 2629
+        width: 544
+        height: 245
+      alignment: 9
+      pivot: {x: .599264681, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2381
+        width: 547
+        height: 245
+      alignment: 9
+      pivot: {x: .599634349, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0009
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2381
+        width: 550
+        height: 245
+      alignment: 9
+      pivot: {x: .600000024, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0011
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2381
+        width: 552
+        height: 245
+      alignment: 9
+      pivot: {x: .599637687, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0013
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 2381
+        width: 553
+        height: 245
+      alignment: 9
+      pivot: {x: .600361645, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0015
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 2381
+        width: 554
+        height: 245
+      alignment: 9
+      pivot: {x: .599277973, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0017
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 2381
+        width: 554
+        height: 245
+      alignment: 9
+      pivot: {x: .599277973, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0019
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 2381
+        width: 554
+        height: 245
+      alignment: 9
+      pivot: {x: .599277973, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0021
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2134
+        width: 555
+        height: 245
+      alignment: 9
+      pivot: {x: .598198175, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0023
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2134
+        width: 555
+        height: 245
+      alignment: 9
+      pivot: {x: .598198175, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0025
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2134
+        width: 555
+        height: 245
+      alignment: 9
+      pivot: {x: .598198175, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0027
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 2134
+        width: 555
+        height: 245
+      alignment: 9
+      pivot: {x: .598198175, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0029
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2134
+        width: 553
+        height: 245
+      alignment: 9
+      pivot: {x: .59855336, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0031
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 2134
+        width: 552
+        height: 245
+      alignment: 9
+      pivot: {x: .597826064, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0033
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2134
+        width: 551
+        height: 245
+      alignment: 9
+      pivot: {x: .597096205, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0035
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1887
+        width: 548
+        height: 245
+      alignment: 9
+      pivot: {x: .596715331, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0037
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1887
+        width: 546
+        height: 245
+      alignment: 9
+      pivot: {x: .59523809, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0039
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1887
+        width: 543
+        height: 245
+      alignment: 9
+      pivot: {x: .594843447, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0041
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1887
+        width: 541
+        height: 245
+      alignment: 9
+      pivot: {x: .593345642, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0043
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 1887
+        width: 537
+        height: 245
+      alignment: 9
+      pivot: {x: .592178762, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0045
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 1887
+        width: 534
+        height: 245
+      alignment: 9
+      pivot: {x: .591760278, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0047
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1887
+        width: 530
+        height: 245
+      alignment: 9
+      pivot: {x: .588679254, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0049
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1640
+        width: 526
+        height: 245
+      alignment: 9
+      pivot: {x: .587452471, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0051
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1640
+        width: 522
+        height: 245
+      alignment: 9
+      pivot: {x: .586206913, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0053
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1640
+        width: 519
+        height: 245
+      alignment: 9
+      pivot: {x: .583815038, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0055
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1640
+        width: 516
+        height: 245
+      alignment: 9
+      pivot: {x: .583333313, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0057
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1640
+        width: 514
+        height: 245
+      alignment: 9
+      pivot: {x: .581712067, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0059
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1640
+        width: 512
+        height: 245
+      alignment: 9
+      pivot: {x: .58203125, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0061
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1640
+        width: 512
+        height: 245
+      alignment: 9
+      pivot: {x: .58203125, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0063
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1393
+        width: 513
+        height: 245
+      alignment: 9
+      pivot: {x: .582845986, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0065
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1393
+        width: 515
+        height: 245
+      alignment: 9
+      pivot: {x: .58446604, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0067
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1393
+        width: 518
+        height: 245
+      alignment: 9
+      pivot: {x: .584942102, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0069
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1393
+        width: 521
+        height: 245
+      alignment: 9
+      pivot: {x: .58733207, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0071
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1393
+        width: 525
+        height: 245
+      alignment: 9
+      pivot: {x: .590476215, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0073
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1393
+        width: 529
+        height: 245
+      alignment: 9
+      pivot: {x: .591682434, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0075
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1393
+        width: 532
+        height: 245
+      alignment: 9
+      pivot: {x: .593984962, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0077
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1146
+        width: 534
+        height: 245
+      alignment: 9
+      pivot: {x: .595505595, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grouper_Idle.0079
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1146
+        width: 538
+        height: 245
+      alignment: 9
+      pivot: {x: .596654296, y: .453061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

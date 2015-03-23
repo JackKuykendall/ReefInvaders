@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: f5d57e63d6b00084fa19c321bbea8a49
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Starfish_Attack.0001
+    21300002: Starfish_Attack.0002
+    21300004: Starfish_Attack.0003
+    21300006: Starfish_Attack.0004
+    21300008: Starfish_Attack.0005
+    21300010: Starfish_Attack.0006
+    21300012: Starfish_Attack.0007
+    21300014: Starfish_Attack.0008
+    21300016: Starfish_Attack.0009
+    21300018: Starfish_Attack.0010
+    21300020: Starfish_Attack.0011
+    21300022: Starfish_Attack.0012
+    21300024: Starfish_Attack.0013
+    21300026: Starfish_Attack.0014
+    21300028: Starfish_Attack.0015
+    21300030: Starfish_Attack.0016
+    21300032: Starfish_Attack.0017
+    21300034: Starfish_Attack.0018
+    21300036: Starfish_Attack.0019
+    21300038: Starfish_Attack.0020
+    21300040: Starfish_Attack.0021
+    21300042: Starfish_Attack.0022
+    21300044: Starfish_Attack.0023
+    21300046: Starfish_Attack.0024
+    21300048: Starfish_Attack.0025
+    21300050: Starfish_Attack.0026
+    21300052: Starfish_Attack.0027
+    21300054: Starfish_Attack.0028
+    21300056: Starfish_Attack.0029
+    21300058: Starfish_Attack.0030
+    21300060: Starfish_Attack.0031
+    21300062: Starfish_Attack.0032
+    21300064: Starfish_Attack.0033
+    21300066: Starfish_Attack.0034
+    21300068: Starfish_Attack.0035
+    21300070: Starfish_Attack.0036
+    21300072: Starfish_Attack.0037
+    21300074: Starfish_Attack.0038
+    21300076: Starfish_Attack.0039
+    21300078: Starfish_Attack.0040
+    21300080: Starfish_Attack.0041
+    21300082: Starfish_Attack.0042
+    21300084: Starfish_Attack.0043
+    21300086: Starfish_Attack.0044
+    21300088: Starfish_Attack.0045
+    21300090: Starfish_Attack.0046
+    21300092: Starfish_Attack.0047
+    21300094: Starfish_Attack.0048
+    21300096: Starfish_Attack.0049
+    21300098: Starfish_Attack.0050
+    21300100: Starfish_Attack.0051
+    21300102: Starfish_Attack.0052
+    21300104: Starfish_Attack.0053
+    21300106: Starfish_Attack.0054
+    21300108: Starfish_Attack.0055
+    21300110: Starfish_Attack.0056
+    21300112: Starfish_Attack.0057
+    21300114: Starfish_Attack.0058
+    21300116: Starfish_Attack.0059
+    21300118: Starfish_Attack.0060
+    21300120: Starfish_Attack.0061
+    21300122: Starfish_Attack.0062
+    21300124: Starfish_Attack.0063
+    21300126: Starfish_Attack.0064
+    21300128: Starfish_Attack.0065
+    21300130: Starfish_Attack.0066
+    21300132: Starfish_Attack.0067
+    21300134: Starfish_Attack.0068
+    21300136: Starfish_Attack.0069
+    21300138: Starfish_Attack.0070
+    21300140: Starfish_Attack.0071
+    21300142: Starfish_Attack.0072
+    21300144: Starfish_Attack.0073
+    21300146: Starfish_Attack.0074
+    21300148: Starfish_Attack.0075
+    21300150: Starfish_Attack.0076
+    21300152: Starfish_Attack.0077
+    21300154: Starfish_Attack.0078
+    21300156: Starfish_Attack.0079
+    21300158: Starfish_Attack.0080
+    21300160: Starfish_Idle.0001
+    21300162: Starfish_Idle.0002
+    21300164: Starfish_Idle.0003
+    21300166: Starfish_Idle.0004
+    21300168: Starfish_Idle.0005
+    21300170: Starfish_Idle.0006
+    21300172: Starfish_Idle.0007
+    21300174: Starfish_Idle.0008
+    21300176: Starfish_Idle.0009
+    21300178: Starfish_Idle.0010
+    21300180: Starfish_Idle.0011
+    21300182: Starfish_Idle.0012
+    21300184: Starfish_Idle.0013
+    21300186: Starfish_Idle.0014
+    21300188: Starfish_Idle.0015
+    21300190: Starfish_Idle.0016
+    21300192: Starfish_Idle.0017
+    21300194: Starfish_Idle.0018
+    21300196: Starfish_Idle.0019
+    21300198: Starfish_Idle.0020
+    21300200: Starfish_Idle.0021
+    21300202: Starfish_Idle.0022
+    21300204: Starfish_Idle.0023
+    21300206: Starfish_Idle.0024
+    21300208: Starfish_Idle.0025
+    21300210: Starfish_Idle.0026
+    21300212: Starfish_Idle.0027
+    21300214: Starfish_Idle.0028
+    21300216: Starfish_Idle.0029
+    21300218: Starfish_Idle.0030
+    21300220: Starfish_Idle.0031
+    21300222: Starfish_Idle.0032
+    21300224: Starfish_Idle.0033
+    21300226: Starfish_Idle.0034
+    21300228: Starfish_Idle.0035
+    21300230: Starfish_Idle.0036
+    21300232: Starfish_Idle.0037
+    21300234: Starfish_Idle.0038
+    21300236: Starfish_Idle.0039
+    21300238: Starfish_Idle.0040
+    21300240: Starfish_Idle.0041
+    21300242: Starfish_Idle.0042
+    21300244: Starfish_Idle.0043
+    21300246: Starfish_Idle.0044
+    21300248: Starfish_Idle.0045
+    21300250: Starfish_Idle.0046
+    21300252: Starfish_Idle.0047
+    21300254: Starfish_Idle.0048
+    21300256: Starfish_Idle.0049
+    21300258: Starfish_Idle.0050
+    21300260: Starfish_Idle.0051
+    21300262: Starfish_Idle.0052
+    21300264: Starfish_Idle.0053
+    21300266: Starfish_Idle.0054
+    21300268: Starfish_Idle.0055
+    21300270: Starfish_Idle.0056
+    21300272: Starfish_Idle.0057
+    21300274: Starfish_Idle.0058
+    21300276: Starfish_Idle.0059
+    21300278: Starfish_Idle.0060
+    21300280: Starfish_Idle.0061
+    21300282: Starfish_Idle.0062
+    21300284: Starfish_Idle.0063
+    21300286: Starfish_Idle.0064
+    21300288: Starfish_Idle.0065
+    21300290: Starfish_Idle.0066
+    21300292: Starfish_Idle.0067
+    21300294: Starfish_Idle.0068
+    21300296: Starfish_Idle.0069
+    21300298: Starfish_Idle.0070
+    21300300: Starfish_Idle.0071
+    21300302: Starfish_Idle.0072
+    21300304: Starfish_Idle.0073
+    21300306: Starfish_Idle.0074
+    21300308: Starfish_Idle.0075
+    21300310: Starfish_Idle.0076
+    21300312: Starfish_Idle.0077
+    21300314: Starfish_Idle.0078
+    21300316: Starfish_Idle.0079
+    21300318: Starfish_Idle.0080
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 425
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Starfish_Attack.0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3695
+        width: 397
+        height: 399
+      alignment: 9
+      pivot: {x: .496221662, y: .441102743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0003
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3692
+        width: 396
+        height: 402
+      alignment: 9
+      pivot: {x: .484848499, y: .445273638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0005
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3689
+        width: 394
+        height: 405
+      alignment: 9
+      pivot: {x: .472081214, y: .451851845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0007
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 3687
+        width: 388
+        height: 407
+      alignment: 9
+      pivot: {x: .456185579, y: .459459454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0009
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 3687
+        width: 382
+        height: 407
+      alignment: 9
+      pivot: {x: .437172771, y: .469287455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0011
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 3688
+        width: 373
+        height: 406
+      alignment: 9
+      pivot: {x: .415549606, y: .480295569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0013
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 3693
+        width: 373
+        height: 401
+      alignment: 9
+      pivot: {x: .407506704, y: .493765593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0015
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 3700
+        width: 378
+        height: 394
+      alignment: 9
+      pivot: {x: .412698418, y: .507614195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0017
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 3709
+        width: 381
+        height: 385
+      alignment: 9
+      pivot: {x: .414698154, y: .52467531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0019
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 3708
+        width: 383
+        height: 386
+      alignment: 9
+      pivot: {x: .417754561, y: .525906742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0021
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3292
+        width: 384
+        height: 393
+      alignment: 9
+      pivot: {x: .419270843, y: .516539454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0023
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3287
+        width: 383
+        height: 398
+      alignment: 9
+      pivot: {x: .420365542, y: .510050237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0025
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3285
+        width: 382
+        height: 400
+      alignment: 9
+      pivot: {x: .421465963, y: .504999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0027
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 3285
+        width: 380
+        height: 400
+      alignment: 9
+      pivot: {x: .421052635, y: .502499998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0029
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 3287
+        width: 378
+        height: 398
+      alignment: 9
+      pivot: {x: .420634925, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0031
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 3289
+        width: 377
+        height: 396
+      alignment: 9
+      pivot: {x: .419098139, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0033
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3289
+        width: 375
+        height: 396
+      alignment: 9
+      pivot: {x: .421333343, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0035
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 3293
+        width: 371
+        height: 392
+      alignment: 9
+      pivot: {x: .42318058, y: .502551019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0037
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 3301
+        width: 366
+        height: 384
+      alignment: 9
+      pivot: {x: .42349726, y: .505208313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0039
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 3317
+        width: 356
+        height: 368
+      alignment: 9
+      pivot: {x: .421348304, y: .513586938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0041
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2907
+        width: 350
+        height: 376
+      alignment: 9
+      pivot: {x: .439999998, y: .462765962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0043
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2872
+        width: 400
+        height: 411
+      alignment: 9
+      pivot: {x: .529999971, y: .476885647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0045
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2918
+        width: 393
+        height: 365
+      alignment: 9
+      pivot: {x: .55725193, y: .438356161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0047
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2890
+        width: 375
+        height: 393
+      alignment: 9
+      pivot: {x: .527999997, y: .440203547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0049
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2930
+        width: 344
+        height: 353
+      alignment: 9
+      pivot: {x: .540697694, y: .481586397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0051
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2943
+        width: 356
+        height: 340
+      alignment: 9
+      pivot: {x: .55898875, y: .447058827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0053
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2945
+        width: 351
+        height: 338
+      alignment: 9
+      pivot: {x: .598290622, y: .458579868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0055
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2953
+        width: 358
+        height: 330
+      alignment: 9
+      pivot: {x: .572625697, y: .5060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0057
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 2927
+        width: 367
+        height: 356
+      alignment: 9
+      pivot: {x: .550408721, y: .457865179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0059
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 2916
+        width: 381
+        height: 367
+      alignment: 9
+      pivot: {x: .580052495, y: .446866482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0061
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 2899
+        width: 366
+        height: 384
+      alignment: 9
+      pivot: {x: .609289646, y: .494791657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0063
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2486
+        width: 379
+        height: 384
+      alignment: 9
+      pivot: {x: .551451206, y: .520833313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0065
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2466
+        width: 368
+        height: 404
+      alignment: 9
+      pivot: {x: .502717376, y: .485148519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0067
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2468
+        width: 390
+        height: 402
+      alignment: 9
+      pivot: {x: .523076952, y: .455223888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0069
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2466
+        width: 394
+        height: 404
+      alignment: 9
+      pivot: {x: .538071036, y: .452970296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0071
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2458
+        width: 390
+        height: 412
+      alignment: 9
+      pivot: {x: .548717976, y: .468446612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0073
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2456
+        width: 385
+        height: 414
+      alignment: 9
+      pivot: {x: .550649345, y: .475845397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0075
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 2456
+        width: 386
+        height: 414
+      alignment: 9
+      pivot: {x: .544041455, y: .475845397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0077
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 2459
+        width: 391
+        height: 411
+      alignment: 9
+      pivot: {x: .526854217, y: .46472019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Attack.0079
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 2472
+        width: 396
+        height: 398
+      alignment: 9
+      pivot: {x: .5, y: .439698488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0001
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 2472
+        width: 397
+        height: 398
+      alignment: 9
+      pivot: {x: .498740554, y: .439698488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2056
+        width: 399
+        height: 398
+      alignment: 9
+      pivot: {x: .503759384, y: .439698488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0005
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2056
+        width: 400
+        height: 398
+      alignment: 9
+      pivot: {x: .507499993, y: .442211062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0007
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2055
+        width: 401
+        height: 399
+      alignment: 9
+      pivot: {x: .513715684, y: .446115285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0009
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2055
+        width: 403
+        height: 399
+      alignment: 9
+      pivot: {x: .518610418, y: .448621541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0011
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 2056
+        width: 404
+        height: 398
+      alignment: 9
+      pivot: {x: .522277236, y: .452261299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0013
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 2057
+        width: 404
+        height: 397
+      alignment: 9
+      pivot: {x: .5272277, y: .455919385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0015
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 2058
+        width: 404
+        height: 396
+      alignment: 9
+      pivot: {x: .529702961, y: .457070708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0017
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 2059
+        width: 404
+        height: 395
+      alignment: 9
+      pivot: {x: .532178223, y: .460759491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0019
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 2060
+        width: 405
+        height: 394
+      alignment: 9
+      pivot: {x: .533333361, y: .461928934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0021
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 2060
+        width: 404
+        height: 394
+      alignment: 9
+      pivot: {x: .532178223, y: .461928934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0023
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1658
+        width: 404
+        height: 395
+      alignment: 9
+      pivot: {x: .532178223, y: .460759491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0025
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1658
+        width: 404
+        height: 395
+      alignment: 9
+      pivot: {x: .529702961, y: .458227843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0027
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1657
+        width: 404
+        height: 396
+      alignment: 9
+      pivot: {x: .5272277, y: .457070708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0029
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1656
+        width: 404
+        height: 397
+      alignment: 9
+      pivot: {x: .522277236, y: .453400493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0031
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1656
+        width: 403
+        height: 397
+      alignment: 9
+      pivot: {x: .518610418, y: .4508816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0033
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1656
+        width: 402
+        height: 397
+      alignment: 9
+      pivot: {x: .514925361, y: .445843816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0035
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 1656
+        width: 400
+        height: 397
+      alignment: 9
+      pivot: {x: .50999999, y: .443324924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0037
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 1656
+        width: 399
+        height: 397
+      alignment: 9
+      pivot: {x: .50626564, y: .440806031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0039
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 1655
+        width: 397
+        height: 398
+      alignment: 9
+      pivot: {x: .501259446, y: .439698488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0041
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 1655
+        width: 397
+        height: 398
+      alignment: 9
+      pivot: {x: .498740554, y: .439698488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0043
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1255
+        width: 398
+        height: 398
+      alignment: 9
+      pivot: {x: .494974881, y: .439698488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0045
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1255
+        width: 399
+        height: 398
+      alignment: 9
+      pivot: {x: .491228074, y: .442211062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0047
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1255
+        width: 401
+        height: 398
+      alignment: 9
+      pivot: {x: .488778055, y: .444723606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0049
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1256
+        width: 403
+        height: 397
+      alignment: 9
+      pivot: {x: .486352354, y: .445843816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0051
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1258
+        width: 405
+        height: 395
+      alignment: 9
+      pivot: {x: .483950615, y: .4506329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0053
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1259
+        width: 405
+        height: 394
+      alignment: 9
+      pivot: {x: .481481493, y: .454314709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0055
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 1262
+        width: 405
+        height: 391
+      alignment: 9
+      pivot: {x: .481481493, y: .457800508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0057
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1263
+        width: 405
+        height: 390
+      alignment: 9
+      pivot: {x: .481481493, y: .461538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0059
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 1265
+        width: 405
+        height: 388
+      alignment: 9
+      pivot: {x: .481481493, y: .463917524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0061
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 1266
+        width: 405
+        height: 387
+      alignment: 9
+      pivot: {x: .481481493, y: .465116292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0063
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 865
+        width: 406
+        height: 388
+      alignment: 9
+      pivot: {x: .482758611, y: .463917524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0065
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 865
+        width: 406
+        height: 388
+      alignment: 9
+      pivot: {x: .482758611, y: .461340219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0067
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 863
+        width: 406
+        height: 390
+      alignment: 9
+      pivot: {x: .485221684, y: .458974361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0069
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 861
+        width: 406
+        height: 392
+      alignment: 9
+      pivot: {x: .485221684, y: .454081625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0071
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 859
+        width: 405
+        height: 394
+      alignment: 9
+      pivot: {x: .48888889, y: .451776654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0073
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 857
+        width: 404
+        height: 396
+      alignment: 9
+      pivot: {x: .490099013, y: .446969688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0075
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 856
+        width: 403
+        height: 397
+      alignment: 9
+      pivot: {x: .493796527, y: .443324924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0077
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 855
+        width: 400
+        height: 398
+      alignment: 9
+      pivot: {x: .495000005, y: .442211062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Starfish_Idle.0079
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 855
+        width: 398
+        height: 398
+      alignment: 9
+      pivot: {x: .497487426, y: .439698488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

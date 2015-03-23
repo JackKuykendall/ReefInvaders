@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: c88d8e5d029cc9b459fa7c1d1308f235
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chest_idle
+    21300002: newchest.0001
+    21300004: newchest.0002
+    21300006: newchest.0003
+    21300008: newchest.0004
+    21300010: newchest.0005
+    21300012: newchest.0006
+    21300014: newchest.0007
+    21300016: newchest.0008
+    21300018: newchest.0009
+    21300020: newchest.0010
+    21300022: newchest.0011
+    21300024: newchest.0012
+    21300026: newchest.0013
+    21300028: newchest.0014
+    21300030: newchest.0015
+    21300032: newchest.0016
+    21300034: newchest.0017
+    21300036: newchest.0018
+    21300038: newchest.0019
+    21300040: newchest.0020
+    21300042: newchest.0021
+    21300044: newchest.0022
+    21300046: newchest.0023
+    21300048: newchest.0024
+    21300050: newchest.0025
+    21300052: newchest.0026
+    21300054: newchest.0027
+    21300056: newchest.0028
+    21300058: newchest.0029
+    21300060: newchest.0030
+    21300062: newchest.0031
+    21300064: newchest.0032
+    21300066: newchest.0033
+    21300068: newchest.0034
+    21300070: newchest.0035
+    21300072: newchest.0036
+    21300074: newchest.0037
+    21300076: newchest.0038
+    21300078: newchest.0039
+    21300080: newchest.0040
+    21300082: newchest.0041
+    21300084: newchest.0042
+    21300086: newchest.0043
+    21300088: newchest.0044
+    21300090: newchest.0045
+    21300092: newchest.0046
+    21300094: newchest.0047
+    21300096: newchest.0048
+    21300098: newchest.0049
+    21300100: newchest.0050
+    21300102: newchest.0051
+    21300104: newchest.0052
+    21300106: newchest.0053
+    21300108: newchest.0054
+    21300110: newchest.0055
+    21300112: newchest.0056
+    21300114: newchest.0057
+    21300116: newchest.0058
+    21300118: newchest.0059
+    21300120: newchest.0060
+    21300122: newchest.0061
+    21300124: newchest.0062
+    21300126: newchest.0063
+    21300128: newchest.0064
+    21300130: newchest.0065
+    21300132: newchest.0066
+    21300134: newchest.0067
+    21300136: newchest.0068
+    21300138: newchest.0069
+    21300140: newchest.0070
+    21300142: newchest.0071
+    21300144: newchest.0072
+    21300146: newchest.0073
+    21300148: newchest.0074
+    21300150: newchest.0075
+    21300152: newchest.0076
+    21300154: newchest.0077
+    21300156: newchest.0078
+    21300158: newchest.0079
+    21300160: newchest.0080
+    21300162: chest_idle02
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: chest_idle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3735
+        width: 395
+        height: 359
+      alignment: 9
+      pivot: {x: .51645571, y: .554317534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chest_idle02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3735
+        width: 395
+        height: 359
+      alignment: 9
+      pivot: {x: .51645571, y: .554317534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0001
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3735
+        width: 395
+        height: 359
+      alignment: 9
+      pivot: {x: .51645571, y: .554317534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0003
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3734
+        width: 395
+        height: 360
+      alignment: 9
+      pivot: {x: .51645571, y: .552777767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0005
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 3731
+        width: 396
+        height: 363
+      alignment: 9
+      pivot: {x: .515151501, y: .548209369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0007
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 3728
+        width: 396
+        height: 366
+      alignment: 9
+      pivot: {x: .515151501, y: .543715835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3357
+        width: 396
+        height: 369
+      alignment: 9
+      pivot: {x: .515151501, y: .539295375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0011
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3354
+        width: 396
+        height: 372
+      alignment: 9
+      pivot: {x: .515151501, y: .534946263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0013
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 3352
+        width: 396
+        height: 374
+      alignment: 9
+      pivot: {x: .515151501, y: .532085538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0015
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 3352
+        width: 396
+        height: 374
+      alignment: 9
+      pivot: {x: .515151501, y: .532085538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0017
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 3354
+        width: 396
+        height: 372
+      alignment: 9
+      pivot: {x: .515151501, y: .534946263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0019
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2981
+        width: 396
+        height: 369
+      alignment: 9
+      pivot: {x: .515151501, y: .539295375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0021
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2984
+        width: 396
+        height: 366
+      alignment: 9
+      pivot: {x: .515151501, y: .543715835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0023
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2985
+        width: 396
+        height: 365
+      alignment: 9
+      pivot: {x: .515151501, y: .545205474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0025
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2976
+        width: 396
+        height: 374
+      alignment: 9
+      pivot: {x: .515151501, y: .532085538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0027
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 2958
+        width: 396
+        height: 392
+      alignment: 9
+      pivot: {x: .515151501, y: .507653058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0029
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2546
+        width: 397
+        height: 410
+      alignment: 9
+      pivot: {x: .513853908, y: .485365868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0031
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2533
+        width: 400
+        height: 423
+      alignment: 9
+      pivot: {x: .50999999, y: .470449179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0033
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2524
+        width: 415
+        height: 432
+      alignment: 9
+      pivot: {x: .491566271, y: .460648149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0035
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2529
+        width: 425
+        height: 427
+      alignment: 9
+      pivot: {x: .479999989, y: .466042161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0037
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2102
+        width: 430
+        height: 420
+      alignment: 9
+      pivot: {x: .47441861, y: .47380951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0039
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2103
+        width: 430
+        height: 419
+      alignment: 9
+      pivot: {x: .47441861, y: .47494033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0041
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2102
+        width: 429
+        height: 420
+      alignment: 9
+      pivot: {x: .475524485, y: .47380951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0043
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2100
+        width: 428
+        height: 422
+      alignment: 9
+      pivot: {x: .476635516, y: .471563995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0045
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1673
+        width: 427
+        height: 425
+      alignment: 9
+      pivot: {x: .477751762, y: .468235284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0047
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1670
+        width: 424
+        height: 428
+      alignment: 9
+      pivot: {x: .48113209, y: .464953274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0049
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1668
+        width: 421
+        height: 430
+      alignment: 9
+      pivot: {x: .484560579, y: .462790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0051
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1667
+        width: 418
+        height: 431
+      alignment: 9
+      pivot: {x: .488038272, y: .46171695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0053
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1233
+        width: 413
+        height: 432
+      alignment: 9
+      pivot: {x: .493946731, y: .460648149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0055
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1235
+        width: 408
+        height: 430
+      alignment: 9
+      pivot: {x: .5, y: .462790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0057
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1240
+        width: 402
+        height: 425
+      alignment: 9
+      pivot: {x: .50746268, y: .468235284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0059
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1244
+        width: 397
+        height: 421
+      alignment: 9
+      pivot: {x: .513853908, y: .472684085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0061
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1248
+        width: 397
+        height: 417
+      alignment: 9
+      pivot: {x: .513853908, y: .477218211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0063
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 820
+        width: 397
+        height: 411
+      alignment: 9
+      pivot: {x: .513853908, y: .484184921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0065
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 826
+        width: 397
+        height: 405
+      alignment: 9
+      pivot: {x: .513853908, y: .491358012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0067
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 833
+        width: 397
+        height: 398
+      alignment: 9
+      pivot: {x: .513853908, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0069
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 840
+        width: 396
+        height: 391
+      alignment: 9
+      pivot: {x: .515151501, y: .508951426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0071
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 848
+        width: 396
+        height: 383
+      alignment: 9
+      pivot: {x: .515151501, y: .519582272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0073
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 442
+        width: 396
+        height: 376
+      alignment: 9
+      pivot: {x: .515151501, y: .529255331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0075
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 449
+        width: 396
+        height: 369
+      alignment: 9
+      pivot: {x: .515151501, y: .539295375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0077
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 454
+        width: 396
+        height: 364
+      alignment: 9
+      pivot: {x: .515151501, y: .546703279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: newchest.0079
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 458
+        width: 395
+        height: 360
+      alignment: 9
+      pivot: {x: .51645571, y: .552777767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

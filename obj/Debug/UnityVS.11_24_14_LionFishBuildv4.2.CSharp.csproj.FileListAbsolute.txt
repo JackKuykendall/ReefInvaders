@@ -1,0 +1,9 @@
+D:\Unity\Unity Projects\11_24_14_LionFishBuildv4.2\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Unity\Unity Projects\11_24_14_LionFishBuildv4.2\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Unity\Unity Projects\11_24_14_LionFishBuildv4.2\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Unity\Unity Projects\11_24_14_LionFishBuildv4.2\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Unity\Unity Projects\11_24_14_LionFishBuildv4.2\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Unity\Unity Projects\11_24_14_LionFishBuildv4.2\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Unity\Unity Projects\11_24_14_LionFishBuildv4.2\obj\Debug\UnityVS.11_24_14_LionFishBuildv4.2.CSharp.csprojResolveAssemblyReference.cache
+D:\Unity\Unity Projects\11_24_14_LionFishBuildv4.2\obj\Debug\Assembly-CSharp.dll
+D:\Unity\Unity Projects\11_24_14_LionFishBuildv4.2\obj\Debug\Assembly-CSharp.pdb

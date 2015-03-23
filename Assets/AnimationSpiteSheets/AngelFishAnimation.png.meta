@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 639367760df08084681adfd82ec703b1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Angel_Attack.0001
+    21300002: Angel_Attack.0002
+    21300004: Angel_Attack.0003
+    21300006: Angel_Attack.0004
+    21300008: Angel_Attack.0005
+    21300010: Angel_Attack.0006
+    21300012: Angel_Attack.0007
+    21300014: Angel_Attack.0008
+    21300016: Angel_Attack.0009
+    21300018: Angel_Attack.0010
+    21300020: Angel_Attack.0011
+    21300022: Angel_Attack.0012
+    21300024: Angel_Attack.0013
+    21300026: Angel_Attack.0014
+    21300028: Angel_Attack.0015
+    21300030: Angel_Attack.0016
+    21300032: Angel_Attack.0017
+    21300034: Angel_Attack.0018
+    21300036: Angel_Attack.0019
+    21300038: Angel_Attack.0020
+    21300040: Angel_Attack.0021
+    21300042: Angel_Attack.0022
+    21300044: Angel_Attack.0023
+    21300046: Angel_Attack.0024
+    21300048: Angel_Attack.0025
+    21300050: Angel_Attack.0026
+    21300052: Angel_Attack.0027
+    21300054: Angel_Attack.0028
+    21300056: Angel_Attack.0029
+    21300058: Angel_Attack.0030
+    21300060: Angel_Attack.0031
+    21300062: Angel_Attack.0032
+    21300064: Angel_Attack.0033
+    21300066: Angel_Attack.0034
+    21300068: Angel_Attack.0035
+    21300070: Angel_Attack.0036
+    21300072: Angel_Idle.0001
+    21300074: Angel_Idle.0002
+    21300076: Angel_Idle.0003
+    21300078: Angel_Idle.0004
+    21300080: Angel_Idle.0005
+    21300082: Angel_Idle.0006
+    21300084: Angel_Idle.0007
+    21300086: Angel_Idle.0008
+    21300088: Angel_Idle.0009
+    21300090: Angel_Idle.0010
+    21300092: Angel_Idle.0011
+    21300094: Angel_Idle.0012
+    21300096: Angel_Idle.0013
+    21300098: Angel_Idle.0014
+    21300100: Angel_Idle.0015
+    21300102: Angel_Idle.0016
+    21300104: Angel_Idle.0017
+    21300106: Angel_Idle.0018
+    21300108: Angel_Idle.0019
+    21300110: Angel_Idle.0020
+    21300112: Angel_Idle.0021
+    21300114: Angel_Idle.0022
+    21300116: Angel_Idle.0023
+    21300118: Angel_Idle.0024
+    21300120: Angel_Idle.0025
+    21300122: Angel_Idle.0026
+    21300124: Angel_Idle.0027
+    21300126: Angel_Idle.0028
+    21300128: Angel_Idle.0029
+    21300130: Angel_Idle.0030
+    21300132: Angel_Idle.0031
+    21300134: Angel_Idle.0032
+    21300136: Angel_Idle.0033
+    21300138: Angel_Idle.0034
+    21300140: Angel_Idle.0035
+    21300142: Angel_Idle.0036
+    21300144: Angel_Attack.0037
+    21300146: Angel_Attack.0038
+    21300148: Angel_Attack.0039
+    21300150: Angel_Attack.0040
+    21300152: Angel_Attack.0041
+    21300154: Angel_Attack.0042
+    21300156: Angel_Attack.0043
+    21300158: Angel_Attack.0044
+    21300160: Angel_Attack.0045
+    21300162: Angel_Attack.0046
+    21300164: Angel_Attack.0047
+    21300166: Angel_Attack.0048
+    21300168: Angel_Attack.0049
+    21300170: Angel_Attack.0050
+    21300172: Angel_Attack.0051
+    21300174: Angel_Attack.0052
+    21300176: Angel_Attack.0053
+    21300178: Angel_Attack.0054
+    21300180: Angel_Attack.0055
+    21300182: Angel_Attack.0056
+    21300184: Angel_Attack.0057
+    21300186: Angel_Attack.0058
+    21300188: Angel_Attack.0059
+    21300190: Angel_Attack.0060
+    21300192: Angel_Attack.0061
+    21300194: Angel_Attack.0062
+    21300196: Angel_Attack.0063
+    21300198: Angel_Attack.0064
+    21300200: Angel_Attack.0065
+    21300202: Angel_Attack.0066
+    21300204: Angel_Attack.0067
+    21300206: Angel_Attack.0068
+    21300208: Angel_Attack.0069
+    21300210: Angel_Attack.0070
+    21300212: Angel_Attack.0071
+    21300214: Angel_Attack.0072
+    21300216: Angel_Attack.0073
+    21300218: Angel_Attack.0074
+    21300220: Angel_Attack.0075
+    21300222: Angel_Attack.0076
+    21300224: Angel_Attack.0077
+    21300226: Angel_Attack.0078
+    21300228: Angel_Attack.0079
+    21300230: Angel_Attack.0080
+    21300232: Angel_Idle_60.0001
+    21300234: Angel_Idle_60.0002
+    21300236: Angel_Idle_60.0003
+    21300238: Angel_Idle_60.0004
+    21300240: Angel_Idle_60.0005
+    21300242: Angel_Idle_60.0006
+    21300244: Angel_Idle_60.0007
+    21300246: Angel_Idle_60.0008
+    21300248: Angel_Idle_60.0009
+    21300250: Angel_Idle_60.0010
+    21300252: Angel_Idle_60.0011
+    21300254: Angel_Idle_60.0012
+    21300256: Angel_Idle_60.0013
+    21300258: Angel_Idle_60.0014
+    21300260: Angel_Idle_60.0015
+    21300262: Angel_Idle_60.0016
+    21300264: Angel_Idle_60.0017
+    21300266: Angel_Idle_60.0018
+    21300268: Angel_Idle_60.0019
+    21300270: Angel_Idle_60.0020
+    21300272: Angel_Idle_60.0021
+    21300274: Angel_Idle_60.0022
+    21300276: Angel_Idle_60.0023
+    21300278: Angel_Idle_60.0024
+    21300280: Angel_Idle_60.0025
+    21300282: Angel_Idle_60.0026
+    21300284: Angel_Idle_60.0027
+    21300286: Angel_Idle_60.0028
+    21300288: Angel_Idle_60.0029
+    21300290: Angel_Idle_60.0030
+    21300292: Angel_Idle_60.0031
+    21300294: Angel_Idle_60.0032
+    21300296: Angel_Idle_60.0033
+    21300298: Angel_Idle_60.0034
+    21300300: Angel_Idle_60.0035
+    21300302: Angel_Idle_60.0036
+    21300304: Angel_Idle_60.0037
+    21300306: Angel_Idle_60.0038
+    21300308: Angel_Idle_60.0039
+    21300310: Angel_Idle_60.0040
+    21300312: Angel_Idle_60.0041
+    21300314: Angel_Idle_60.0042
+    21300316: Angel_Idle_60.0043
+    21300318: Angel_Idle_60.0044
+    21300320: Angel_Idle_60.0045
+    21300322: Angel_Idle_60.0046
+    21300324: Angel_Idle_60.0047
+    21300326: Angel_Idle_60.0048
+    21300328: Angel_Idle_60.0049
+    21300330: Angel_Idle_60.0050
+    21300332: Angel_Idle_60.0051
+    21300334: Angel_Idle_60.0052
+    21300336: Angel_Idle_60.0053
+    21300338: Angel_Idle_60.0054
+    21300340: Angel_Idle_60.0055
+    21300342: Angel_Idle_60.0056
+    21300344: Angel_Idle_60.0057
+    21300346: Angel_Idle_60.0058
+    21300348: Angel_Idle_60.0059
+    21300350: Angel_Idle_60.0060
+    21300352: Angel_Idle_60.0061
+    21300354: Angel_Idle_60.0062
+    21300356: Angel_Idle_60.0063
+    21300358: Angel_Idle_60.0064
+    21300360: Angel_Idle_60.0065
+    21300362: Angel_Idle_60.0066
+    21300364: Angel_Idle_60.0067
+    21300366: Angel_Idle_60.0068
+    21300368: Angel_Idle_60.0069
+    21300370: Angel_Idle_60.0070
+    21300372: Angel_Idle_60.0071
+    21300374: Angel_Idle_60.0072
+    21300376: Angel_Idle_60.0073
+    21300378: Angel_Idle_60.0074
+    21300380: Angel_Idle_60.0075
+    21300382: Angel_Idle_60.0076
+    21300384: Angel_Idle_60.0077
+    21300386: Angel_Idle_60.0078
+    21300388: Angel_Idle_60.0079
+    21300390: Angel_Idle_60.0080
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 425
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Angel_Attack.0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3801
+        width: 422
+        height: 293
+      alignment: 9
+      pivot: {x: .571090043, y: .576791823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0003
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3802
+        width: 423
+        height: 292
+      alignment: 9
+      pivot: {x: .572104037, y: .571917832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0005
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 3803
+        width: 424
+        height: 291
+      alignment: 9
+      pivot: {x: .573113203, y: .567010283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0007
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 3803
+        width: 425
+        height: 291
+      alignment: 9
+      pivot: {x: .574117661, y: .560137451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0009
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 3804
+        width: 426
+        height: 290
+      alignment: 9
+      pivot: {x: .57511735, y: .555172443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0011
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 3805
+        width: 426
+        height: 289
+      alignment: 9
+      pivot: {x: .577464759, y: .546712816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0013
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3806
+        width: 427
+        height: 288
+      alignment: 9
+      pivot: {x: .578454316, y: .538194418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0015
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 3807
+        width: 427
+        height: 287
+      alignment: 9
+      pivot: {x: .580796242, y: .529616714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0017
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 3810
+        width: 428
+        height: 284
+      alignment: 9
+      pivot: {x: .581775725, y: .521126747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0019
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3516
+        width: 428
+        height: 283
+      alignment: 9
+      pivot: {x: .584112167, y: .512367487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0021
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3516
+        width: 427
+        height: 283
+      alignment: 9
+      pivot: {x: .585480094, y: .505300343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0023
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3517
+        width: 428
+        height: 282
+      alignment: 9
+      pivot: {x: .58644861, y: .496453911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0025
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3518
+        width: 427
+        height: 281
+      alignment: 9
+      pivot: {x: .58782202, y: .491103202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0027
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 3519
+        width: 427
+        height: 280
+      alignment: 9
+      pivot: {x: .58782202, y: .485714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0029
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 3518
+        width: 426
+        height: 281
+      alignment: 9
+      pivot: {x: .589201868, y: .483985752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0031
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 3518
+        width: 425
+        height: 281
+      alignment: 9
+      pivot: {x: .588235319, y: .480427057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0033
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 3516
+        width: 425
+        height: 283
+      alignment: 9
+      pivot: {x: .588235319, y: .480565369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0035
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 3514
+        width: 425
+        height: 285
+      alignment: 9
+      pivot: {x: .585882366, y: .484210521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0037
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3225
+        width: 425
+        height: 287
+      alignment: 9
+      pivot: {x: .583529413, y: .491289198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0039
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 3218
+        width: 422
+        height: 294
+      alignment: 9
+      pivot: {x: .575829387, y: .513605416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0041
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3208
+        width: 416
+        height: 304
+      alignment: 9
+      pivot: {x: .564903855, y: .539473712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0043
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 3199
+        width: 407
+        height: 313
+      alignment: 9
+      pivot: {x: .555282533, y: .565495193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0045
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3194
+        width: 406
+        height: 318
+      alignment: 9
+      pivot: {x: .561576366, y: .584905684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0047
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3192
+        width: 402
+        height: 320
+      alignment: 9
+      pivot: {x: .569651723, y: .596875012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0049
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 3195
+        width: 397
+        height: 317
+      alignment: 9
+      pivot: {x: .574307323, y: .608832836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0051
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 3199
+        width: 396
+        height: 313
+      alignment: 9
+      pivot: {x: .575757563, y: .616613448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0053
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 3202
+        width: 400
+        height: 310
+      alignment: 9
+      pivot: {x: .577499986, y: .622580647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0055
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2880
+        width: 408
+        height: 310
+      alignment: 9
+      pivot: {x: .58088237, y: .622580647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0057
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2881
+        width: 416
+        height: 309
+      alignment: 9
+      pivot: {x: .581730783, y: .618122995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0059
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2884
+        width: 422
+        height: 306
+      alignment: 9
+      pivot: {x: .580568731, y: .614379108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0061
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2884
+        width: 423
+        height: 306
+      alignment: 9
+      pivot: {x: .579196215, y: .611111104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0063
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2886
+        width: 422
+        height: 304
+      alignment: 9
+      pivot: {x: .578199029, y: .608552635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0065
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 2887
+        width: 421
+        height: 303
+      alignment: 9
+      pivot: {x: .57482183, y: .603960395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0067
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 2888
+        width: 420
+        height: 302
+      alignment: 9
+      pivot: {x: .571428597, y: .602649033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0069
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 2890
+        width: 420
+        height: 300
+      alignment: 9
+      pivot: {x: .571428597, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0071
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 2891
+        width: 421
+        height: 299
+      alignment: 9
+      pivot: {x: .57007128, y: .595317721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0073
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2581
+        width: 422
+        height: 297
+      alignment: 9
+      pivot: {x: .571090043, y: .592592597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0075
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2582
+        width: 422
+        height: 296
+      alignment: 9
+      pivot: {x: .571090043, y: .587837815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0077
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2584
+        width: 422
+        height: 294
+      alignment: 9
+      pivot: {x: .571090043, y: .585034013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Attack.0079
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 2585
+        width: 422
+        height: 293
+      alignment: 9
+      pivot: {x: .571090043, y: .580204785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0001
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2585
+        width: 425
+        height: 293
+      alignment: 9
+      pivot: {x: .569411755, y: .576791823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0003
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 2585
+        width: 425
+        height: 293
+      alignment: 9
+      pivot: {x: .569411755, y: .576791823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0005
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2584
+        width: 425
+        height: 294
+      alignment: 9
+      pivot: {x: .569411755, y: .578231275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0007
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 2585
+        width: 426
+        height: 293
+      alignment: 9
+      pivot: {x: .57042253, y: .580204785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0009
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 2584
+        width: 427
+        height: 294
+      alignment: 9
+      pivot: {x: .571428597, y: .581632674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2285
+        width: 427
+        height: 294
+      alignment: 9
+      pivot: {x: .571428597, y: .585034013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0013
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2285
+        width: 428
+        height: 294
+      alignment: 9
+      pivot: {x: .572429895, y: .588435352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0015
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2285
+        width: 429
+        height: 294
+      alignment: 9
+      pivot: {x: .573426545, y: .588435352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0017
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2285
+        width: 429
+        height: 294
+      alignment: 9
+      pivot: {x: .575757563, y: .591836751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0019
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 2286
+        width: 431
+        height: 293
+      alignment: 9
+      pivot: {x: .577726245, y: .593856633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0021
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2288
+        width: 432
+        height: 291
+      alignment: 9
+      pivot: {x: .578703701, y: .594501734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0023
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2289
+        width: 433
+        height: 290
+      alignment: 9
+      pivot: {x: .579676688, y: .596551716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0025
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 2290
+        width: 434
+        height: 289
+      alignment: 9
+      pivot: {x: .580645144, y: .595155716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0027
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 2291
+        width: 435
+        height: 288
+      alignment: 9
+      pivot: {x: .58160919, y: .597222209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0029
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1996
+        width: 435
+        height: 287
+      alignment: 9
+      pivot: {x: .58160919, y: .595818818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0031
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1998
+        width: 436
+        height: 285
+      alignment: 9
+      pivot: {x: .582568824, y: .596491218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0033
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1998
+        width: 437
+        height: 285
+      alignment: 9
+      pivot: {x: .583524048, y: .596491218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0035
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2000
+        width: 437
+        height: 283
+      alignment: 9
+      pivot: {x: .583524048, y: .597173154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0037
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 2001
+        width: 438
+        height: 282
+      alignment: 9
+      pivot: {x: .584474862, y: .595744669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0039
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 2001
+        width: 438
+        height: 282
+      alignment: 9
+      pivot: {x: .584474862, y: .595744669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0041
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 2002
+        width: 438
+        height: 281
+      alignment: 9
+      pivot: {x: .584474862, y: .594306052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0043
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 2003
+        width: 437
+        height: 280
+      alignment: 9
+      pivot: {x: .583524048, y: .592857122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0045
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 2002
+        width: 437
+        height: 281
+      alignment: 9
+      pivot: {x: .583524048, y: .590747356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0047
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1714
+        width: 436
+        height: 280
+      alignment: 9
+      pivot: {x: .582568824, y: .589285731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0049
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1715
+        width: 436
+        height: 279
+      alignment: 9
+      pivot: {x: .582568824, y: .587813616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0051
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1714
+        width: 435
+        height: 280
+      alignment: 9
+      pivot: {x: .58160919, y: .585714281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0053
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1715
+        width: 434
+        height: 279
+      alignment: 9
+      pivot: {x: .580645144, y: .58422941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0055
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1714
+        width: 434
+        height: 280
+      alignment: 9
+      pivot: {x: .578341007, y: .58214283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0057
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1713
+        width: 433
+        height: 281
+      alignment: 9
+      pivot: {x: .579676688, y: .580071151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0059
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1713
+        width: 433
+        height: 281
+      alignment: 9
+      pivot: {x: .577367187, y: .580071151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0061
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 1712
+        width: 432
+        height: 282
+      alignment: 9
+      pivot: {x: .576388896, y: .578014195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0063
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 1710
+        width: 431
+        height: 284
+      alignment: 9
+      pivot: {x: .575406015, y: .577464759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0065
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1423
+        width: 430
+        height: 285
+      alignment: 9
+      pivot: {x: .574418604, y: .578947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0067
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1422
+        width: 429
+        height: 286
+      alignment: 9
+      pivot: {x: .573426545, y: .576923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0069
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1420
+        width: 428
+        height: 288
+      alignment: 9
+      pivot: {x: .572429895, y: .576388896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0071
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1419
+        width: 427
+        height: 289
+      alignment: 9
+      pivot: {x: .571428597, y: .577854693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0073
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1418
+        width: 426
+        height: 290
+      alignment: 9
+      pivot: {x: .57042253, y: .57586205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0075
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1417
+        width: 426
+        height: 291
+      alignment: 9
+      pivot: {x: .57042253, y: .577319562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0077
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1416
+        width: 425
+        height: 292
+      alignment: 9
+      pivot: {x: .569411755, y: .575342476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Angel_Idle_60.0079
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 1415
+        width: 425
+        height: 293
+      alignment: 9
+      pivot: {x: .569411755, y: .576791823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

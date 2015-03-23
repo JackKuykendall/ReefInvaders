@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 61bf1189971bd0d4bb38193d4c72360d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Leech_Attack_0001
+    21300002: Leech_Attack_0002
+    21300004: Leech_Attack_0003
+    21300006: Leech_Attack_0004
+    21300008: Leech_Attack_0005
+    21300010: Leech_Attack_0006
+    21300012: Leech_Attack_0007
+    21300014: Leech_Attack_0008
+    21300016: Leech_Attack_0009
+    21300018: Leech_Attack_0010
+    21300020: Leech_Attack_0011
+    21300022: Leech_Attack_0012
+    21300024: Leech_Attack_0013
+    21300026: Leech_Attack_0014
+    21300028: Leech_Attack_0015
+    21300030: Leech_Attack_0016
+    21300032: Leech_Attack_0017
+    21300034: Leech_Attack_0018
+    21300036: Leech_Attack_0019
+    21300038: Leech_Attack_0020
+    21300040: Leech_Attack_0021
+    21300042: Leech_Attack_0022
+    21300044: Leech_Attack_0023
+    21300046: Leech_Attack_0024
+    21300048: Leech_Attack_0025
+    21300050: Leech_Attack_0026
+    21300052: Leech_Attack_0027
+    21300054: Leech_Attack_0028
+    21300056: Leech_Attack_0029
+    21300058: Leech_Attack_0030
+    21300060: Leech_Attack_0031
+    21300062: Leech_Attack_0032
+    21300064: Leech_Attack_0033
+    21300066: Leech_Attack_0034
+    21300068: Leech_Attack_0035
+    21300070: Leech_Attack_0036
+    21300072: Leech_Attack_0037
+    21300074: Leech_Attack_0038
+    21300076: Leech_Attack_0039
+    21300078: Leech_Attack_0040
+    21300080: Leech_Attack_0041
+    21300082: Leech_Attack_0042
+    21300084: Leech_Attack_0043
+    21300086: Leech_Attack_0044
+    21300088: Leech_Attack_0045
+    21300090: Leech_Attack_0046
+    21300092: Leech_Attack_0047
+    21300094: Leech_Attack_0048
+    21300096: Leech_Attack_0049
+    21300098: Leech_Attack_0050
+    21300100: Leech_Attack_0051
+    21300102: Leech_Attack_0052
+    21300104: Leech_Attack_0053
+    21300106: Leech_Attack_0054
+    21300108: Leech_Attack_0055
+    21300110: Leech_Attack_0056
+    21300112: Leech_Attack_0057
+    21300114: Leech_Attack_0058
+    21300116: Leech_Attack_0059
+    21300118: Leech_Attack_0060
+    21300120: Leech_Attack_0061
+    21300122: Leech_Attack_0062
+    21300124: Leech_Attack_0063
+    21300126: Leech_Attack_0064
+    21300128: Leech_Attack_0065
+    21300130: Leech_Attack_0066
+    21300132: Leech_Attack_0067
+    21300134: Leech_Attack_0068
+    21300136: Leech_Attack_0069
+    21300138: Leech_Attack_0070
+    21300140: Leech_Attack_0071
+    21300142: Leech_Attack_0072
+    21300144: Leech_Attack_0073
+    21300146: Leech_Attack_0074
+    21300148: Leech_Attack_0075
+    21300150: Leech_Attack_0076
+    21300152: Leech_Attack_0077
+    21300154: Leech_Attack_0078
+    21300156: Leech_Attack_0079
+    21300158: Leech_Attack_0080
+    21300160: Leech_Idle_0001
+    21300162: Leech_Idle_0002
+    21300164: Leech_Idle_0003
+    21300166: Leech_Idle_0004
+    21300168: Leech_Idle_0005
+    21300170: Leech_Idle_0006
+    21300172: Leech_Idle_0007
+    21300174: Leech_Idle_0008
+    21300176: Leech_Idle_0009
+    21300178: Leech_Idle_0010
+    21300180: Leech_Idle_0011
+    21300182: Leech_Idle_0012
+    21300184: Leech_Idle_0013
+    21300186: Leech_Idle_0014
+    21300188: Leech_Idle_0015
+    21300190: Leech_Idle_0016
+    21300192: Leech_Idle_0017
+    21300194: Leech_Idle_0018
+    21300196: Leech_Idle_0019
+    21300198: Leech_Idle_0020
+    21300200: Leech_Idle_0021
+    21300202: Leech_Idle_0022
+    21300204: Leech_Idle_0023
+    21300206: Leech_Idle_0024
+    21300208: Leech_Idle_0025
+    21300210: Leech_Idle_0026
+    21300212: Leech_Idle_0027
+    21300214: Leech_Idle_0028
+    21300216: Leech_Idle_0029
+    21300218: Leech_Idle_0030
+    21300220: Leech_Idle_0031
+    21300222: Leech_Idle_0032
+    21300224: Leech_Idle_0033
+    21300226: Leech_Idle_0034
+    21300228: Leech_Idle_0035
+    21300230: Leech_Idle_0036
+    21300232: Leech_Idle_0037
+    21300234: Leech_Idle_0038
+    21300236: Leech_Idle_0039
+    21300238: Leech_Idle_0040
+    21300240: Leech_Idle_0041
+    21300242: Leech_Idle_0042
+    21300244: Leech_Idle_0043
+    21300246: Leech_Idle_0044
+    21300248: Leech_Idle_0045
+    21300250: Leech_Idle_0046
+    21300252: Leech_Idle_0047
+    21300254: Leech_Idle_0048
+    21300256: Leech_Idle_0049
+    21300258: Leech_Idle_0050
+    21300260: Leech_Idle_0051
+    21300262: Leech_Idle_0052
+    21300264: Leech_Idle_0053
+    21300266: Leech_Idle_0054
+    21300268: Leech_Idle_0055
+    21300270: Leech_Idle_0056
+    21300272: Leech_Idle_0057
+    21300274: Leech_Idle_0058
+    21300276: Leech_Idle_0059
+    21300278: Leech_Idle_0060
+    21300280: Leech_Idle_0061
+    21300282: Leech_Idle_0062
+    21300284: Leech_Idle_0063
+    21300286: Leech_Idle_0064
+    21300288: Leech_Idle_0065
+    21300290: Leech_Idle_0066
+    21300292: Leech_Idle_0067
+    21300294: Leech_Idle_0068
+    21300296: Leech_Idle_0069
+    21300298: Leech_Idle_0070
+    21300300: Leech_Idle_0071
+    21300302: Leech_Idle_0072
+    21300304: Leech_Idle_0073
+    21300306: Leech_Idle_0074
+    21300308: Leech_Idle_0075
+    21300310: Leech_Idle_0076
+    21300312: Leech_Idle_0077
+    21300314: Leech_Idle_0078
+    21300316: Leech_Idle_0079
+    21300318: Leech_Idle_0080
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 425
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Leech_Attack_0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7694
+        width: 498
+        height: 496
+      alignment: 9
+      pivot: {x: .502008021, y: .487903237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0003
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 7677
+        width: 486
+        height: 513
+      alignment: 9
+      pivot: {x: .516460896, y: .491228074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0005
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 7680
+        width: 489
+        height: 510
+      alignment: 9
+      pivot: {x: .507157445, y: .511764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0007
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 7673
+        width: 506
+        height: 517
+      alignment: 9
+      pivot: {x: .507905126, y: .522243738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0009
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 7677
+        width: 498
+        height: 513
+      alignment: 9
+      pivot: {x: .5, y: .526315808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0011
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 7680
+        width: 500
+        height: 510
+      alignment: 9
+      pivot: {x: .504000008, y: .529411793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0013
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 7684
+        width: 490
+        height: 506
+      alignment: 9
+      pivot: {x: .502040803, y: .533596814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0015
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 7687
+        width: 487
+        height: 503
+      alignment: 9
+      pivot: {x: .50924027, y: .536779344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0017
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7171
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: .540000021, y: .540000021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0019
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 7177
+        width: 498
+        height: 494
+      alignment: 9
+      pivot: {x: .556224883, y: .542510092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0021
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 7188
+        width: 491
+        height: 483
+      alignment: 9
+      pivot: {x: .566191435, y: .538302302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0023
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 7199
+        width: 479
+        height: 472
+      alignment: 9
+      pivot: {x: .567849696, y: .533898294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0025
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 7210
+        width: 461
+        height: 461
+      alignment: 9
+      pivot: {x: .54229933, y: .529284179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0027
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 7209
+        width: 445
+        height: 462
+      alignment: 9
+      pivot: {x: .514606714, y: .532467544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0029
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 7201
+        width: 427
+        height: 470
+      alignment: 9
+      pivot: {x: .48477751, y: .517021298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0031
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 7185
+        width: 415
+        height: 486
+      alignment: 9
+      pivot: {x: .46024096, y: .51028806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0033
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6678
+        width: 417
+        height: 491
+      alignment: 9
+      pivot: {x: .453237414, y: .492871702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0035
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 6652
+        width: 433
+        height: 517
+      alignment: 9
+      pivot: {x: .464203238, y: .495164424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0037
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 6658
+        width: 448
+        height: 511
+      alignment: 9
+      pivot: {x: .473214298, y: .50293541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0039
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 6649
+        width: 473
+        height: 520
+      alignment: 9
+      pivot: {x: .47357294, y: .498076916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0041
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 6666
+        width: 502
+        height: 503
+      alignment: 9
+      pivot: {x: .472111553, y: .510934412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0043
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 6686
+        width: 516
+        height: 483
+      alignment: 9
+      pivot: {x: .484496117, y: .521739125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0045
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 6713
+        width: 528
+        height: 456
+      alignment: 9
+      pivot: {x: .498106062, y: .524122834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0047
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 6741
+        width: 525
+        height: 428
+      alignment: 9
+      pivot: {x: .519999981, y: .528037369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0049
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6243
+        width: 492
+        height: 404
+      alignment: 9
+      pivot: {x: .536585391, y: .532178223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0051
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 6196
+        width: 473
+        height: 451
+      alignment: 9
+      pivot: {x: .585623682, y: .538802683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0053
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 6108
+        width: 512
+        height: 539
+      alignment: 9
+      pivot: {x: .486328125, y: .500927627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0055
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 6175
+        width: 487
+        height: 472
+      alignment: 9
+      pivot: {x: .48254621, y: .516949177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0057
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 6310
+        width: 436
+        height: 337
+      alignment: 9
+      pivot: {x: .424311936, y: .504451036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0059
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 6290
+        width: 446
+        height: 357
+      alignment: 9
+      pivot: {x: .5, y: .577030838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0061
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 6241
+        width: 508
+        height: 406
+      alignment: 9
+      pivot: {x: .505905509, y: .58374387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0063
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6646
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 480, y: -269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0065
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6646
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 480, y: -269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0067
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6646
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 480, y: -269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0069
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6646
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 480, y: -269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0071
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6646
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 480, y: -269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0073
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6646
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 480, y: -269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0075
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6646
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 480, y: -269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0077
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6646
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 480, y: -269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Attack_0079
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6646
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 480, y: -269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 6232
+        width: 390
+        height: 415
+      alignment: 9
+      pivot: {x: .538461566, y: .530120492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5676
+        width: 380
+        height: 430
+      alignment: 9
+      pivot: {x: .544736862, y: .534883738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0005
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 5675
+        width: 375
+        height: 431
+      alignment: 9
+      pivot: {x: .541333318, y: .54060322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0007
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 5665
+        width: 385
+        height: 441
+      alignment: 9
+      pivot: {x: .535064936, y: .544217706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0009
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 5664
+        width: 398
+        height: 442
+      alignment: 9
+      pivot: {x: .53517586, y: .529411793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0011
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5649
+        width: 416
+        height: 457
+      alignment: 9
+      pivot: {x: .543269217, y: .527352273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0013
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 5640
+        width: 430
+        height: 466
+      alignment: 9
+      pivot: {x: .544186056, y: .519313276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0015
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 5635
+        width: 425
+        height: 471
+      alignment: 9
+      pivot: {x: .524705887, y: .526539266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0017
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 5631
+        width: 425
+        height: 475
+      alignment: 9
+      pivot: {x: .522352934, y: .536842108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0019
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 5640
+        width: 438
+        height: 466
+      alignment: 9
+      pivot: {x: .515981734, y: .521459222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0021
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5187
+        width: 450
+        height: 442
+      alignment: 9
+      pivot: {x: .50666666, y: .522624433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0023
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 5192
+        width: 471
+        height: 437
+      alignment: 9
+      pivot: {x: .503184736, y: .54233408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0025
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 5200
+        width: 468
+        height: 429
+      alignment: 9
+      pivot: {x: .491452992, y: .559440553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0027
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 5227
+        width: 497
+        height: 402
+      alignment: 9
+      pivot: {x: .490945667, y: .559701502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0029
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 5232
+        width: 480
+        height: 397
+      alignment: 9
+      pivot: {x: .491666675, y: .579345107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0031
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 5238
+        width: 459
+        height: 391
+      alignment: 9
+      pivot: {x: .496732026, y: .560102284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0033
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 5204
+        width: 439
+        height: 425
+      alignment: 9
+      pivot: {x: .501138926, y: .555294096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0035
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 5190
+        width: 441
+        height: 439
+      alignment: 9
+      pivot: {x: .53061223, y: .528473794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0037
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4735
+        width: 459
+        height: 450
+      alignment: 9
+      pivot: {x: .533769071, y: .50666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0039
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4743
+        width: 466
+        height: 442
+      alignment: 9
+      pivot: {x: .512875557, y: .50678736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0041
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 4763
+        width: 456
+        height: 422
+      alignment: 9
+      pivot: {x: .5, y: .526066363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0043
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 4770
+        width: 435
+        height: 415
+      alignment: 9
+      pivot: {x: .498850584, y: .561445773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0045
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 4762
+        width: 441
+        height: 423
+      alignment: 9
+      pivot: {x: .487528354, y: .567375898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0047
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 4745
+        width: 446
+        height: 440
+      alignment: 9
+      pivot: {x: .482062787, y: .565909088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0049
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 4747
+        width: 443
+        height: 438
+      alignment: 9
+      pivot: {x: .485327303, y: .531963468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0051
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 4749
+        width: 432
+        height: 436
+      alignment: 9
+      pivot: {x: .495370358, y: .497706413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0053
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 4770
+        width: 424
+        height: 415
+      alignment: 9
+      pivot: {x: .504716992, y: .513253033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0055
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4315
+        width: 414
+        height: 418
+      alignment: 9
+      pivot: {x: .51449275, y: .51435405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0057
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 4294
+        width: 449
+        height: 439
+      alignment: 9
+      pivot: {x: .556792855, y: .519362211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0059
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 4289
+        width: 431
+        height: 444
+      alignment: 9
+      pivot: {x: .54292345, y: .531531513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0061
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 4304
+        width: 415
+        height: 429
+      alignment: 9
+      pivot: {x: .513253033, y: .533799529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0063
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 4306
+        width: 419
+        height: 427
+      alignment: 9
+      pivot: {x: .505966604, y: .536299765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0065
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 4301
+        width: 428
+        height: 432
+      alignment: 9
+      pivot: {x: .504672885, y: .541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0067
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 4294
+        width: 428
+        height: 439
+      alignment: 9
+      pivot: {x: .488317758, y: .551252842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0069
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4301
+        width: 440
+        height: 432
+      alignment: 9
+      pivot: {x: .481818169, y: .543981493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0071
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 4305
+        width: 446
+        height: 428
+      alignment: 9
+      pivot: {x: .475336313, y: .537383199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0073
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3854
+        width: 426
+        height: 433
+      alignment: 9
+      pivot: {x: .469483554, y: .535796762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0075
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3842
+        width: 431
+        height: 445
+      alignment: 9
+      pivot: {x: .466357321, y: .541573048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0077
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 3861
+        width: 429
+        height: 426
+      alignment: 9
+      pivot: {x: .503496528, y: .523474157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leech_Idle_0079
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3878
+        width: 425
+        height: 409
+      alignment: 9
+      pivot: {x: .536470592, y: .503667474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

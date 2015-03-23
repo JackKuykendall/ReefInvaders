@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 10f1f8167fa7c59438502ad72e8fa3f7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lockTex: {fileID: 2800000, guid: 117ac57d01008ce408993776759113e3, type: 3}
+  - backgroundImage: {fileID: 2800000, guid: c2add930cbb397745a34573bd1428e91, type: 3}
+  - plankImage: {fileID: 2800000, guid: 46ecd09621d28cc45b79b6c0307723f1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

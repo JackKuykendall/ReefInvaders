@@ -1,0 +1,1138 @@
+fileFormatVersion: 2
+guid: 151d2a3fac94cc14e905d5edfb69ea16
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Eel_Attack.0001
+    21300002: Eel_Attack.0002
+    21300004: Eel_Attack.0003
+    21300006: Eel_Attack.0004
+    21300008: Eel_Attack.0005
+    21300010: Eel_Attack.0006
+    21300012: Eel_Attack.0007
+    21300014: Eel_Attack.0008
+    21300016: Eel_Attack.0009
+    21300018: Eel_Attack.0010
+    21300020: Eel_Attack.0011
+    21300022: Eel_Attack.0012
+    21300024: Eel_Attack.0013
+    21300026: Eel_Attack.0014
+    21300028: Eel_Attack.0015
+    21300030: Eel_Attack.0016
+    21300032: Eel_Attack.0017
+    21300034: Eel_Attack.0018
+    21300036: Eel_Attack.0019
+    21300038: Eel_Attack.0020
+    21300040: Eel_Idle.0001
+    21300042: Eel_Idle.0002
+    21300044: Eel_Idle.0003
+    21300046: Eel_Idle.0004
+    21300048: Eel_Idle.0005
+    21300050: Eel_Idle.0006
+    21300052: Eel_Idle.0007
+    21300054: Eel_Idle.0008
+    21300056: Eel_Idle.0009
+    21300058: Eel_Idle.0010
+    21300060: Eel_Idle.0011
+    21300062: Eel_Idle.0012
+    21300064: Eel_Idle.0013
+    21300066: Eel_Idle.0014
+    21300068: Eel_Idle.0015
+    21300070: Eel_Idle.0016
+    21300072: Eel_Idle.0017
+    21300074: Eel_Idle.0018
+    21300076: Eel_Idle.0019
+    21300078: Eel_Idle.0020
+    21300080: Eel_Idle.0021
+    21300082: Eel_Idle.0022
+    21300084: Eel_Idle.0023
+    21300086: Eel_Idle.0024
+    21300088: Eel_Idle.0025
+    21300090: Eel_Idle.0026
+    21300092: Eel_Idle.0027
+    21300094: Eel_Idle.0028
+    21300096: Eel_Idle.0029
+    21300098: Eel_Idle.0030
+    21300100: Eel_Idle.0031
+    21300102: Eel_Idle.0032
+    21300104: Eel_Idle.0033
+    21300106: Eel_Idle.0034
+    21300108: Eel_Idle.0035
+    21300110: Eel_Idle.0036
+    21300112: Eel_Final_Attack.0001
+    21300114: Eel_Final_Attack.0002
+    21300116: Eel_Final_Attack.0003
+    21300118: Eel_Final_Attack.0004
+    21300120: Eel_Final_Attack.0005
+    21300122: Eel_Final_Attack.0006
+    21300124: Eel_Final_Attack.0007
+    21300126: Eel_Final_Attack.0008
+    21300128: Eel_Final_Attack.0009
+    21300130: Eel_Final_Attack.0010
+    21300132: Eel_Final_Attack.0011
+    21300134: Eel_Final_Attack.0012
+    21300136: Eel_Final_Attack.0013
+    21300138: Eel_Final_Attack.0014
+    21300140: Eel_Final_Attack.0015
+    21300142: Eel_Final_Attack.0016
+    21300144: Eel_Final_Attack.0017
+    21300146: Eel_Final_Attack.0018
+    21300148: Eel_Final_Attack.0019
+    21300150: Eel_Final_Attack.0020
+    21300152: Eel_Final_Attack.0021
+    21300154: Eel_Final_Attack.0022
+    21300156: Eel_Final_Attack.0023
+    21300158: Eel_Final_Attack.0024
+    21300160: Eel_Final_Attack.0025
+    21300162: Eel_Final_Attack.0026
+    21300164: Eel_Final_Attack.0027
+    21300166: Eel_Final_Attack.0028
+    21300168: Eel_Final_Attack.0029
+    21300170: Eel_Final_Attack.0030
+    21300172: Eel_Final_Attack.0031
+    21300174: Eel_Final_Attack.0032
+    21300176: Eel_Final_Attack.0033
+    21300178: Eel_Final_Attack.0034
+    21300180: Eel_Final_Attack.0035
+    21300182: Eel_Final_Attack.0036
+    21300184: Eel_Final_Attack.0037
+    21300186: Eel_Final_Attack.0038
+    21300188: Eel_Final_Attack.0039
+    21300190: Eel_Final_Attack.0040
+    21300192: Eel_Final_Attack.0041
+    21300194: Eel_Final_Attack.0042
+    21300196: Eel_Final_Attack.0043
+    21300198: Eel_Final_Attack.0044
+    21300200: Eel_Final_Attack.0045
+    21300202: Eel_Final_Attack.0046
+    21300204: Eel_Final_Attack.0047
+    21300206: Eel_Final_Attack.0048
+    21300208: Eel_Final_Attack.0049
+    21300210: Eel_Final_Attack.0050
+    21300212: Eel_Final_Attack.0051
+    21300214: Eel_Final_Attack.0052
+    21300216: Eel_Final_Attack.0053
+    21300218: Eel_Final_Attack.0054
+    21300220: Eel_Final_Attack.0055
+    21300222: Eel_Final_Attack.0056
+    21300224: Eel_Final_Attack.0057
+    21300226: Eel_Final_Attack.0058
+    21300228: Eel_Final_Attack.0059
+    21300230: Eel_Final_Attack.0060
+    21300232: Eel_Final_Attack.0061
+    21300234: Eel_Final_Attack.0062
+    21300236: Eel_Final_Attack.0063
+    21300238: Eel_Final_Attack.0064
+    21300240: Eel_Final_Attack.0065
+    21300242: Eel_Attack_60.0001
+    21300244: Eel_Attack_60.0002
+    21300246: Eel_Attack_60.0003
+    21300248: Eel_Attack_60.0004
+    21300250: Eel_Attack_60.0005
+    21300252: Eel_Attack_60.0006
+    21300254: Eel_Attack_60.0007
+    21300256: Eel_Attack_60.0008
+    21300258: Eel_Attack_60.0009
+    21300260: Eel_Attack_60.0010
+    21300262: Eel_Attack_60.0011
+    21300264: Eel_Attack_60.0012
+    21300266: Eel_Attack_60.0013
+    21300268: Eel_Attack_60.0014
+    21300270: Eel_Attack_60.0015
+    21300272: Eel_Attack_60.0016
+    21300274: Eel_Attack_60.0017
+    21300276: Eel_Attack_60.0018
+    21300278: Eel_Attack_60.0019
+    21300280: Eel_Attack_60.0020
+    21300282: Eel_Attack_60.0021
+    21300284: Eel_Attack_60.0022
+    21300286: Eel_Attack_60.0023
+    21300288: Eel_Attack_60.0024
+    21300290: Eel_Attack_60.0025
+    21300292: Eel_Attack_60.0026
+    21300294: Eel_Attack_60.0027
+    21300296: Eel_Attack_60.0028
+    21300298: Eel_Attack_60.0029
+    21300300: Eel_Attack_60.0030
+    21300302: Eel_Attack_60.0031
+    21300304: Eel_Attack_60.0032
+    21300306: Eel_Attack_60.0033
+    21300308: Eel_Attack_60.0034
+    21300310: Eel_Attack_60.0035
+    21300312: Eel_Attack_60.0036
+    21300314: Eel_Attack_60.0037
+    21300316: Eel_Attack_60.0038
+    21300318: Eel_Attack_60.0039
+    21300320: Eel_Attack_60.0040
+    21300322: Eel_Attack_60.0041
+    21300324: Eel_Attack_60.0042
+    21300326: Eel_Attack_60.0043
+    21300328: Eel_Attack_60.0044
+    21300330: Eel_Attack_60.0045
+    21300332: Eel_Attack_60.0046
+    21300334: Eel_Attack_60.0047
+    21300336: Eel_Attack_60.0048
+    21300338: Eel_Attack_60.0049
+    21300340: Eel_Attack_60.0050
+    21300342: Eel_Attack_60.0051
+    21300344: Eel_Attack_60.0052
+    21300346: Eel_Attack_60.0053
+    21300348: Eel_Attack_60.0054
+    21300350: Eel_Attack_60.0055
+    21300352: Eel_Attack_60.0056
+    21300354: Eel_Attack_60.0057
+    21300356: Eel_Attack_60.0058
+    21300358: Eel_Attack_60.0059
+    21300360: Eel_Attack_60.0060
+    21300362: Eel_Attack_60.0061
+    21300364: Eel_Attack_60.0062
+    21300366: Eel_Attack_60.0063
+    21300368: Eel_Attack_60.0064
+    21300370: Eel_Attack_60.0065
+    21300372: Eel_Attack_60.0066
+    21300374: Eel_Attack_60.0067
+    21300376: Eel_Attack_60.0068
+    21300378: Eel_Attack_60.0069
+    21300380: Eel_Attack_60.0070
+    21300382: Eel_Attack_60.0071
+    21300384: Eel_Attack_60.0072
+    21300386: Eel_Attack_60.0073
+    21300388: Eel_Attack_60.0074
+    21300390: Eel_Attack_60.0075
+    21300392: Eel_Attack_60.0076
+    21300394: Eel_Attack_60.0077
+    21300396: Eel_Attack_60.0078
+    21300398: Eel_Attack_60.0079
+    21300400: Eel_Attack_60.0080
+    21300402: Eel_Idle_60.0001
+    21300404: Eel_Idle_60.0002
+    21300406: Eel_Idle_60.0003
+    21300408: Eel_Idle_60.0004
+    21300410: Eel_Idle_60.0005
+    21300412: Eel_Idle_60.0006
+    21300414: Eel_Idle_60.0007
+    21300416: Eel_Idle_60.0008
+    21300418: Eel_Idle_60.0009
+    21300420: Eel_Idle_60.0010
+    21300422: Eel_Idle_60.0011
+    21300424: Eel_Idle_60.0012
+    21300426: Eel_Idle_60.0013
+    21300428: Eel_Idle_60.0014
+    21300430: Eel_Idle_60.0015
+    21300432: Eel_Idle_60.0016
+    21300434: Eel_Idle_60.0017
+    21300436: Eel_Idle_60.0018
+    21300438: Eel_Idle_60.0019
+    21300440: Eel_Idle_60.0020
+    21300442: Eel_Idle_60.0021
+    21300444: Eel_Idle_60.0022
+    21300446: Eel_Idle_60.0023
+    21300448: Eel_Idle_60.0024
+    21300450: Eel_Idle_60.0025
+    21300452: Eel_Idle_60.0026
+    21300454: Eel_Idle_60.0027
+    21300456: Eel_Idle_60.0028
+    21300458: Eel_Idle_60.0029
+    21300460: Eel_Idle_60.0030
+    21300462: Eel_Idle_60.0031
+    21300464: Eel_Idle_60.0032
+    21300466: Eel_Idle_60.0033
+    21300468: Eel_Idle_60.0034
+    21300470: Eel_Idle_60.0035
+    21300472: Eel_Idle_60.0036
+    21300474: Eel_Idle_60.0037
+    21300476: Eel_Idle_60.0038
+    21300478: Eel_Idle_60.0039
+    21300480: Eel_Idle_60.0040
+    21300482: Eel_Idle_60.0041
+    21300484: Eel_Idle_60.0042
+    21300486: Eel_Idle_60.0043
+    21300488: Eel_Idle_60.0044
+    21300490: Eel_Idle_60.0045
+    21300492: Eel_Idle_60.0046
+    21300494: Eel_Idle_60.0047
+    21300496: Eel_Idle_60.0048
+    21300498: Eel_Idle_60.0049
+    21300500: Eel_Idle_60.0050
+    21300502: Eel_Idle_60.0051
+    21300504: Eel_Idle_60.0052
+    21300506: Eel_Idle_60.0053
+    21300508: Eel_Idle_60.0054
+    21300510: Eel_Idle_60.0055
+    21300512: Eel_Idle_60.0056
+    21300514: Eel_Idle_60.0057
+    21300516: Eel_Idle_60.0058
+    21300518: Eel_Idle_60.0059
+    21300520: Eel_Idle_60.0060
+    21300522: Eel_Idle_60.0061
+    21300524: Eel_Idle_60.0062
+    21300526: Eel_Idle_60.0063
+    21300528: Eel_Idle_60.0064
+    21300530: Eel_Idle_60.0065
+    21300532: Eel_Idle_60.0066
+    21300534: Eel_Idle_60.0067
+    21300536: Eel_Idle_60.0068
+    21300538: Eel_Idle_60.0069
+    21300540: Eel_Idle_60.0070
+    21300542: Eel_Idle_60.0071
+    21300544: Eel_Idle_60.0072
+    21300546: Eel_Idle_60.0073
+    21300548: Eel_Idle_60.0074
+    21300550: Eel_Idle_60.0075
+    21300552: Eel_Idle_60.0076
+    21300554: Eel_Idle_60.0077
+    21300556: Eel_Idle_60.0078
+    21300558: Eel_Idle_60.0079
+    21300560: Eel_Idle_60.0080
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Eel_Attack_60.0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3954
+        width: 652
+        height: 140
+      alignment: 9
+      pivot: {x: .512269914, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0003
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 3953
+        width: 653
+        height: 141
+      alignment: 9
+      pivot: {x: .51301682, y: .6241135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0005
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 3950
+        width: 652
+        height: 144
+      alignment: 9
+      pivot: {x: .513803661, y: .611111104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0007
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 3947
+        width: 650
+        height: 147
+      alignment: 9
+      pivot: {x: .515384614, y: .605442166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0009
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 3941
+        width: 646
+        height: 153
+      alignment: 9
+      pivot: {x: .518575847, y: .581699371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0011
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 3927
+        width: 639
+        height: 167
+      alignment: 9
+      pivot: {x: .521126747, y: .538922131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3746
+        width: 632
+        height: 179
+      alignment: 9
+      pivot: {x: .525316477, y: .502793312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0015
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3733
+        width: 623
+        height: 192
+      alignment: 9
+      pivot: {x: .528089881, y: .473958343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0017
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 3721
+        width: 613
+        height: 204
+      alignment: 9
+      pivot: {x: .53344208, y: .44607842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0019
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3707
+        width: 600
+        height: 218
+      alignment: 9
+      pivot: {x: .540000021, y: .422018349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0021
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 3694
+        width: 585
+        height: 231
+      alignment: 9
+      pivot: {x: .547008574, y: .402597398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0023
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 3683
+        width: 570
+        height: 242
+      alignment: 9
+      pivot: {x: .55438596, y: .38429752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0025
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3430
+        width: 555
+        height: 251
+      alignment: 9
+      pivot: {x: .562162161, y: .370517939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0027
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3423
+        width: 545
+        height: 258
+      alignment: 9
+      pivot: {x: .566972494, y: .36434108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0029
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 3421
+        width: 538
+        height: 260
+      alignment: 9
+      pivot: {x: .570631981, y: .36153847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0031
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 3422
+        width: 538
+        height: 259
+      alignment: 9
+      pivot: {x: .56877321, y: .359073371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0033
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 3427
+        width: 548
+        height: 254
+      alignment: 9
+      pivot: {x: .563868642, y: .366141737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0035
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3437
+        width: 566
+        height: 244
+      alignment: 9
+      pivot: {x: .554770291, y: .377049178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0037
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 3452
+        width: 593
+        height: 229
+      alignment: 9
+      pivot: {x: .543001711, y: .397379905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0039
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3209
+        width: 618
+        height: 210
+      alignment: 9
+      pivot: {x: .532362461, y: .428571433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0041
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3231
+        width: 638
+        height: 188
+      alignment: 9
+      pivot: {x: .523510993, y: .473404258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0043
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 3255
+        width: 646
+        height: 164
+      alignment: 9
+      pivot: {x: .518575847, y: .542682946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0045
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3265
+        width: 648
+        height: 154
+      alignment: 9
+      pivot: {x: .513888896, y: .577922106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0047
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3262
+        width: 644
+        height: 157
+      alignment: 9
+      pivot: {x: .507763982, y: .611464977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0049
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 3245
+        width: 635
+        height: 174
+      alignment: 9
+      pivot: {x: .500787377, y: .672413766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0051
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3016
+        width: 619
+        height: 191
+      alignment: 9
+      pivot: {x: .494345725, y: .72251308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0053
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3002
+        width: 600
+        height: 205
+      alignment: 9
+      pivot: {x: .488333344, y: .751219511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0055
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 3011
+        width: 605
+        height: 196
+      alignment: 9
+      pivot: {x: .497520655, y: .739795923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0057
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 3027
+        width: 617
+        height: 180
+      alignment: 9
+      pivot: {x: .505672634, y: .716666639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0059
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 3047
+        width: 631
+        height: 160
+      alignment: 9
+      pivot: {x: .510301113, y: .675000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0061
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 3065
+        width: 643
+        height: 142
+      alignment: 9
+      pivot: {x: .513219297, y: .619718313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0063
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2856
+        width: 650
+        height: 144
+      alignment: 9
+      pivot: {x: .513846159, y: .611111104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0065
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2852
+        width: 652
+        height: 148
+      alignment: 9
+      pivot: {x: .513803661, y: .60135138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0067
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2851
+        width: 652
+        height: 149
+      alignment: 9
+      pivot: {x: .513803661, y: .604026854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0069
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 2854
+        width: 651
+        height: 146
+      alignment: 9
+      pivot: {x: .511520743, y: .60958904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0071
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 2850
+        width: 643
+        height: 150
+      alignment: 9
+      pivot: {x: .505443215, y: .646666646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0073
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 2854
+        width: 644
+        height: 146
+      alignment: 9
+      pivot: {x: .506211162, y: .643835604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0075
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2705
+        width: 645
+        height: 143
+      alignment: 9
+      pivot: {x: .50852716, y: .636363626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0077
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2709
+        width: 650
+        height: 139
+      alignment: 9
+      pivot: {x: .510769248, y: .625899255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Attack_60.0079
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 2708
+        width: 652
+        height: 140
+      alignment: 9
+      pivot: {x: .512269914, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0001
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 2710
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0003
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2710
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0005
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 2710
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2565
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0009
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2565
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0011
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2565
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0013
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2565
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0015
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 2564
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .513803661, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0017
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2564
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .513803661, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0019
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2423
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .513803661, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0021
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2423
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .512269914, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0023
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2423
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .512269914, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0025
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2423
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .512269914, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0027
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 2423
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .512269914, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0029
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2423
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .512269914, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0031
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2281
+        width: 651
+        height: 140
+      alignment: 9
+      pivot: {x: .511520743, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0033
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2281
+        width: 651
+        height: 140
+      alignment: 9
+      pivot: {x: .511520743, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0035
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2281
+        width: 651
+        height: 140
+      alignment: 9
+      pivot: {x: .511520743, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0037
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 2281
+        width: 651
+        height: 140
+      alignment: 9
+      pivot: {x: .511520743, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0039
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 2281
+        width: 651
+        height: 140
+      alignment: 9
+      pivot: {x: .511520743, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0041
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 2281
+        width: 650
+        height: 140
+      alignment: 9
+      pivot: {x: .510769248, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0043
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2139
+        width: 650
+        height: 140
+      alignment: 9
+      pivot: {x: .510769248, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0045
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2139
+        width: 650
+        height: 140
+      alignment: 9
+      pivot: {x: .510769248, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0047
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 2139
+        width: 650
+        height: 140
+      alignment: 9
+      pivot: {x: .510769248, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0049
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 2139
+        width: 650
+        height: 140
+      alignment: 9
+      pivot: {x: .510769248, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0051
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2139
+        width: 650
+        height: 140
+      alignment: 9
+      pivot: {x: .510769248, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0053
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 2139
+        width: 650
+        height: 140
+      alignment: 9
+      pivot: {x: .510769248, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0055
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1997
+        width: 651
+        height: 140
+      alignment: 9
+      pivot: {x: .511520743, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0057
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 2281
+        width: 651
+        height: 140
+      alignment: 9
+      pivot: {x: .511520743, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0059
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1997
+        width: 651
+        height: 140
+      alignment: 9
+      pivot: {x: .511520743, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0061
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1997
+        width: 651
+        height: 140
+      alignment: 9
+      pivot: {x: .511520743, y: .628571451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0063
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1998
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .512269914, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0065
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1998
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .512269914, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0067
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 1998
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .512269914, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0069
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1856
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .513803661, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0071
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1856
+        width: 652
+        height: 139
+      alignment: 9
+      pivot: {x: .513803661, y: .633093536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0073
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1857
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0075
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1857
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0077
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1857
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eel_Idle_60.0079
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1857
+        width: 652
+        height: 138
+      alignment: 9
+      pivot: {x: .513803661, y: .637681186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

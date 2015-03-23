@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 28949de8139bc53468ea90214ba389e6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crab_Attack_60.0001
+    21300002: Crab_Attack_60.0002
+    21300004: Crab_Attack_60.0003
+    21300006: Crab_Attack_60.0004
+    21300008: Crab_Attack_60.0005
+    21300010: Crab_Attack_60.0006
+    21300012: Crab_Attack_60.0007
+    21300014: Crab_Attack_60.0008
+    21300016: Crab_Attack_60.0009
+    21300018: Crab_Attack_60.0010
+    21300020: Crab_Attack_60.0011
+    21300022: Crab_Attack_60.0012
+    21300024: Crab_Attack_60.0013
+    21300026: Crab_Attack_60.0014
+    21300028: Crab_Attack_60.0015
+    21300030: Crab_Attack_60.0016
+    21300032: Crab_Attack_60.0017
+    21300034: Crab_Attack_60.0018
+    21300036: Crab_Attack_60.0019
+    21300038: Crab_Attack_60.0020
+    21300040: Crab_Attack_60.0021
+    21300042: Crab_Attack_60.0022
+    21300044: Crab_Attack_60.0023
+    21300046: Crab_Attack_60.0024
+    21300048: Crab_Attack_60.0025
+    21300050: Crab_Attack_60.0026
+    21300052: Crab_Attack_60.0027
+    21300054: Crab_Attack_60.0028
+    21300056: Crab_Attack_60.0029
+    21300058: Crab_Attack_60.0030
+    21300060: Crab_Attack_60.0031
+    21300062: Crab_Attack_60.0032
+    21300064: Crab_Attack_60.0033
+    21300066: Crab_Attack_60.0034
+    21300068: Crab_Attack_60.0035
+    21300070: Crab_Attack_60.0036
+    21300072: Crab_Attack_60.0037
+    21300074: Crab_Attack_60.0038
+    21300076: Crab_Attack_60.0039
+    21300078: Crab_Attack_60.0040
+    21300080: Crab_Attack_60.0041
+    21300082: Crab_Attack_60.0042
+    21300084: Crab_Attack_60.0043
+    21300086: Crab_Attack_60.0044
+    21300088: Crab_Attack_60.0045
+    21300090: Crab_Attack_60.0046
+    21300092: Crab_Attack_60.0047
+    21300094: Crab_Attack_60.0048
+    21300096: Crab_Attack_60.0049
+    21300098: Crab_Attack_60.0050
+    21300100: Crab_Attack_60.0051
+    21300102: Crab_Attack_60.0052
+    21300104: Crab_Attack_60.0053
+    21300106: Crab_Attack_60.0054
+    21300108: Crab_Attack_60.0055
+    21300110: Crab_Attack_60.0056
+    21300112: Crab_Attack_60.0057
+    21300114: Crab_Attack_60.0058
+    21300116: Crab_Attack_60.0059
+    21300118: Crab_Attack_60.0060
+    21300120: Crab_Attack_60.0061
+    21300122: Crab_Attack_60.0062
+    21300124: Crab_Attack_60.0063
+    21300126: Crab_Attack_60.0064
+    21300128: Crab_Attack_60.0065
+    21300130: Crab_Attack_60.0066
+    21300132: Crab_Attack_60.0067
+    21300134: Crab_Attack_60.0068
+    21300136: Crab_Attack_60.0069
+    21300138: Crab_Attack_60.0070
+    21300140: Crab_Attack_60.0071
+    21300142: Crab_Attack_60.0072
+    21300144: Crab_Attack_60.0073
+    21300146: Crab_Attack_60.0074
+    21300148: Crab_Attack_60.0075
+    21300150: Crab_Attack_60.0076
+    21300152: Crab_Attack_60.0077
+    21300154: Crab_Attack_60.0078
+    21300156: Crab_Attack_60.0079
+    21300158: Crab_Attack_60.0080
+    21300160: Crab_Idle.0001
+    21300162: Crab_Idle.0002
+    21300164: Crab_Idle.0003
+    21300166: Crab_Idle.0004
+    21300168: Crab_Idle.0005
+    21300170: Crab_Idle.0006
+    21300172: Crab_Idle.0007
+    21300174: Crab_Idle.0008
+    21300176: Crab_Idle.0009
+    21300178: Crab_Idle.0010
+    21300180: Crab_Idle.0011
+    21300182: Crab_Idle.0012
+    21300184: Crab_Idle.0013
+    21300186: Crab_Idle.0014
+    21300188: Crab_Idle.0015
+    21300190: Crab_Idle.0016
+    21300192: Crab_Idle.0017
+    21300194: Crab_Idle.0018
+    21300196: Crab_Idle.0019
+    21300198: Crab_Idle.0020
+    21300200: Crab_Idle.0021
+    21300202: Crab_Idle.0022
+    21300204: Crab_Idle.0023
+    21300206: Crab_Idle.0024
+    21300208: Crab_Idle.0025
+    21300210: Crab_Idle.0026
+    21300212: Crab_Idle.0027
+    21300214: Crab_Idle.0028
+    21300216: Crab_Idle.0029
+    21300218: Crab_Idle.0030
+    21300220: Crab_Idle.0031
+    21300222: Crab_Idle.0032
+    21300224: Crab_Idle.0033
+    21300226: Crab_Idle.0034
+    21300228: Crab_Idle.0035
+    21300230: Crab_Idle.0036
+    21300232: Crab_Idle.0037
+    21300234: Crab_Idle.0038
+    21300236: Crab_Idle.0039
+    21300238: Crab_Idle.0040
+    21300240: Crab_Idle.0041
+    21300242: Crab_Idle.0042
+    21300244: Crab_Idle.0043
+    21300246: Crab_Idle.0044
+    21300248: Crab_Idle.0045
+    21300250: Crab_Idle.0046
+    21300252: Crab_Idle.0047
+    21300254: Crab_Idle.0048
+    21300256: Crab_Idle.0049
+    21300258: Crab_Idle.0050
+    21300260: Crab_Idle.0051
+    21300262: Crab_Idle.0052
+    21300264: Crab_Idle.0053
+    21300266: Crab_Idle.0054
+    21300268: Crab_Idle.0055
+    21300270: Crab_Idle.0056
+    21300272: Crab_Idle.0057
+    21300274: Crab_Idle.0058
+    21300276: Crab_Idle.0059
+    21300278: Crab_Idle.0060
+    21300280: Crab_Idle.0061
+    21300282: Crab_Idle.0062
+    21300284: Crab_Idle.0063
+    21300286: Crab_Idle.0064
+    21300288: Crab_Idle.0065
+    21300290: Crab_Idle.0066
+    21300292: Crab_Idle.0067
+    21300294: Crab_Idle.0068
+    21300296: Crab_Idle.0069
+    21300298: Crab_Idle.0070
+    21300300: Crab_Idle.0071
+    21300302: Crab_Idle.0072
+    21300304: Crab_Idle.0073
+    21300306: Crab_Idle.0074
+    21300308: Crab_Idle.0075
+    21300310: Crab_Idle.0076
+    21300312: Crab_Idle.0077
+    21300314: Crab_Idle.0078
+    21300316: Crab_Idle.0079
+    21300318: Crab_Idle.0080
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 425
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Crab_Attack_60.0001
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 3696
+        width: 507
+        height: 398
+      alignment: 9
+      pivot: {x: .412228793, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2573
+        width: 503
+        height: 398
+      alignment: 9
+      pivot: {x: .415506959, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0005
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 3696
+        width: 499
+        height: 398
+      alignment: 9
+      pivot: {x: .422845691, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0007
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 3325
+        width: 494
+        height: 397
+      alignment: 9
+      pivot: {x: .431174099, y: .501259446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0009
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 2926
+        width: 488
+        height: 395
+      alignment: 9
+      pivot: {x: .440573782, y: .503797472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0011
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1100
+        width: 481
+        height: 393
+      alignment: 9
+      pivot: {x: .451143444, y: .506361306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0013
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1131
+        width: 472
+        height: 390
+      alignment: 9
+      pivot: {x: .461864412, y: .51025641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0015
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 463
+        height: 385
+      alignment: 9
+      pivot: {x: .475161999, y: .516883135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0017
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 9
+        width: 453
+        height: 379
+      alignment: 9
+      pivot: {x: .487858713, y: .525065958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0019
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 755
+        width: 444
+        height: 373
+      alignment: 9
+      pivot: {x: .497747749, y: .533512056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0021
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 3725
+        width: 437
+        height: 369
+      alignment: 9
+      pivot: {x: .505720794, y: .539295375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0023
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 3356
+        width: 432
+        height: 367
+      alignment: 9
+      pivot: {x: .513888896, y: .544959128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0025
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 2990
+        width: 426
+        height: 364
+      alignment: 9
+      pivot: {x: .518779337, y: .549450576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0027
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 725
+        width: 421
+        height: 362
+      alignment: 9
+      pivot: {x: .52494061, y: .552486181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0029
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 413
+        width: 416
+        height: 361
+      alignment: 9
+      pivot: {x: .528846145, y: .55401665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0031
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 50
+        width: 414
+        height: 361
+      alignment: 9
+      pivot: {x: .531400979, y: .55401665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0033
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 49
+        width: 414
+        height: 362
+      alignment: 9
+      pivot: {x: .531400979, y: .552486181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0035
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 760
+        width: 416
+        height: 369
+      alignment: 9
+      pivot: {x: .528846145, y: .54200542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0037
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 15
+        width: 446
+        height: 373
+      alignment: 9
+      pivot: {x: .493273556, y: .536193013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0039
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 725
+        width: 477
+        height: 373
+      alignment: 9
+      pivot: {x: .461215943, y: .536193013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0041
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2973
+        width: 504
+        height: 374
+      alignment: 9
+      pivot: {x: .43650794, y: .534759343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0043
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3349
+        width: 520
+        height: 373
+      alignment: 9
+      pivot: {x: .419230759, y: .536193013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0045
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 3723
+        width: 527
+        height: 371
+      alignment: 9
+      pivot: {x: .394686908, y: .53908354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0047
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3725
+        width: 535
+        height: 369
+      alignment: 9
+      pivot: {x: .370093465, y: .54200542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0049
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3724
+        width: 539
+        height: 370
+      alignment: 9
+      pivot: {x: .350649357, y: .548648655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0051
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3725
+        width: 535
+        height: 369
+      alignment: 9
+      pivot: {x: .33644861, y: .550135493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0053
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3354
+        width: 525
+        height: 369
+      alignment: 9
+      pivot: {x: .333333343, y: .550135493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0055
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 3354
+        width: 515
+        height: 369
+      alignment: 9
+      pivot: {x: .343689322, y: .550135493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0057
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 3724
+        width: 499
+        height: 370
+      alignment: 9
+      pivot: {x: .366733462, y: .548648655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0059
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 1888
+        width: 480
+        height: 371
+      alignment: 9
+      pivot: {x: .395833343, y: .547169805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0061
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 14
+        width: 469
+        height: 374
+      alignment: 9
+      pivot: {x: .422174841, y: .542780757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0063
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 1130
+        width: 475
+        height: 378
+      alignment: 9
+      pivot: {x: .4336842, y: .537037015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0065
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 753
+        width: 477
+        height: 382
+      alignment: 9
+      pivot: {x: .440251559, y: .531413615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0067
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1070
+        width: 480
+        height: 382
+      alignment: 9
+      pivot: {x: .443749994, y: .52094239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0069
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1454
+        width: 482
+        height: 385
+      alignment: 9
+      pivot: {x: .443983406, y: .516883135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0071
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1814
+        width: 484
+        height: 389
+      alignment: 9
+      pivot: {x: .438016534, y: .511568129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0073
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 3302
+        width: 492
+        height: 392
+      alignment: 9
+      pivot: {x: .426829278, y: .507653058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0075
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2957
+        width: 500
+        height: 395
+      alignment: 9
+      pivot: {x: .418000013, y: .503797472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0077
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2955
+        width: 504
+        height: 397
+      alignment: 9
+      pivot: {x: .414682537, y: .501259446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Attack_60.0079
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 3323
+        width: 507
+        height: 398
+      alignment: 9
+      pivot: {x: .412228793, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0001
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2205
+        width: 485
+        height: 365
+      alignment: 9
+      pivot: {x: .383505166, y: .528767109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0003
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 2196
+        width: 485
+        height: 365
+      alignment: 9
+      pivot: {x: .383505166, y: .528767109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0005
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1861
+        width: 485
+        height: 365
+      alignment: 9
+      pivot: {x: .383505166, y: .528767109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1841
+        width: 485
+        height: 364
+      alignment: 9
+      pivot: {x: .383505166, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0009
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 2261
+        width: 485
+        height: 364
+      alignment: 9
+      pivot: {x: .383505166, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0011
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1830
+        width: 484
+        height: 364
+      alignment: 9
+      pivot: {x: .38429752, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0013
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1464
+        width: 482
+        height: 364
+      alignment: 9
+      pivot: {x: .385892123, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0015
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 1510
+        width: 479
+        height: 364
+      alignment: 9
+      pivot: {x: .388308972, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0017
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1099
+        width: 478
+        height: 363
+      alignment: 9
+      pivot: {x: .389121354, y: .531680465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0019
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1523
+        width: 476
+        height: 363
+      alignment: 9
+      pivot: {x: .390756309, y: .531680465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0021
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 734
+        width: 473
+        height: 363
+      alignment: 9
+      pivot: {x: .39323467, y: .531680465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0023
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1140
+        width: 472
+        height: 362
+      alignment: 9
+      pivot: {x: .394067794, y: .533149183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0025
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 776
+        width: 472
+        height: 362
+      alignment: 9
+      pivot: {x: .394067794, y: .533149183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0027
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 390
+        width: 473
+        height: 361
+      alignment: 9
+      pivot: {x: .39323467, y: .534626067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0029
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1089
+        width: 475
+        height: 361
+      alignment: 9
+      pivot: {x: .391578943, y: .534626067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0031
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1504
+        width: 476
+        height: 361
+      alignment: 9
+      pivot: {x: .390756309, y: .534626067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0033
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 708
+        width: 477
+        height: 360
+      alignment: 9
+      pivot: {x: .389937103, y: .536111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0035
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1452
+        width: 479
+        height: 360
+      alignment: 9
+      pivot: {x: .388308972, y: .536111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0037
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 1867
+        width: 480
+        height: 360
+      alignment: 9
+      pivot: {x: .387499988, y: .536111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0039
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1137
+        width: 482
+        height: 360
+      alignment: 9
+      pivot: {x: .385892123, y: .536111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0041
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1495
+        width: 483
+        height: 360
+      alignment: 9
+      pivot: {x: .385093182, y: .536111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0043
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1499
+        width: 484
+        height: 360
+      alignment: 9
+      pivot: {x: .38429752, y: .536111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0045
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1876
+        width: 485
+        height: 360
+      alignment: 9
+      pivot: {x: .383505166, y: .536111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0047
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 2238
+        width: 486
+        height: 360
+      alignment: 9
+      pivot: {x: .38271606, y: .536111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0049
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 2563
+        width: 487
+        height: 361
+      alignment: 9
+      pivot: {x: .381930172, y: .534626067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0051
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 2228
+        width: 487
+        height: 361
+      alignment: 9
+      pivot: {x: .381930172, y: .534626067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0053
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 2627
+        width: 488
+        height: 361
+      alignment: 9
+      pivot: {x: .381147534, y: .534626067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0055
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 2938
+        width: 488
+        height: 362
+      alignment: 9
+      pivot: {x: .381147534, y: .533149183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0057
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2961
+        width: 488
+        height: 362
+      alignment: 9
+      pivot: {x: .381147534, y: .533149183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0059
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2590
+        width: 488
+        height: 363
+      alignment: 9
+      pivot: {x: .381147534, y: .531680465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0061
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3331
+        width: 488
+        height: 363
+      alignment: 9
+      pivot: {x: .381147534, y: .531680465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0063
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2966
+        width: 488
+        height: 363
+      alignment: 9
+      pivot: {x: .381147534, y: .531680465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0065
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2591
+        width: 488
+        height: 364
+      alignment: 9
+      pivot: {x: .381147534, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0067
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 2600
+        width: 487
+        height: 364
+      alignment: 9
+      pivot: {x: .381930172, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0069
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 2572
+        width: 487
+        height: 364
+      alignment: 9
+      pivot: {x: .381930172, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0071
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2224
+        width: 486
+        height: 364
+      alignment: 9
+      pivot: {x: .38271606, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0073
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2207
+        width: 486
+        height: 364
+      alignment: 9
+      pivot: {x: .38271606, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0075
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 2595
+        width: 486
+        height: 364
+      alignment: 9
+      pivot: {x: .38271606, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0077
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 2229
+        width: 485
+        height: 364
+      alignment: 9
+      pivot: {x: .383505166, y: .530219793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crab_Idle.0079
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1857
+        width: 485
+        height: 365
+      alignment: 9
+      pivot: {x: .383505166, y: .528767109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
