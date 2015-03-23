@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5D093BBE-3FC6-C345-DA59-AF40C3FBDC11}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace></RootNamespace>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
+    <UnityVersion>5.0.0f4</UnityVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_0_0;UNITY_5_0;UNITY_5;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_MONO;DEVELOPMENT_BUILD;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_0_0;UNITY_5_0;UNITY_5;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_MONO;DEVELOPMENT_BUILD;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\CameraScript.cs" />
+    <Compile Include="Assets\GUILF.cs" />
+    <Compile Include="Assets\GUIManager.cs" />
+    <Compile Include="Assets\MusicManager.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\AbilityAOE.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\AbilityAOE_PS.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\AllySlow.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\CooldownTimerScripts.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\DiverScript.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\OctopusSlow.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\ReefSharkScript.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\SeaTurtleScript.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\ButtonAllowForBuild.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\Projectile.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\ProjectileSlow.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\SpecialAttackScript.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\UnitAllowForSelection.cs" />
+    <Compile Include="Assets\Scripts\Ally Related Scripts\UnitStatScript.cs" />
+    <Compile Include="Assets\Scripts\Chest &amp; Bubbles\ChestScript.cs" />
+    <Compile Include="Assets\Scripts\Chest &amp; Bubbles\OnClickCollectBubble.cs" />
+    <Compile Include="Assets\Scripts\Chest &amp; Bubbles\TreasureGet.cs" />
+    <Compile Include="Assets\Scripts\DetectTouches.cs" />
+    <Compile Include="Assets\Scripts\Enemy Related Scripts\ArmoredLionFishScript.cs" />
+    <Compile Include="Assets\Scripts\Enemy Related Scripts\EnemySpawn.cs" />
+    <Compile Include="Assets\Scripts\Enemy Related Scripts\EnemySpecialsScript.cs" />
+    <Compile Include="Assets\Scripts\Enemy Related Scripts\EnemyStatScript.cs" />
+    <Compile Include="Assets\Scripts\GUI Scripts\BioSceneGUI.cs" />
+    <Compile Include="Assets\Scripts\GUI Scripts\DonateMenuGUI.cs" />
+    <Compile Include="Assets\Scripts\GUI Scripts\FishSelectionGUI.cs" />
+    <Compile Include="Assets\Scripts\GUI Scripts\GameGUI.cs" />
+    <Compile Include="Assets\Scripts\GUI Scripts\InstructionsGUI.cs" />
+    <Compile Include="Assets\Scripts\GUI Scripts\LevelSelectGUI.cs" />
+    <Compile Include="Assets\Scripts\GUI Scripts\LoseGUI.cs" />
+    <Compile Include="Assets\Scripts\GUI Scripts\StartMenuGUI.cs" />
+    <Compile Include="Assets\Scripts\GUI Scripts\TutorialScript.cs" />
+    <Compile Include="Assets\Scripts\GUI Scripts\WinGUI.cs" />
+    <Compile Include="Assets\Scripts\Manager Scripts\AudioManager.cs" />
+    <Compile Include="Assets\Scripts\Manager Scripts\BuildManager.cs" />
+    <Compile Include="Assets\Scripts\Manager Scripts\GameStateManager.cs" />
+    <Compile Include="Assets\Scripts\Manager Scripts\ResourceManager.cs" />
+    <Compile Include="Assets\Scripts\Manager Scripts\SceneManager.cs" />
+    <Compile Include="Assets\Scripts\Manager Scripts\UnitManager.cs" />
+    <Compile Include="Assets\Scripts\Tile Scripts\AllowForBuildOnTile.cs" />
+    <Compile Include="Assets\Scripts\Tile Scripts\LevelSpawn.cs" />
+    <Compile Include="Assets\Scripts\Tile Scripts\TileHighlightWhileBuilding.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\codeandweb.com\Readme.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />
+</Project>

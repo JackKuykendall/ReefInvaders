@@ -15,7 +15,7 @@ public class ChestScript : MonoBehaviour {
 	public bool isOpen;
 	private float chestOpenCounter;
 	private float counter;
-	private float chestCloseCounter = 1;
+	private float chestCloseCounter;
 	#endregion
 
 	// Use this for initialization
@@ -23,6 +23,7 @@ public class ChestScript : MonoBehaviour {
 	{
 		chestOpenCounter = chestOpenDelay;
 		//Set the Counter
+		chestCloseCounter = chestOpenDelay;
 		counter = spawnTime;
 	}
 	
@@ -79,7 +80,7 @@ public class ChestScript : MonoBehaviour {
 				counter = spawnTime;
 				chestOpenCounter = chestOpenDelay;
 				shouldSpawn = true;
-				chestCloseCounter = 1f;
+				chestCloseCounter = chestOpenDelay;
 
 
 			}
