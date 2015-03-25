@@ -46,10 +46,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CameraScript.cs" />
-     <Compile Include="Assets\GUILF.cs" />
-     <Compile Include="Assets\GUIManager.cs" />
-     <Compile Include="Assets\MusicManager.cs" />
      <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\AbilityAOE.cs" />
      <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\AbilityAOE_PS.cs" />
      <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\AllySlow.cs" />
@@ -64,6 +60,7 @@
      <Compile Include="Assets\Scripts\Ally Related Scripts\SpecialAttackScript.cs" />
      <Compile Include="Assets\Scripts\Ally Related Scripts\UnitAllowForSelection.cs" />
      <Compile Include="Assets\Scripts\Ally Related Scripts\UnitStatScript.cs" />
+     <Compile Include="Assets\Scripts\CameraScript.cs" />
      <Compile Include="Assets\Scripts\Chest &amp; Bubbles\ChestScript.cs" />
      <Compile Include="Assets\Scripts\Chest &amp; Bubbles\OnClickCollectBubble.cs" />
      <Compile Include="Assets\Scripts\Chest &amp; Bubbles\TreasureGet.cs" />
@@ -84,7 +81,9 @@
      <Compile Include="Assets\Scripts\GUI Scripts\WinGUI.cs" />
      <Compile Include="Assets\Scripts\Manager Scripts\AudioManager.cs" />
      <Compile Include="Assets\Scripts\Manager Scripts\BuildManager.cs" />
+     <Compile Include="Assets\Scripts\Manager Scripts\GUIManager.cs" />
      <Compile Include="Assets\Scripts\Manager Scripts\GameStateManager.cs" />
+     <Compile Include="Assets\Scripts\Manager Scripts\MusicManager.cs" />
      <Compile Include="Assets\Scripts\Manager Scripts\ResourceManager.cs" />
      <Compile Include="Assets\Scripts\Manager Scripts\SceneManager.cs" />
      <Compile Include="Assets\Scripts\Manager Scripts\UnitManager.cs" />
