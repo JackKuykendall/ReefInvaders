@@ -46,12 +46,10 @@ public class ChestScript : MonoBehaviour {
 			if (shouldSpawn) {
 				if (this.gameObject.GetComponent<Animator>() != null) 
 				{
-					Debug.Log("Open");
 					isOpen = true;
 					this.gameObject.GetComponent<Animator>().SetBool("Open",isOpen);
 				}	
 				if (chestOpenCounter <= 0) {
-					Debug.Log("Spawn");
 					//Spawn X number of objects at the chests position
 					for (int i = 0; i < numberOfObjectsToSpawn; i++) {
 						Instantiate(objectsToSpawn[Random.Range(0,objectsToSpawn.Count)],this.gameObject.transform.position - new Vector3(0,0,4),Quaternion.identity);
@@ -61,7 +59,6 @@ public class ChestScript : MonoBehaviour {
 				}
 				else 
 				{
-					Debug.Log(chestCloseCounter);
 					chestOpenCounter-=Time.deltaTime;
 				}
 
@@ -72,7 +69,6 @@ public class ChestScript : MonoBehaviour {
 
 				if (this.gameObject.GetComponent<Animator>() != null) 
 				{
-					Debug.Log("Close");
 					isOpen = false;
 					this.gameObject.GetComponent<Animator>().SetBool("Open",isOpen);
 				}
