@@ -22,7 +22,6 @@ public class GUIManager : MonoBehaviour {
         AudioManager.Click();
         musicManager.ChangeMusicToMenu(gameMusic, menuMusic);
         Application.LoadLevel(scene);
-        Destroy(this.gameObject);
     }
 
     public void ChangeToLevel(string scene)
@@ -40,10 +39,14 @@ public class GUIManager : MonoBehaviour {
         {
             musicManager.ChangeMusicToGame(menuMusic, gameMusic, 2);
         }
-
-        DontDestroyOnLoad(this.gameObject);
         AudioManager.Click();      
         Application.LoadLevel(scene);
+
+    }
+
+    public void ReplayLevel()
+    {
+        Application.LoadLevel(Application.loadedLevel);
 
     }
 

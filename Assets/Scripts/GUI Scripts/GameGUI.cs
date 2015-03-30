@@ -155,11 +155,16 @@ public class GameGUI : MonoBehaviour {
             }
 			if (SceneManager.isPaused) 
 			{
+                if(SceneManager.hasLostStat || SceneManager.hasWonStat)
+                {
+                    shouldShowPauseScreen = false;
+                }
 				if (shouldShowPauseScreen) 
 				{	
 	                if (GUI.Button(rectangle, play, unPauseGUI))
 	                {
 	                    SceneManager.isPaused = false;
+                        shouldShowPauseScreen = false;
 	                }
 					//creates Main Menu button
 					if (GUI.Button(mmButtonPosition,mainMenu,unPauseGUI)) 

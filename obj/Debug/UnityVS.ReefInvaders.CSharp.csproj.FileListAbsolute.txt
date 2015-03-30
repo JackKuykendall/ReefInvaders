@@ -1,0 +1,11 @@
+C:\Users\Jack\Documents\GitHub\ReefInvaders\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Jack\Documents\GitHub\ReefInvaders\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Jack\Documents\GitHub\ReefInvaders\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Jack\Documents\GitHub\ReefInvaders\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Jack\Documents\GitHub\ReefInvaders\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Jack\Documents\GitHub\ReefInvaders\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Jack\Documents\GitHub\ReefInvaders\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Jack\Documents\GitHub\ReefInvaders\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Jack\Documents\GitHub\ReefInvaders\obj\Debug\UnityVS.ReefInvaders.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\GitHub\ReefInvaders\obj\Debug\Assembly-CSharp.dll
+C:\Users\Jack\Documents\GitHub\ReefInvaders\obj\Debug\Assembly-CSharp.pdb

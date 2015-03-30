@@ -75,10 +75,8 @@
      <Compile Include="Assets\Scripts\GUI Scripts\GameGUI.cs" />
      <Compile Include="Assets\Scripts\GUI Scripts\InstructionsGUI.cs" />
      <Compile Include="Assets\Scripts\GUI Scripts\LevelSelectGUI.cs" />
-     <Compile Include="Assets\Scripts\GUI Scripts\LoseGUI.cs" />
      <Compile Include="Assets\Scripts\GUI Scripts\StartMenuGUI.cs" />
      <Compile Include="Assets\Scripts\GUI Scripts\TutorialScript.cs" />
-     <Compile Include="Assets\Scripts\GUI Scripts\WinGUI.cs" />
      <Compile Include="Assets\Scripts\Manager Scripts\AudioManager.cs" />
      <Compile Include="Assets\Scripts\Manager Scripts\BuildManager.cs" />
      <Compile Include="Assets\Scripts\Manager Scripts\GUIManager.cs" />

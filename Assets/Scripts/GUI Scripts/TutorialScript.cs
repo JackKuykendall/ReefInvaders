@@ -107,6 +107,7 @@ public class TutorialScript : MonoBehaviour
 
     public void HideHints(int index)
     {
+        AudioManager.Click();
         if(!shouldShowHints)
         {
             shouldShowHints = true;
@@ -122,6 +123,7 @@ public class TutorialScript : MonoBehaviour
 
     public void Thanks(int index)
     {
+        AudioManager.Click();
         tutorials[index].GetComponent<Animation>().PlayQueued("TutorialDone");
         SceneManager.isPaused = false;
     }

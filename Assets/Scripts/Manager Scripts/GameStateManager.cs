@@ -16,14 +16,14 @@ public class GameStateManager : MonoBehaviour
 	void Update () 
 	{
 
-		if (gameState == GameState.Loss) 
+		/*if (gameState == GameState.Loss) 
 		{
 			sceneManager.ChangeScene(SceneManager.Scene.Lose);
 		}
 		if (gameState == GameState.Win) 
 		{
 			sceneManager.ChangeScene(SceneManager.Scene.Win);
-		}
+		}*/
 	
 	}
 }

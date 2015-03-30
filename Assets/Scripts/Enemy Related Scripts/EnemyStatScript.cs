@@ -247,7 +247,7 @@ public class EnemyStatScript : MonoBehaviour
 
         if (hasAttachment)
         {
-            AudioManager.PlayDamagedSound(isHitWASound, volume, pitch);
+            AudioManager.PlayDamagedSound(isHitSound, 1, .5f);
         }
         else
         {
