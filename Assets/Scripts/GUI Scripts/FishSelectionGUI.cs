@@ -9,6 +9,7 @@ public class FishSelectionGUI : MonoBehaviour {
     public GUIStyle myStyle;
     public Texture2D squareBubble;
     public Texture2D testTexture;
+    public Texture2D lockTex;
     private Rect rectangle;
     private Rect selectionBox;
     private Rect selected;
@@ -16,7 +17,6 @@ public class FishSelectionGUI : MonoBehaviour {
 
 	public int alliesToSelect;
 	public GameObject[] fishToBeChosen;
-	public Material lockedMaterial;
 	public GameGUI gameGUI;
     public List<Rect> choices = new List<Rect>();
 
@@ -94,7 +94,7 @@ public class FishSelectionGUI : MonoBehaviour {
 				}
 				else 
 				{
-					if(GUI.Button(choices[i], lockedMaterial.GetTexture(0), myStyle))
+                    if (GUI.Button(choices[i], lockTex, myStyle))
 					{
                         AudioManager.Click();
 						break;

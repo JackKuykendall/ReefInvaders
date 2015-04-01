@@ -204,7 +204,11 @@ TextureImporter:
   spritePixelsToUnits: 425
   alphaIsTransparency: 1
   textureType: 8
-  buildTargetSettings: []
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
   spriteSheet:
     sprites:
     - name: Ice_Lionfish_Attack.0001
