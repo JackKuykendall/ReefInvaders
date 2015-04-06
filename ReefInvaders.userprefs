@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Chest &amp; Bubbles\ChestScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy Related Scripts\EnemySpawn.cs">
     <Files>
-      <File FileName="Assets\Scripts\Chest &amp; Bubbles\ChestScript.cs" Line="61" Column="6" />
+      <File FileName="Assets\Scripts\Enemy Related Scripts\EnemySpawn.cs" Line="9" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

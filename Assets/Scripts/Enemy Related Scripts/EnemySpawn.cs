@@ -6,6 +6,7 @@ public class EnemySpawn : MonoBehaviour {
 
 	//public GameObject enemy;
 	public float timeForFirstSpawn = 5f;
+	public List<GameObject> lionFish;
 	public List<GameObject> enemies;
 	public List<float> spawnTimes;
 	//public float timeBetweenSpawnsInSeconds = 2f;
