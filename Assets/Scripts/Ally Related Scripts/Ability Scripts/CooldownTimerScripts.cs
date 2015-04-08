@@ -6,7 +6,6 @@ public class CooldownTimerScripts : MonoBehaviour
     public GameObject cooldownTimer;
     private SpriteRenderer spriteRenderer;
     public Sprite[] _cooldownTex = new Sprite[9];
-    public Material[] _cooldownMats = new Material[9];
     public float counter = 0;
     public float coolDown;
     protected bool canFire = true;
