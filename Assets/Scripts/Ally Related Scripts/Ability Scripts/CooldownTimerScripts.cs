@@ -13,8 +13,6 @@ public class CooldownTimerScripts : MonoBehaviour
 	// Use this for initialization
     void Start()
     {
-        Vector3 pos = new Vector3(transform.position.x, transform.position.y, transform.position.z - .02f);
-        //Instantiate(cooldownTimer, pos, transform.rotation);
         cooldownTimer.GetComponent<Renderer>().material = _cooldownMats[8];
     }
 

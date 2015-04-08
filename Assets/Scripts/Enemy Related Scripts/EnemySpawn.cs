@@ -6,7 +6,8 @@ public class EnemySpawn : MonoBehaviour {
 
 	//public GameObject enemy;
 	public float timeForFirstSpawn = 5f;
-	public List<GameObject> lionFish;
+	public GameObject[] lionFish;
+	public List<int> enemiesByIndex;
 	public List<GameObject> enemies;
 	public List<float> spawnTimes;
 	//public float timeBetweenSpawnsInSeconds = 2f;
@@ -31,17 +32,29 @@ public class EnemySpawn : MonoBehaviour {
 		sceneManager = GameObject.Find("SceneManager").GetComponent<SceneManager>();
 		gridSpawner = GameObject.Find("LevelSpawner").GetComponent<LevelSpawn>();
 		tags = new string[5];
+		//Set Tags
 		for (int i = 0; i < tags.Length; i++) 
 		{
 			tags[i] = "Lane" + (i + 1);
 			
 		}
+		//Set Spawn Points
 		spawnPoints = new Vector3[5];
 		for (int i = 0; i < 5; i++) 
 		{
 			spawnPoints[i] = new Vector3(8.5f + gridSpawner.xGridOffset,i + gridSpawner.yGridOffset,-.15f);
 		}
-		fishToSpawn = enemies.Count;
+		//If we are spawning enemies by their index
+		if (enemiesByIndex.Count > 0) 
+		{
+			fishToSpawn = enemiesByIndex.Count;
+		}
+		//or if we are spawning them by the gameobject 
+		else 
+		{
+			fishToSpawn = enemies.Count;	
+		}
+
 	}
 	
 	// Update is called once per frame
@@ -108,9 +121,21 @@ public class EnemySpawn : MonoBehaviour {
 	{
         AudioManager.Swimming();
 		int x = Random.Range(0,5);
-		GameObject enemyInstance = Instantiate(enemies[0],spawnPoints[x],enemies[0].transform.rotation) as GameObject;
+		GameObject enemyInstance;
+		//If we are spawning by index
+		if (enemiesByIndex.Count > 0) {
+			//spawn a lionfish by it's index and save it as an instance
+			enemyInstance = Instantiate(lionFish[enemiesByIndex[0]],spawnPoints[x],lionFish[enemiesByIndex[0]].transform.rotation) as GameObject;
+			enemiesByIndex.RemoveAt(0);
+		}
+		//If we are spawning by the game object
+		else {
+			//spawn whatever lionfish is next in the list and then save it as an instance
+			enemyInstance = Instantiate(enemies[0],spawnPoints[x],enemies[0].transform.rotation) as GameObject;
+			enemies.RemoveAt(0);
+		}
+		//Set the tag of the fish so that the allies know when to attack
 		enemyInstance.tag = tags[x];
-		enemies.RemoveAt(0);
 		hasSpawned = false;	
 	}
 	public void CallForHint()
