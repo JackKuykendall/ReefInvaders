@@ -95,12 +95,6 @@ public class AudioManager : MonoBehaviour
             audioPlayer.Play();
         }
     }
-
-    static public void ChangeMusic(bool music)
-    {
-
-    }
-
     static public void PlaySound(AudioClip sound, float volume, float pitch)
     {
         audioPlayer.volume = volume;
@@ -128,6 +122,13 @@ public class AudioManager : MonoBehaviour
         audioPlayer.volume = volume;
         audioPlayer.pitch = pitch;
         audioPlayer.PlayOneShot(damagedSTAT[index]);
+    }
+
+    public void Click1()
+    {
+        audioPlayer.volume = 1;
+        audioPlayer.pitch = 1;
+        GetComponent<AudioSource>().PlayOneShot(buttonClick);
     }
 
     static public void Click()

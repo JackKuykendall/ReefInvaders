@@ -38,10 +38,8 @@ public class MusicManager : MonoBehaviour
                 musicTo.volume = 1f;
                 crossFade = false;
             }
-
         }
     }
-
     //This is primarily for switching from gameplay to menu.
     public void ChangeMusicToMenu(AudioSource from, AudioSource to)
     {
@@ -51,7 +49,6 @@ public class MusicManager : MonoBehaviour
         crossFade = true;
 
     }
-
     //This function should be used to change the gameplay music before it fades in.
     //This is meant to accomodate for each world having its own background music.
     public void ChangeMusicToGame(AudioSource from, AudioSource to, int world)

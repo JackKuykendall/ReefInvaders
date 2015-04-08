@@ -45,7 +45,8 @@ public class GameGUI : MonoBehaviour {
 	private float lsButtonWidth;
 	private float lsButtonHeight;
 	private Rect lsButtonPosition;
-	
+
+    private GUIManager guiManager;
 	private ResourceManager resourceManager;
 	private Rect currencyStringRect;
 	private float halfScreenWidth = Screen.width/2;
@@ -61,6 +62,7 @@ public class GameGUI : MonoBehaviour {
 		resourceManager = GameObject.Find("ResourceManager").GetComponent<ResourceManager>();
 		currencyStringRect = new Rect(halfScreenWidth + currencyXOffset,currencyYOffset,currencyWidth,currencyHeight);
 		sceneManager = GameObject.Find("SceneManager").GetComponent<SceneManager>();
+        guiManager = GameObject.FindGameObjectWithTag("GUIManager").GetComponent<GUIManager>();
 		countdown.fontSize = Screen.width/10;
 	}
 	
@@ -170,14 +172,14 @@ public class GameGUI : MonoBehaviour {
 					if (GUI.Button(mmButtonPosition,mainMenu,unPauseGUI)) 
 					{
                         AudioManager.Click();
-                        Application.LoadLevel("SceneStart");
+                        guiManager.ChangeToMenu("SceneStart");
 					}
 					
 					//creates Level Select button
 					if (GUI.Button(lsButtonPosition,levelSelect,unPauseGUI)) 
 					{
                         AudioManager.Click();
-						Application.LoadLevel("SceneLevelSelect");
+                        guiManager.ChangeToMenu("SceneLevelSelect");
 					}
 					
 					//Creates Restart button
