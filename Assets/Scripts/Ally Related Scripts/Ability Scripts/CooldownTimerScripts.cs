@@ -10,20 +10,16 @@ public class CooldownTimerScripts : MonoBehaviour
     public float counter = 0;
     public float coolDown;
     protected bool canFire = true;
-    
 
-	// Use this for initialization
+
+    // Use this for initialization
     void Start()
     {
-<<<<<<< HEAD
         Vector3 pos = new Vector3(transform.position.x, transform.position.y, transform.position.z - .02f);
         //Instantiate(cooldownTimer, pos, transform.rotation);
 
         spriteRenderer = cooldownTimer.GetComponent<SpriteRenderer>();
         spriteRenderer.sprite = _cooldownTex[8];
-=======
-        cooldownTimer.GetComponent<Renderer>().material = _cooldownMats[8];
->>>>>>> origin/Sean's_Branch
     }
 
     // Update is called once per frame
