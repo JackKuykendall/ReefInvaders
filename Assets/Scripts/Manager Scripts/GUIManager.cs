@@ -3,9 +3,12 @@ using System.Collections;
 
 public class GUIManager : MonoBehaviour {
 
+    public static int worldIndex = 1;
+
     private AudioSource menuMusic;
     private AudioSource gameMusic;
     private MusicManager musicManager;
+    
 
     public static bool created = false;
     void Start()
@@ -27,21 +30,56 @@ public class GUIManager : MonoBehaviour {
     public void ChangeToLevel(string scene)
     {
         DontDestroyOnLoad(this.gameObject);
-        if(scene.Contains("World1"))
+        if(worldIndex == 1)
         {
          musicManager.ChangeMusicToGame(menuMusic, gameMusic, 0);
         }
-        else if (scene.Contains("World2"))
+        else if (worldIndex == 2)
         {
             musicManager.ChangeMusicToGame(menuMusic, gameMusic, 1);
         }
-        else if (scene.Contains("World3"))
+        else if (worldIndex == 3)
         {
             musicManager.ChangeMusicToGame(menuMusic, gameMusic, 2);
         }
         AudioManager.Click();      
-        Application.LoadLevel(scene);
+        Application.LoadLevel("World" + worldIndex + scene);
 
+    }
+    public void ChangeWorld(bool Up)
+    {
+        //See if we should be going up or down
+        if (Up)
+        {
+            //change me to the next world(Hardcoded cancer)
+            switch (worldIndex)
+            {
+                case 1:
+                    worldIndex = 2;
+                    break;
+                case 2:
+                    worldIndex = 3;
+                    break;
+                case 3:
+                    worldIndex = 1;
+                    break;
+            }
+        }
+        else
+        {
+            switch (worldIndex)
+            {
+                case 1:
+                    worldIndex = 3;
+                    break;
+                case 2:
+                    worldIndex = 1;
+                    break;
+                case 3:
+                    worldIndex = 2;
+                    break;
+            }
+        }
     }
 
     public void ReplayLevel()

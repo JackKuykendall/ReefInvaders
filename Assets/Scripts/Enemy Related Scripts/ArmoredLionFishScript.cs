@@ -8,7 +8,7 @@ public class ArmoredLionFishScript : MonoBehaviour
 	public int percentageToLoseAttachment = 70;
 
 	private float realPercentage;
-	private Vector3 fallVector = new Vector3(0,-Time.deltaTime*2,0);
+    private Vector3 fallVector;
 	private EnemyStatScript scriptRef;
 
 	// Use this for initialization
@@ -34,7 +34,7 @@ public class ArmoredLionFishScript : MonoBehaviour
 			//CONSIDER:Due to the parent/child connection, when the parent dies
 			//the attachment will also die even if it is still on the screen
 			//Fix:Unparent the attachment at this point
-			attachment.transform.position += fallVector;
+            attachment.transform.position += new Vector3(0, -Time.deltaTime * 2, 0);
 		}
 		
 	}
