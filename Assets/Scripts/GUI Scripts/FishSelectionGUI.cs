@@ -11,7 +11,6 @@ public class FishSelectionGUI : MonoBehaviour {
     public Texture2D testTexture;
     public Texture2D lockTex;
     private Rect rectangle;
-    private Rect selectionBox;
     private Rect selected;
     private Rect confirm;
 
@@ -25,7 +24,6 @@ public class FishSelectionGUI : MonoBehaviour {
 		gameGUI = this.gameObject.GetComponent<GameGUI>();
         rectangle = new Rect(Screen.width / 8, -1f, Screen.width * .75f, Screen.height * .9f);
         selected = new Rect(rectangle.x + rectangle.width * .3f, Screen.height / 8 + (Screen.height * .75f) /20, rectangle.width* .4f, rectangle.height * .1f);
-        selectionBox = new Rect(selected.x + (rectangle.width * 1.8f) / 10, Screen.height / 8 + (Screen.height * .75f) / 20, rectangle.width / 2 - rectangle.width / 20, rectangle.height - rectangle.height / 10);
         confirm = new Rect(Screen.width / 2 - Screen.height / 8 + Screen.height/35, Screen.height - Screen.height / 3.5f, Screen.width / 8, Screen.height / 10);
 
         Plank.fontSize = Screen.width / 40;

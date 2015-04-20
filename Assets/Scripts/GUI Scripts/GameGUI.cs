@@ -41,16 +41,10 @@ public class GameGUI : MonoBehaviour {
 	private float rButtonHeight;
 	private Rect rButtonPosition;
 	
-	//Level Select button variables
-	private float lsButtonWidth;
-	private float lsButtonHeight;
+    //Level Select Button Variables
 	private Rect lsButtonPosition;
 	
 	private ResourceManager resourceManager;
-	private Rect currencyStringRect;
-	private float halfScreenWidth = Screen.width/2;
-	private float halfScreenHeight = Screen.height/2;
-	private SceneManager sceneManager;
 	private BuildManager buildManager;
 	private int fakeIndexer;
 	// Use this for initialization
@@ -59,8 +53,6 @@ public class GameGUI : MonoBehaviour {
 		levelCountdownSize = Screen.width/10;
 		buildManager = GameObject.Find("BuildManager").GetComponent<BuildManager>();
 		resourceManager = GameObject.Find("ResourceManager").GetComponent<ResourceManager>();
-		currencyStringRect = new Rect(halfScreenWidth + currencyXOffset,currencyYOffset,currencyWidth,currencyHeight);
-		sceneManager = GameObject.Find("SceneManager").GetComponent<SceneManager>();
 		countdown.fontSize = Screen.width/10;
 	}
 	
@@ -93,8 +85,6 @@ public class GameGUI : MonoBehaviour {
 		rButtonPosition = new Rect(Screen.width / 3 - rButtonWidth*.5f, Screen.height *.5f - rButtonHeight *.5f, rButtonWidth, rButtonHeight);
 		
 		//Level Select Button Sizing and position variables
-		lsButtonWidth = Screen.width / buttonWidthDivider;
-		lsButtonHeight = Screen.height / buttonHeightDivider;
 		lsButtonPosition = new Rect(Screen.width / (float)1.5 - rButtonWidth *.5f, Screen.height *.5f - rButtonHeight *.5f, rButtonWidth, rButtonHeight);
 		
 		//Debug.Log(currencyStringRect);

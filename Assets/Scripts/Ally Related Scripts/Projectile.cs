@@ -106,6 +106,13 @@ public class Projectile : MonoBehaviour {
 						sr.StunDuration = stunDuration;
 					}
 				}
+                if (canKnockBack)
+                {
+                    if (Random.Range(0, 100) > 100 - knockBackChance)
+                    {
+                        col.transform.position += new Vector3(knockBackDistance, 0, 0);        
+                    }
+                }
 				if (canHealOnHit) 
 				{
 					if (OriginFish != null) 

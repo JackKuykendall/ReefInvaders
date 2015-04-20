@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 public class BuildManager : MonoBehaviour {
-	#region Pulbic Variables
+	#region Public Variables
 	[HideInInspector]
 	public List<GameObject> objectToBuild;
 	#endregion

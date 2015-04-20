@@ -1,27 +1,20 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DetectTouches : MonoBehaviour {
-
-	public bool debugMode = false;
+public class DetectTouches : MonoBehaviour
+{
+    #region Public Variables
+    public bool debugMode = false;
 	public bool isStunned = false;
 	public float stunDuration;
+    #endregion
 
-	private float aspectRatio;
-	private Camera _camera;
-	private Transform[] children;
-
-	// Use this for initialization
+    // Use this for initialization
 	void Start () 
 	{
 		//Forces the Game Screen into Landscape Left Orientation for Moblie Devices
 		Screen.orientation = ScreenOrientation.LandscapeLeft;
-		//Sets the Aspect Ratio On Game Start
-		aspectRatio = (float)Screen.width/(float)Screen.height;
-		//Finds the Camera
-		_camera = Camera.main;
-		//Stores the transforms of the children of this object
-		children = this.gameObject.GetComponentsInChildren<Transform>();
+		
 	}
 	
 	// Update is called once per frame
@@ -30,13 +23,17 @@ public class DetectTouches : MonoBehaviour {
 
 		//If The Game is not paused
 		if (!SceneManager.isPaused) {
+            //Check if I am stunned
 			if (isStunned) 
 			{
+                
 				stunDuration -= Time.deltaTime;
 				if (stunDuration <= 0) 
 				{
+                    //No longer stunned!
 					isStunned = false;
 				}
+                //return out of update(players who are stunned cannot click objects!)
 				return;
 			}
 

@@ -23,27 +23,15 @@ public class TutorialScript : MonoBehaviour
     private string bubbleText;
 
     #region Modal Window Variables
-    float _windowPercentage = .8f;
-    float _windowWidth;
-    float _windowHeight;
-    float _windowButtonPercentage = .2f;
-    float _windowButtonWidth;
-    float _windowButtonHeight;
     float _windowYTartget;
     float _windowYCurrent;
-    float _lerpPercent = .1f;
     #endregion
     // Use this for initialization
     void Start()
     {
         //Modal Window Stuff
 
-            Debug.Log(((1 - _windowPercentage) * .001f));
         tutorials[0].GetComponent<Animation>().wrapMode = WrapMode.Once;
-        _windowWidth = Screen.width * _windowPercentage;
-        _windowHeight = Screen.height * _windowPercentage;
-        _windowButtonWidth = _windowWidth * _windowButtonPercentage;
-        _windowButtonHeight = _windowHeight * _windowButtonPercentage;
         textGUI.fontSize = Screen.width / 30;
         plankGUI.fontSize = Screen.width / 30;
     }

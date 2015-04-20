@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GUILionFish.cs" />
      <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\AbilityAOE.cs" />
      <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\AbilityAOE_PS.cs" />
      <Compile Include="Assets\Scripts\Ally Related Scripts\Ability Scripts\AllySlow.cs" />

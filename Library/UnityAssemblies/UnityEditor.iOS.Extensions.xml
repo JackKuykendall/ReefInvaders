@@ -5,7 +5,7 @@
 	</assembly>
 	<members>
 		<member name="T:UnityEditor.iOS.DeviceType">
-			<summary></summary>
+			<summary>Enumeration for SystemInfo.deviceType, denotes a coarse grouping of kinds of devices.</summary>
 		</member>
 	</members>
 </doc>

@@ -10,12 +10,10 @@ public class LevelSpawn : MonoBehaviour {
 
 	private GameObject gridObject;
 
-	private int[,] grid;
 	// Use this for initialization
 	void Start () 
 	{
 		gridObject = GameObject.Find("Grid");
-		grid = new int[width,length];
 		for (int i = 0; i < length; i++) 
 		{
 			for (int x = 0; x < width; x++) 

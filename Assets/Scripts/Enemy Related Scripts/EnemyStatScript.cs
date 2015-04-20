@@ -40,7 +40,6 @@ public class EnemyStatScript : MonoBehaviour
     private bool shouldMove = true;
     private SceneManager sceneManager;
     private ResourceManager resourceManager;
-    private GameObject[] array;
     private Animator animator;
 	private float stunDuration;
 	private float slowDuration;
@@ -124,14 +123,12 @@ public class EnemyStatScript : MonoBehaviour
         //If game is paused
         if (SceneManager.isPaused)
         {
-			this.GetComponent<Rigidbody>().isKinematic = true;
+		
             //stop updating
             return;
         }
-		else 
-		{
-			this.GetComponent<Rigidbody>().isKinematic = false;
-		}
+
+        //If the enemy is stunned update the stunned information
 		if (isStunned) 
 		{
 			stunDuration -= Time.deltaTime;
@@ -285,8 +282,6 @@ public class EnemyStatScript : MonoBehaviour
             //if I am not belly Up
             if (!isDead)
             {
-                //Store all player units
-                array = GameObject.FindGameObjectsWithTag("PlayerUnit");
                 //if the enemy spawner says player should get money on killing a unit
                 if (GameObject.Find("EnemySpawner").GetComponent<EnemySpawn>().shouldRewardOnKill)
                 {

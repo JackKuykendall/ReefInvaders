@@ -19,31 +19,11 @@ public class SceneManager : MonoBehaviour {
     public GUIStyle plank;
 	private GameObject backgroundImageObject;
 	private GameObject fishToUnlock;
-	// Use this for initpialization
-	
-	#region Modal Window Variables
-	float _windowPercentage = .8f;
-	float _windowWidth;
-	float _windowHeight;
-	float _windowButtonPercentage = .2f;
-	float _windowButtonWidth;
-	float _windowButtonHeight;
-	float _windowYTartget;
-	float _windowYCurrent;
-	float _lerpPercent = .05f;
-	#endregion
+	// Use this for initialization
 	
 	public enum Scene{Start,Instructions,GameScene,Lose,Win}
 	void Start () 
-	{
-		//Modal Window Stuff
-		_windowYTartget = Screen.height * ((1 - _windowPercentage) * .5f);
-		_windowYCurrent = -Screen.height;
-		_windowWidth = Screen.width*_windowPercentage;
-		_windowHeight = Screen.height*_windowPercentage;
-		_windowButtonWidth = _windowWidth*_windowButtonPercentage;
-		_windowButtonHeight = _windowHeight*_windowButtonPercentage;
-		
+	{	
 		reefLifeCounter = backgroundImages.Length;
 		backgroundImageObject = GameObject.FindGameObjectWithTag("BackgroundPlane");
 		isPaused = true;
