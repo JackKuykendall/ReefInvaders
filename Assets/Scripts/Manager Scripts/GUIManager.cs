@@ -1,14 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GUIManager : MonoBehaviour {
+public class GUIManager : MonoBehaviour
+{
 
     public static int worldIndex = 1;
 
     private AudioSource menuMusic;
     private AudioSource gameMusic;
     private MusicManager musicManager;
-    
+
 
     public static bool created = false;
     void Start()
@@ -17,10 +18,10 @@ public class GUIManager : MonoBehaviour {
 
         musicManager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<MusicManager>();
         menuMusic = GameObject.FindGameObjectWithTag("MenuMusic").GetComponent<AudioSource>();
-        gameMusic = GameObject.FindGameObjectWithTag("GameMusic").GetComponent<AudioSource>(); 
+        gameMusic = GameObject.FindGameObjectWithTag("GameMusic").GetComponent<AudioSource>();
 
     }
-	public void ChangeToMenu(string scene)
+    public void ChangeToMenu(string scene)
     {
         AudioManager.Click();
         musicManager.ChangeMusicToMenu(gameMusic, menuMusic);
@@ -30,19 +31,10 @@ public class GUIManager : MonoBehaviour {
     public void ChangeToLevel(string scene)
     {
         DontDestroyOnLoad(this.gameObject);
-        if(worldIndex == 1)
-        {
-         musicManager.ChangeMusicToGame(menuMusic, gameMusic, 0);
-        }
-        else if (worldIndex == 2)
-        {
-            musicManager.ChangeMusicToGame(menuMusic, gameMusic, 1);
-        }
-        else if (worldIndex == 3)
-        {
-            musicManager.ChangeMusicToGame(menuMusic, gameMusic, 2);
-        }
-        AudioManager.Click();      
+
+        musicManager.ChangeMusicToGame(menuMusic, gameMusic, worldIndex - 1);
+
+        AudioManager.Click();
         Application.LoadLevel("World" + worldIndex + scene);
 
     }

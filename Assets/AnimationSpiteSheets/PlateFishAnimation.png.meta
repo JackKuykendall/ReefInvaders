@@ -126,7 +126,11 @@ TextureImporter:
   spritePixelsToUnits: 225
   alphaIsTransparency: 1
   textureType: 8
-  buildTargetSettings: []
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
   spriteSheet:
     sprites:
     - name: Platefish_Final_Attack.0001

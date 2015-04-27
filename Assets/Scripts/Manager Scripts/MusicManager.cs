@@ -61,7 +61,9 @@ public class MusicManager : MonoBehaviour
         musicTo = to;
         if (worlds[world] != null)
         {
+            musicTo.Stop();
             musicTo.clip = worlds[world];
+            musicTo.Play();
         }
 
         crossFade = true;

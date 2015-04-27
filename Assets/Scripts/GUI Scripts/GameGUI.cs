@@ -40,6 +40,7 @@ public class GameGUI : MonoBehaviour {
 	private float rButtonWidth;
 	private float rButtonHeight;
 	private Rect rButtonPosition;
+    private GUIManager guiManager;
 	
     //Level Select Button Variables
 	private Rect lsButtonPosition;
@@ -50,6 +51,7 @@ public class GameGUI : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
+        guiManager = GameObject.FindGameObjectWithTag("GUIManager").GetComponent<GUIManager>();
 		levelCountdownSize = Screen.width/10;
 		buildManager = GameObject.Find("BuildManager").GetComponent<BuildManager>();
 		resourceManager = GameObject.Find("ResourceManager").GetComponent<ResourceManager>();
@@ -160,14 +162,14 @@ public class GameGUI : MonoBehaviour {
 					if (GUI.Button(mmButtonPosition,mainMenu,unPauseGUI)) 
 					{
                         AudioManager.Click();
-                        Application.LoadLevel("SceneStart");
+                        guiManager.ChangeToMenu("SceneStart");
 					}
 					
 					//creates Level Select button
 					if (GUI.Button(lsButtonPosition,levelSelect,unPauseGUI)) 
 					{
                         AudioManager.Click();
-						Application.LoadLevel("SceneLevelSelect");
+                        guiManager.ChangeToMenu("SceneLevelSelect");
 					}
 					
 					//Creates Restart button
