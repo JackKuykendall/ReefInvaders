@@ -24,7 +24,7 @@ public class EnemyStatScript : MonoBehaviour
 	[HideInInspector]
 	public bool isStunned = false;
 	public bool willBellyUp;
-
+    public bool isBoss;
     public List<GameObject> Targets;
     #endregion
 
@@ -150,8 +150,17 @@ public class EnemyStatScript : MonoBehaviour
                 //If the object has moved off screen left
                 if (this.gameObject.transform.position.x <= -2)
                 {
+
                     //Damage the Reef
-                    sceneManager.GetComponent<SceneManager>().DamageReef();
+                    if (isBoss)
+                    {
+                        sceneManager.GetComponent<SceneManager>().KillReef();
+                    }
+                    else
+                    {
+                        sceneManager.GetComponent<SceneManager>().DamageReef();
+                    }
+                    
 					OnDeath();
                     canDamageReef = false;
                 }
@@ -320,7 +329,7 @@ public class EnemyStatScript : MonoBehaviour
         }
     }
     //Function that handles the attacking
-    public virtual void Attack()
+    public void Attack()
     {
 		if (isDead) 
 		{
@@ -409,5 +418,11 @@ public class EnemyStatScript : MonoBehaviour
 		}
 		Destroy(this.gameObject);
 	}
+    public void Capture()
+    {
+        health = 0;
+        isDead = true;
+        Clicked();
+    }
 
 }

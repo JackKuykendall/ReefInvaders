@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: 5cedd317158ce0647ad3afd4ec98d86e
+timeCreated: 1429905646
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DevilFish_Attack.0001
+    21300002: DevilFish_Attack.0003
+    21300004: DevilFish_Attack.0005
+    21300006: DevilFish_Attack.0007
+    21300008: DevilFish_Attack.0009
+    21300010: DevilFish_Attack.0011
+    21300012: DevilFish_Attack.0013
+    21300014: DevilFish_Attack.0015
+    21300016: DevilFish_Attack.0017
+    21300018: DevilFish_Attack.0019
+    21300020: DevilFish_Attack.0021
+    21300022: DevilFish_Attack.0023
+    21300024: DevilFish_Attack.0025
+    21300026: DevilFish_Attack.0027
+    21300028: DevilFish_Attack.0029
+    21300030: DevilFish_Attack.0031
+    21300032: DevilFish_Attack.0033
+    21300034: DevilFish_Attack.0035
+    21300036: DevilFish_Attack.0037
+    21300038: DevilFish_Attack.0039
+    21300040: DevilFish_Attack.0041
+    21300042: DevilFish_Attack.0043
+    21300044: DevilFish_Attack.0045
+    21300046: DevilFish_Attack.0047
+    21300048: DevilFish_Attack.0049
+    21300050: DevilFish_Attack.0051
+    21300052: DevilFish_Attack.0053
+    21300054: DevilFish_Attack.0055
+    21300056: DevilFish_Attack.0057
+    21300058: DevilFish_Attack.0059
+    21300060: DevilFish_Attack.0061
+    21300062: DevilFish_Attack.0063
+    21300064: DevilFish_Attack.0065
+    21300066: DevilFish_Attack.0067
+    21300068: DevilFish_Attack.0069
+    21300070: DevilFish_Attack.0071
+    21300072: DevilFish_Attack.0073
+    21300074: DevilFish_Attack.0075
+    21300076: DevilFish_Attack.0077
+    21300078: DevilFish_Attack.0079
+    21300080: DevilFish_Swim.0001
+    21300082: DevilFish_Swim.0003
+    21300084: DevilFish_Swim.0005
+    21300086: DevilFish_Swim.0007
+    21300088: DevilFish_Swim.0009
+    21300090: DevilFish_Swim.0011
+    21300092: DevilFish_Swim.0013
+    21300094: DevilFish_Swim.0015
+    21300096: DevilFish_Swim.0017
+    21300098: DevilFish_Swim.0019
+    21300100: DevilFish_Swim.0021
+    21300102: DevilFish_Swim.0023
+    21300104: DevilFish_Swim.0025
+    21300106: DevilFish_Swim.0027
+    21300108: DevilFish_Swim.0029
+    21300110: DevilFish_Swim.0031
+    21300112: DevilFish_Swim.0033
+    21300114: DevilFish_Swim.0035
+    21300116: DevilFish_Swim.0037
+    21300118: DevilFish_Swim.0039
+    21300120: DevilFish_Swim.0041
+    21300122: DevilFish_Swim.0043
+    21300124: DevilFish_Swim.0045
+    21300126: DevilFish_Swim.0047
+    21300128: DevilFish_Swim.0049
+    21300130: DevilFish_Swim.0051
+    21300132: DevilFish_Swim.0053
+    21300134: DevilFish_Swim.0055
+    21300136: DevilFish_Swim.0057
+    21300138: DevilFish_Swim.0058
+    21300140: DevilFish_Swim.0059
+    21300142: DevilFish_Swim.0061
+    21300144: DevilFish_Swim.0063
+    21300146: DevilFish_Swim.0065
+    21300148: DevilFish_Swim.0067
+    21300150: DevilFish_Swim.0069
+    21300152: DevilFish_Swim.0071
+    21300154: DevilFish_Swim.0073
+    21300156: DevilFish_Swim.0075
+    21300158: DevilFish_Swim.0077
+    21300160: DevilFish_Swim.0079
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DevilFish_Attack.0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1897
+        width: 204
+        height: 149
+      alignment: 9
+      pivot: {x: .573529422, y: .416107386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0003
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1898
+        width: 201
+        height: 148
+      alignment: 9
+      pivot: {x: .567164183, y: .412162155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0005
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1900
+        width: 199
+        height: 146
+      alignment: 9
+      pivot: {x: .562814057, y: .404109597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0007
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1902
+        width: 194
+        height: 144
+      alignment: 9
+      pivot: {x: .556701005, y: .395833343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0009
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1903
+        width: 190
+        height: 143
+      alignment: 9
+      pivot: {x: .547368407, y: .398601413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0011
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1902
+        width: 184
+        height: 144
+      alignment: 9
+      pivot: {x: .538043499, y: .402777791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0013
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1902
+        width: 179
+        height: 144
+      alignment: 9
+      pivot: {x: .530726254, y: .402777791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0015
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1900
+        width: 175
+        height: 146
+      alignment: 9
+      pivot: {x: .519999981, y: .410958916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0017
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1902
+        width: 171
+        height: 144
+      alignment: 9
+      pivot: {x: .514619887, y: .409722209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0019
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1899
+        width: 169
+        height: 147
+      alignment: 9
+      pivot: {x: .508875728, y: .421768695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0021
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1747
+        width: 167
+        height: 148
+      alignment: 9
+      pivot: {x: .508982062, y: .42567569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0023
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1745
+        width: 165
+        height: 150
+      alignment: 9
+      pivot: {x: .5090909, y: .439999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0025
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1744
+        width: 163
+        height: 151
+      alignment: 9
+      pivot: {x: .50920248, y: .443708599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0027
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1741
+        width: 161
+        height: 154
+      alignment: 9
+      pivot: {x: .509316742, y: .454545468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0029
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1739
+        width: 158
+        height: 156
+      alignment: 9
+      pivot: {x: .512658238, y: .467948705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0031
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1738
+        width: 157
+        height: 157
+      alignment: 9
+      pivot: {x: .509554148, y: .471337587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0033
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1737
+        width: 156
+        height: 158
+      alignment: 9
+      pivot: {x: .512820542, y: .481012672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0035
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1736
+        width: 156
+        height: 159
+      alignment: 9
+      pivot: {x: .512820542, y: .484276742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0037
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1735
+        width: 156
+        height: 160
+      alignment: 9
+      pivot: {x: .512820542, y: .487500012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0039
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1733
+        width: 158
+        height: 162
+      alignment: 9
+      pivot: {x: .518987358, y: .493827164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0041
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1733
+        width: 167
+        height: 162
+      alignment: 9
+      pivot: {x: .532934129, y: .481481493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0043
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1732
+        width: 175
+        height: 163
+      alignment: 9
+      pivot: {x: .54285717, y: .472392648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0045
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1573
+        width: 182
+        height: 157
+      alignment: 9
+      pivot: {x: .527472556, y: .439490438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0047
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1572
+        width: 205
+        height: 158
+      alignment: 9
+      pivot: {x: .570731699, y: .443037987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0049
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1574
+        width: 206
+        height: 156
+      alignment: 9
+      pivot: {x: .572815537, y: .43589744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0051
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1577
+        width: 199
+        height: 153
+      alignment: 9
+      pivot: {x: .537688434, y: .431372553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0053
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1582
+        width: 199
+        height: 148
+      alignment: 9
+      pivot: {x: .487437189, y: .42567569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0055
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1584
+        width: 199
+        height: 146
+      alignment: 9
+      pivot: {x: .487437189, y: .431506842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0057
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1575
+        width: 217
+        height: 155
+      alignment: 9
+      pivot: {x: .525345623, y: .458064526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0059
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1563
+        width: 210
+        height: 167
+      alignment: 9
+      pivot: {x: .547619045, y: .479041904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0061
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1566
+        width: 192
+        height: 164
+      alignment: 9
+      pivot: {x: .5625, y: .463414639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0063
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1568
+        width: 193
+        height: 162
+      alignment: 9
+      pivot: {x: .569948196, y: .456790119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0065
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1401
+        width: 196
+        height: 160
+      alignment: 9
+      pivot: {x: .571428597, y: .443749994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0067
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1404
+        width: 199
+        height: 157
+      alignment: 9
+      pivot: {x: .572864294, y: .433121026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0069
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1407
+        width: 200
+        height: 154
+      alignment: 9
+      pivot: {x: .569999993, y: .422077924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0071
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1408
+        width: 199
+        height: 153
+      alignment: 9
+      pivot: {x: .567839205, y: .418300658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0073
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1410
+        width: 202
+        height: 151
+      alignment: 9
+      pivot: {x: .574257433, y: .417218536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0075
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1410
+        width: 205
+        height: 151
+      alignment: 9
+      pivot: {x: .575609744, y: .417218536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0077
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1410
+        width: 205
+        height: 151
+      alignment: 9
+      pivot: {x: .575609744, y: .417218536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Attack.0079
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1411
+        width: 204
+        height: 150
+      alignment: 9
+      pivot: {x: .573529422, y: .419999987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0001
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1415
+        width: 200
+        height: 146
+      alignment: 9
+      pivot: {x: .579999983, y: .404109597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0003
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1414
+        width: 200
+        height: 147
+      alignment: 9
+      pivot: {x: .579999983, y: .408163279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1251
+        width: 200
+        height: 148
+      alignment: 9
+      pivot: {x: .579999983, y: .412162155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0007
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1250
+        width: 198
+        height: 149
+      alignment: 9
+      pivot: {x: .570707083, y: .416107386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0009
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1248
+        width: 190
+        height: 151
+      alignment: 9
+      pivot: {x: .552631557, y: .423841059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0011
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1246
+        width: 182
+        height: 153
+      alignment: 9
+      pivot: {x: .532967031, y: .431372553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0013
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1244
+        width: 170
+        height: 155
+      alignment: 9
+      pivot: {x: .5, y: .438709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0015
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1242
+        width: 174
+        height: 157
+      alignment: 9
+      pivot: {x: .505747139, y: .445859879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0017
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1241
+        width: 177
+        height: 158
+      alignment: 9
+      pivot: {x: .514124274, y: .449367076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0019
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1240
+        width: 179
+        height: 159
+      alignment: 9
+      pivot: {x: .519553065, y: .452830195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0021
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1240
+        width: 180
+        height: 159
+      alignment: 9
+      pivot: {x: .522222221, y: .452830195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0023
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1240
+        width: 181
+        height: 159
+      alignment: 9
+      pivot: {x: .519336998, y: .452830195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0025
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1240
+        width: 181
+        height: 159
+      alignment: 9
+      pivot: {x: .519336998, y: .452830195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0027
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1080
+        width: 179
+        height: 158
+      alignment: 9
+      pivot: {x: .513966501, y: .449367076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0029
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1081
+        width: 177
+        height: 157
+      alignment: 9
+      pivot: {x: .508474588, y: .445859879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0031
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1082
+        width: 174
+        height: 156
+      alignment: 9
+      pivot: {x: .5, y: .442307681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0033
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1084
+        width: 171
+        height: 154
+      alignment: 9
+      pivot: {x: .491228074, y: .44155845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0035
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1086
+        width: 182
+        height: 152
+      alignment: 9
+      pivot: {x: .521978021, y: .434210539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0037
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1088
+        width: 188
+        height: 150
+      alignment: 9
+      pivot: {x: .537234068, y: .426666677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0039
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1089
+        width: 193
+        height: 149
+      alignment: 9
+      pivot: {x: .549222827, y: .42281878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0041
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1090
+        width: 195
+        height: 148
+      alignment: 9
+      pivot: {x: .55384618, y: .418918908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0043
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1090
+        width: 196
+        height: 148
+      alignment: 9
+      pivot: {x: .556122422, y: .418918908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0045
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1090
+        width: 195
+        height: 148
+      alignment: 9
+      pivot: {x: .55384618, y: .418918908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0047
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 929
+        width: 193
+        height: 149
+      alignment: 9
+      pivot: {x: .549222827, y: .42281878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0049
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 929
+        width: 190
+        height: 149
+      alignment: 9
+      pivot: {x: .542105258, y: .42281878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0051
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 927
+        width: 187
+        height: 151
+      alignment: 9
+      pivot: {x: .534759343, y: .423841059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0053
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 926
+        width: 184
+        height: 152
+      alignment: 9
+      pivot: {x: .527173936, y: .427631587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0055
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 925
+        width: 180
+        height: 153
+      alignment: 9
+      pivot: {x: .516666651, y: .431372553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0057
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 924
+        width: 181
+        height: 154
+      alignment: 9
+      pivot: {x: .519336998, y: .435064942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0058
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 924
+        width: 181
+        height: 154
+      alignment: 9
+      pivot: {x: .519336998, y: .435064942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0059
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 923
+        width: 181
+        height: 155
+      alignment: 9
+      pivot: {x: .519336998, y: .438709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0061
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 922
+        width: 180
+        height: 156
+      alignment: 9
+      pivot: {x: .522222221, y: .442307681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0063
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 921
+        width: 179
+        height: 157
+      alignment: 9
+      pivot: {x: .519553065, y: .445859879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0065
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 920
+        width: 177
+        height: 158
+      alignment: 9
+      pivot: {x: .514124274, y: .449367076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0067
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 760
+        width: 174
+        height: 158
+      alignment: 9
+      pivot: {x: .505747139, y: .449367076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0069
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 760
+        width: 170
+        height: 158
+      alignment: 9
+      pivot: {x: .5, y: .449367076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0071
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 760
+        width: 167
+        height: 158
+      alignment: 9
+      pivot: {x: .491017967, y: .449367076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0073
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 761
+        width: 164
+        height: 157
+      alignment: 9
+      pivot: {x: .481707305, y: .445859879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0075
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 763
+        width: 166
+        height: 155
+      alignment: 9
+      pivot: {x: .487951815, y: .438709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0077
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 765
+        width: 187
+        height: 153
+      alignment: 9
+      pivot: {x: .550802112, y: .431372553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DevilFish_Swim.0079
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 770
+        width: 201
+        height: 148
+      alignment: 9
+      pivot: {x: .582089543, y: .412162155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

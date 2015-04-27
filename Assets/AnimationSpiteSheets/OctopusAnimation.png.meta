@@ -201,7 +201,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 425
+  spritePixelsToUnits: 225
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings:
@@ -215,801 +215,801 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2
-        y: 3792
-        width: 362
-        height: 302
+        y: 1895
+        width: 181
+        height: 151
       alignment: 9
-      pivot: {x: .441988945, y: .440397352}
+      pivot: {x: .441988945, y: .437086105}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0003
       rect:
         serializedVersion: 2
-        x: 366
-        y: 3764
-        width: 309
-        height: 330
+        x: 185
+        y: 1881
+        width: 154
+        height: 165
       alignment: 9
-      pivot: {x: .47249192, y: .478787869}
+      pivot: {x: .474025965, y: .478787869}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0005
       rect:
         serializedVersion: 2
-        x: 677
-        y: 3757
-        width: 264
-        height: 337
+        x: 341
+        y: 1878
+        width: 132
+        height: 168
       alignment: 9
-      pivot: {x: .488636374, y: .483679533}
+      pivot: {x: .49242425, y: .482142866}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0007
       rect:
         serializedVersion: 2
-        x: 943
-        y: 3774
-        width: 243
-        height: 320
+        x: 475
+        y: 1886
+        width: 122
+        height: 160
       alignment: 9
-      pivot: {x: .465020567, y: .456250012}
+      pivot: {x: .467213124, y: .456250012}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0009
       rect:
         serializedVersion: 2
-        x: 1188
-        y: 3788
-        width: 234
-        height: 306
+        x: 599
+        y: 1893
+        width: 117
+        height: 153
       alignment: 9
-      pivot: {x: .43589744, y: .428104579}
+      pivot: {x: .43589744, y: .431372553}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0011
       rect:
         serializedVersion: 2
-        x: 1424
-        y: 3783
-        width: 239
-        height: 311
+        x: 718
+        y: 1891
+        width: 119
+        height: 155
       alignment: 9
-      pivot: {x: .405857742, y: .434083611}
+      pivot: {x: .40336135, y: .43225807}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0013
       rect:
         serializedVersion: 2
-        x: 1665
-        y: 3774
-        width: 246
-        height: 320
+        x: 839
+        y: 1886
+        width: 123
+        height: 160
       alignment: 9
-      pivot: {x: .378048778, y: .449999988}
+      pivot: {x: .382113814, y: .449999988}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0015
       rect:
         serializedVersion: 2
-        x: 1913
-        y: 3766
-        width: 256
-        height: 328
+        x: 964
+        y: 1883
+        width: 128
+        height: 163
       alignment: 9
-      pivot: {x: .35546875, y: .460365862}
+      pivot: {x: .3515625, y: .460122705}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0017
       rect:
         serializedVersion: 2
-        x: 2171
-        y: 3765
-        width: 269
-        height: 329
+        x: 1094
+        y: 1881
+        width: 134
+        height: 165
       alignment: 9
-      pivot: {x: .330855012, y: .462006092}
+      pivot: {x: .328358203, y: .460606068}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0019
       rect:
         serializedVersion: 2
-        x: 2442
-        y: 3775
-        width: 312
-        height: 319
+        x: 1230
+        y: 1886
+        width: 156
+        height: 160
       alignment: 9
-      pivot: {x: .282051295, y: .445141077}
+      pivot: {x: .282051295, y: .443749994}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0021
       rect:
         serializedVersion: 2
-        x: 2756
-        y: 3785
-        width: 355
-        height: 309
+        x: 1388
+        y: 1892
+        width: 177
+        height: 154
       alignment: 9
-      pivot: {x: .247887328, y: .427184463}
+      pivot: {x: .248587564, y: .428571433}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0023
       rect:
         serializedVersion: 2
-        x: 3113
-        y: 3810
-        width: 387
-        height: 284
+        x: 1567
+        y: 1903
+        width: 194
+        height: 143
       alignment: 9
-      pivot: {x: .227390185, y: .383802831}
+      pivot: {x: .226804122, y: .384615391}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0025
       rect:
         serializedVersion: 2
-        x: 3502
-        y: 3827
-        width: 403
-        height: 267
+        x: 1763
+        y: 1912
+        width: 201
+        height: 134
       alignment: 9
-      pivot: {x: .220843673, y: .352059931}
+      pivot: {x: .218905479, y: .350746274}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0027
       rect:
         serializedVersion: 2
         x: 2
-        y: 3499
-        width: 402
-        height: 256
+        y: 1748
+        width: 201
+        height: 128
       alignment: 9
       pivot: {x: .223880604, y: .3359375}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0029
       rect:
         serializedVersion: 2
-        x: 406
-        y: 3507
-        width: 388
-        height: 248
+        x: 205
+        y: 1753
+        width: 194
+        height: 123
       alignment: 9
-      pivot: {x: .237113401, y: .32661289}
+      pivot: {x: .237113401, y: .32520324}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0031
       rect:
         serializedVersion: 2
-        x: 796
-        y: 3515
-        width: 378
-        height: 240
+        x: 401
+        y: 1756
+        width: 188
+        height: 120
       alignment: 9
-      pivot: {x: .251322746, y: .320833325}
+      pivot: {x: .25, y: .324999988}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0033
       rect:
         serializedVersion: 2
-        x: 1176
-        y: 3515
-        width: 367
-        height: 240
+        x: 591
+        y: 1756
+        width: 184
+        height: 120
       alignment: 9
-      pivot: {x: .264305174, y: .316666663}
+      pivot: {x: .266304344, y: .316666663}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0035
       rect:
         serializedVersion: 2
-        x: 1545
-        y: 3507
-        width: 357
-        height: 248
+        x: 777
+        y: 1752
+        width: 179
+        height: 124
       alignment: 9
-      pivot: {x: .280112058, y: .306451619}
+      pivot: {x: .279329598, y: .306451619}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0037
       rect:
         serializedVersion: 2
-        x: 1904
-        y: 3499
-        width: 349
-        height: 256
+        x: 958
+        y: 1747
+        width: 175
+        height: 129
       alignment: 9
-      pivot: {x: .295128942, y: .30859375}
+      pivot: {x: .297142863, y: .310077518}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0039
       rect:
         serializedVersion: 2
-        x: 2255
-        y: 3487
-        width: 344
-        height: 268
+        x: 1135
+        y: 1742
+        width: 171
+        height: 134
       alignment: 9
-      pivot: {x: .316860467, y: .317164183}
+      pivot: {x: .315789461, y: .320895523}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0041
       rect:
         serializedVersion: 2
-        x: 2601
-        y: 3463
-        width: 345
-        height: 292
+        x: 1308
+        y: 1730
+        width: 173
+        height: 146
       alignment: 9
-      pivot: {x: .365217388, y: .349315077}
+      pivot: {x: .364161849, y: .349315077}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0043
       rect:
         serializedVersion: 2
-        x: 2948
-        y: 3457
-        width: 355
-        height: 298
+        x: 1483
+        y: 1726
+        width: 178
+        height: 150
       alignment: 9
-      pivot: {x: .419718295, y: .392617464}
+      pivot: {x: .421348304, y: .393333346}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0045
       rect:
         serializedVersion: 2
-        x: 3305
-        y: 3502
-        width: 378
-        height: 253
+        x: 1663
+        y: 1750
+        width: 189
+        height: 126
       alignment: 9
-      pivot: {x: .462962955, y: .454545468}
+      pivot: {x: .460317463, y: .452380955}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0047
       rect:
         serializedVersion: 2
-        x: 3685
-        y: 3568
-        width: 370
-        height: 187
+        x: 1854
+        y: 1783
+        width: 186
+        height: 93
       alignment: 9
-      pivot: {x: .537837863, y: .390374333}
+      pivot: {x: .537634432, y: .387096763}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0049
       rect:
         serializedVersion: 2
         x: 2
-        y: 3269
-        width: 341
-        height: 186
+        y: 1631
+        width: 170
+        height: 93
       alignment: 9
-      pivot: {x: .642228723, y: .403225809}
+      pivot: {x: .641176462, y: .408602148}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0051
       rect:
         serializedVersion: 2
-        x: 345
-        y: 3273
-        width: 327
-        height: 182
+        x: 174
+        y: 1633
+        width: 163
+        height: 91
       alignment: 9
-      pivot: {x: .703363895, y: .357142866}
+      pivot: {x: .705521464, y: .362637371}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0053
       rect:
         serializedVersion: 2
-        x: 674
-        y: 3266
-        width: 319
-        height: 189
+        x: 339
+        y: 1629
+        width: 160
+        height: 95
       alignment: 9
-      pivot: {x: .752351105, y: .285714298}
+      pivot: {x: .75, y: .284210533}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0055
       rect:
         serializedVersion: 2
-        x: 995
-        y: 3199
-        width: 314
-        height: 256
+        x: 501
+        y: 1595
+        width: 157
+        height: 129
       alignment: 9
-      pivot: {x: .761146486, y: .37109375}
+      pivot: {x: .764331222, y: .372093022}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0057
       rect:
         serializedVersion: 2
-        x: 1311
-        y: 3144
-        width: 297
-        height: 311
+        x: 660
+        y: 1569
+        width: 149
+        height: 155
       alignment: 9
-      pivot: {x: .727272749, y: .379421234}
+      pivot: {x: .724832237, y: .380645156}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0059
       rect:
         serializedVersion: 2
-        x: 1610
-        y: 3110
-        width: 269
-        height: 345
+        x: 811
+        y: 1552
+        width: 134
+        height: 172
       alignment: 9
-      pivot: {x: .669144988, y: .3594203}
+      pivot: {x: .671641767, y: .360465109}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0061
       rect:
         serializedVersion: 2
-        x: 1881
-        y: 3093
-        width: 251
-        height: 362
+        x: 947
+        y: 1543
+        width: 125
+        height: 181
       alignment: 9
-      pivot: {x: .605577707, y: .353591174}
+      pivot: {x: .60799998, y: .353591174}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0063
       rect:
         serializedVersion: 2
-        x: 2134
-        y: 3093
-        width: 260
-        height: 362
+        x: 1074
+        y: 1543
+        width: 130
+        height: 181
       alignment: 9
-      pivot: {x: .534615397, y: .350828737}
+      pivot: {x: .538461566, y: .353591174}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0065
       rect:
         serializedVersion: 2
-        x: 2396
-        y: 3109
-        width: 304
-        height: 346
+        x: 1206
+        y: 1551
+        width: 152
+        height: 173
       alignment: 9
       pivot: {x: .473684222, y: .341040462}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0067
       rect:
         serializedVersion: 2
-        x: 2702
-        y: 3136
-        width: 340
-        height: 319
+        x: 1360
+        y: 1564
+        width: 170
+        height: 160
       alignment: 9
-      pivot: {x: .423529416, y: .316614419}
+      pivot: {x: .423529416, y: .318749994}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0069
       rect:
         serializedVersion: 2
-        x: 3044
-        y: 3162
-        width: 364
-        height: 293
+        x: 1532
+        y: 1578
+        width: 182
+        height: 146
       alignment: 9
-      pivot: {x: .395604402, y: .290102392}
+      pivot: {x: .395604402, y: .287671238}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0071
       rect:
         serializedVersion: 2
-        x: 3410
-        y: 3175
-        width: 374
-        height: 280
+        x: 1716
+        y: 1584
+        width: 187
+        height: 140
       alignment: 9
-      pivot: {x: .387700528, y: .282142848}
+      pivot: {x: .390374333, y: .285714298}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0073
       rect:
         serializedVersion: 2
         x: 2
-        y: 2812
-        width: 376
-        height: 279
+        y: 1401
+        width: 188
+        height: 140
       alignment: 9
-      pivot: {x: .390957445, y: .304659486}
+      pivot: {x: .388297886, y: .307142854}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0075
       rect:
         serializedVersion: 2
-        x: 380
-        y: 2807
-        width: 375
-        height: 284
+        x: 192
+        y: 1399
+        width: 188
+        height: 142
       alignment: 9
-      pivot: {x: .400000006, y: .338028163}
+      pivot: {x: .398936182, y: .338028163}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0077
       rect:
         serializedVersion: 2
-        x: 757
-        y: 2799
-        width: 371
-        height: 292
+        x: 382
+        y: 1395
+        width: 186
+        height: 146
       alignment: 9
-      pivot: {x: .415094346, y: .376712322}
+      pivot: {x: .413978487, y: .376712322}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_Attack.0079
       rect:
         serializedVersion: 2
-        x: 1130
-        y: 2793
-        width: 366
-        height: 298
+        x: 570
+        y: 1392
+        width: 183
+        height: 149
       alignment: 9
-      pivot: {x: .428961754, y: .412751675}
+      pivot: {x: .431694001, y: .409395963}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0001
       rect:
         serializedVersion: 2
-        x: 1498
-        y: 2810
-        width: 366
-        height: 281
+        x: 755
+        y: 1401
+        width: 183
+        height: 140
       alignment: 9
-      pivot: {x: .448087424, y: .473309606}
+      pivot: {x: .448087424, y: .471428573}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0003
       rect:
         serializedVersion: 2
-        x: 1866
-        y: 2810
-        width: 365
-        height: 281
+        x: 940
+        y: 1400
+        width: 183
+        height: 141
       alignment: 9
-      pivot: {x: .449315071, y: .473309606}
+      pivot: {x: .448087424, y: .475177318}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0005
       rect:
         serializedVersion: 2
-        x: 2233
-        y: 2808
-        width: 364
-        height: 283
+        x: 1125
+        y: 1400
+        width: 182
+        height: 141
       alignment: 9
-      pivot: {x: .450549453, y: .473498225}
+      pivot: {x: .450549453, y: .475177318}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0007
       rect:
         serializedVersion: 2
-        x: 2599
-        y: 2807
-        width: 362
-        height: 284
+        x: 1309
+        y: 1399
+        width: 181
+        height: 142
       alignment: 9
-      pivot: {x: .453038663, y: .475352108}
+      pivot: {x: .453038663, y: .478873253}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0009
       rect:
         serializedVersion: 2
-        x: 2963
-        y: 2805
-        width: 359
-        height: 286
+        x: 1492
+        y: 1398
+        width: 179
+        height: 143
       alignment: 9
-      pivot: {x: .456824511, y: .479020983}
+      pivot: {x: .458100557, y: .475524485}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0011
       rect:
         serializedVersion: 2
-        x: 3324
-        y: 2803
-        width: 355
-        height: 288
+        x: 1673
+        y: 1397
+        width: 178
+        height: 144
       alignment: 9
-      pivot: {x: .461971819, y: .479166657}
+      pivot: {x: .460674167, y: .479166657}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0013
       rect:
         serializedVersion: 2
-        x: 3681
-        y: 2801
-        width: 351
-        height: 290
+        x: 1853
+        y: 1397
+        width: 175
+        height: 144
       alignment: 9
-      pivot: {x: .467236459, y: .479310334}
+      pivot: {x: .468571424, y: .479166657}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0015
       rect:
         serializedVersion: 2
         x: 2
-        y: 2500
-        width: 346
-        height: 291
+        y: 1244
+        width: 173
+        height: 146
       alignment: 9
-      pivot: {x: .473988444, y: .481099665}
+      pivot: {x: .473988444, y: .479452044}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0017
       rect:
         serializedVersion: 2
-        x: 350
-        y: 2498
-        width: 341
-        height: 293
+        x: 177
+        y: 1244
+        width: 170
+        height: 146
       alignment: 9
-      pivot: {x: .480938405, y: .481228679}
+      pivot: {x: .482352942, y: .479452044}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0019
       rect:
         serializedVersion: 2
-        x: 693
-        y: 2497
-        width: 335
-        height: 294
+        x: 349
+        y: 1242
+        width: 168
+        height: 148
       alignment: 9
-      pivot: {x: .48955223, y: .479591846}
+      pivot: {x: .488095224, y: .479729742}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0021
       rect:
         serializedVersion: 2
-        x: 1030
-        y: 2496
-        width: 329
-        height: 295
+        x: 519
+        y: 1242
+        width: 165
+        height: 148
       alignment: 9
-      pivot: {x: .498480231, y: .4779661}
+      pivot: {x: .4969697, y: .479729742}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0023
       rect:
         serializedVersion: 2
-        x: 1361
-        y: 2495
-        width: 322
-        height: 296
+        x: 686
+        y: 1243
+        width: 162
+        height: 147
       alignment: 9
-      pivot: {x: .506211162, y: .476351351}
+      pivot: {x: .506172836, y: .476190478}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0025
       rect:
         serializedVersion: 2
-        x: 1685
-        y: 2495
-        width: 317
-        height: 296
+        x: 850
+        y: 1242
+        width: 159
+        height: 148
       alignment: 9
-      pivot: {x: .514195561, y: .472972959}
+      pivot: {x: .515723288, y: .472972959}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0027
       rect:
         serializedVersion: 2
-        x: 2004
-        y: 2495
-        width: 311
-        height: 296
+        x: 1011
+        y: 1242
+        width: 155
+        height: 148
       alignment: 9
-      pivot: {x: .524115741, y: .469594598}
+      pivot: {x: .522580624, y: .472972959}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0029
       rect:
         serializedVersion: 2
-        x: 2317
-        y: 2496
-        width: 306
-        height: 295
+        x: 1168
+        y: 1242
+        width: 153
+        height: 148
       alignment: 9
-      pivot: {x: .532679737, y: .467796624}
+      pivot: {x: .529411793, y: .466216207}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0031
       rect:
         serializedVersion: 2
-        x: 2625
-        y: 2496
-        width: 302
-        height: 295
+        x: 1323
+        y: 1243
+        width: 151
+        height: 147
       alignment: 9
-      pivot: {x: .539735079, y: .464406788}
+      pivot: {x: .536423862, y: .462585032}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0033
       rect:
         serializedVersion: 2
-        x: 2929
-        y: 2497
-        width: 299
-        height: 294
+        x: 1476
+        y: 1243
+        width: 149
+        height: 147
       alignment: 9
-      pivot: {x: .541806042, y: .459183663}
+      pivot: {x: .543624163, y: .462585032}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0035
       rect:
         serializedVersion: 2
-        x: 3230
-        y: 2498
-        width: 297
-        height: 293
+        x: 1627
+        y: 1243
+        width: 149
+        height: 147
       alignment: 9
-      pivot: {x: .545454562, y: .457337886}
+      pivot: {x: .543624163, y: .455782324}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0037
       rect:
         serializedVersion: 2
-        x: 3529
-        y: 2498
-        width: 297
-        height: 293
+        x: 1778
+        y: 1244
+        width: 148
+        height: 146
       alignment: 9
-      pivot: {x: .545454562, y: .453924924}
+      pivot: {x: .547297299, y: .452054799}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0039
       rect:
         serializedVersion: 2
         x: 2
-        y: 2201
-        width: 296
-        height: 292
+        y: 1094
+        width: 148
+        height: 146
       alignment: 9
       pivot: {x: .547297299, y: .452054799}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0041
       rect:
         serializedVersion: 2
-        x: 300
-        y: 2201
-        width: 296
-        height: 292
+        x: 152
+        y: 1094
+        width: 148
+        height: 146
       alignment: 9
       pivot: {x: .547297299, y: .452054799}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0043
       rect:
         serializedVersion: 2
-        x: 598
-        y: 2201
-        width: 297
-        height: 292
+        x: 302
+        y: 1094
+        width: 148
+        height: 146
       alignment: 9
-      pivot: {x: .545454562, y: .452054799}
+      pivot: {x: .547297299, y: .452054799}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0045
       rect:
         serializedVersion: 2
-        x: 897
-        y: 2200
-        width: 297
-        height: 293
+        x: 452
+        y: 1094
+        width: 149
+        height: 146
       alignment: 9
-      pivot: {x: .545454562, y: .453924924}
+      pivot: {x: .543624163, y: .452054799}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0047
       rect:
         serializedVersion: 2
-        x: 1196
-        y: 2201
-        width: 299
-        height: 292
+        x: 603
+        y: 1093
+        width: 149
+        height: 147
       alignment: 9
-      pivot: {x: .545150518, y: .455479443}
+      pivot: {x: .543624163, y: .455782324}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0049
       rect:
         serializedVersion: 2
-        x: 1497
-        y: 2200
-        width: 302
-        height: 293
+        x: 754
+        y: 1094
+        width: 150
+        height: 146
       alignment: 9
-      pivot: {x: .539735079, y: .457337886}
+      pivot: {x: .540000021, y: .458904117}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0051
       rect:
         serializedVersion: 2
-        x: 1801
-        y: 2200
-        width: 305
-        height: 293
+        x: 906
+        y: 1094
+        width: 152
+        height: 146
       alignment: 9
-      pivot: {x: .534426212, y: .460750848}
+      pivot: {x: .532894731, y: .458904117}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0053
       rect:
         serializedVersion: 2
-        x: 2108
-        y: 2200
-        width: 310
-        height: 293
+        x: 1060
+        y: 1093
+        width: 155
+        height: 147
       alignment: 9
-      pivot: {x: .525806427, y: .46416381}
+      pivot: {x: .52903223, y: .462585032}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0055
       rect:
         serializedVersion: 2
-        x: 2420
-        y: 2200
-        width: 315
-        height: 293
+        x: 1217
+        y: 1094
+        width: 158
+        height: 146
       alignment: 9
-      pivot: {x: .517460346, y: .46416381}
+      pivot: {x: .518987358, y: .465753436}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0057
       rect:
         serializedVersion: 2
-        x: 2737
-        y: 2201
-        width: 320
-        height: 292
+        x: 1377
+        y: 1094
+        width: 161
+        height: 146
       alignment: 9
-      pivot: {x: .509374976, y: .465753436}
+      pivot: {x: .509316742, y: .465753436}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0059
       rect:
         serializedVersion: 2
-        x: 3059
-        y: 2202
-        width: 327
-        height: 291
+        x: 1540
+        y: 1095
+        width: 163
+        height: 145
       alignment: 9
-      pivot: {x: .501529038, y: .46735394}
+      pivot: {x: .503067493, y: .46896553}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0061
       rect:
         serializedVersion: 2
-        x: 3388
-        y: 2203
-        width: 332
-        height: 290
+        x: 1705
+        y: 1095
+        width: 166
+        height: 145
       alignment: 9
       pivot: {x: .493975908, y: .46896553}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0063
       rect:
         serializedVersion: 2
-        x: 3722
-        y: 2205
-        width: 338
-        height: 288
+        x: 1873
+        y: 1095
+        width: 169
+        height: 145
       alignment: 9
-      pivot: {x: .485207111, y: .46875}
+      pivot: {x: .485207111, y: .46896553}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0065
       rect:
         serializedVersion: 2
         x: 2
-        y: 1912
-        width: 343
-        height: 286
+        y: 948
+        width: 171
+        height: 143
       alignment: 9
-      pivot: {x: .478134125, y: .46853146}
+      pivot: {x: .479532152, y: .46853146}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0067
       rect:
         serializedVersion: 2
-        x: 347
-        y: 1914
-        width: 348
-        height: 284
+        x: 175
+        y: 948
+        width: 174
+        height: 143
       alignment: 9
-      pivot: {x: .471264362, y: .46830985}
+      pivot: {x: .471264362, y: .46853146}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0069
       rect:
         serializedVersion: 2
-        x: 697
-        y: 1915
-        width: 352
-        height: 283
+        x: 351
+        y: 950
+        width: 176
+        height: 141
       alignment: 9
-      pivot: {x: .465909094, y: .466431081}
+      pivot: {x: .465909094, y: .46808511}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0071
       rect:
         serializedVersion: 2
-        x: 1051
-        y: 1916
-        width: 356
-        height: 282
+        x: 529
+        y: 950
+        width: 178
+        height: 141
       alignment: 9
       pivot: {x: .460674167, y: .46808511}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0073
       rect:
         serializedVersion: 2
-        x: 1409
-        y: 1918
-        width: 359
-        height: 280
+        x: 709
+        y: 950
+        width: 180
+        height: 141
       alignment: 9
-      pivot: {x: .456824511, y: .467857152}
+      pivot: {x: .455555558, y: .46808511}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0075
       rect:
         serializedVersion: 2
-        x: 1770
-        y: 1917
-        width: 362
-        height: 281
+        x: 891
+        y: 951
+        width: 181
+        height: 140
       alignment: 9
-      pivot: {x: .453038663, y: .469750881}
+      pivot: {x: .453038663, y: .471428573}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0077
       rect:
         serializedVersion: 2
-        x: 2134
-        y: 1917
-        width: 364
-        height: 281
+        x: 1074
+        y: 951
+        width: 182
+        height: 140
       alignment: 9
-      pivot: {x: .450549453, y: .469750881}
+      pivot: {x: .450549453, y: .471428573}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Octo_idle.0079
       rect:
         serializedVersion: 2
-        x: 2500
-        y: 1917
-        width: 365
-        height: 281
+        x: 1258
+        y: 951
+        width: 183
+        height: 140
       alignment: 9
-      pivot: {x: .449315071, y: .473309606}
+      pivot: {x: .448087424, y: .471428573}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

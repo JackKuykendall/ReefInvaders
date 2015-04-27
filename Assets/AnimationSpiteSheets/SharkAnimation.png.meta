@@ -201,7 +201,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 500
+  spritePixelsToUnits: 225
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings:
@@ -215,801 +215,801 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2
-        y: 3854
-        width: 628
-        height: 240
+        y: 1926
+        width: 314
+        height: 120
       alignment: 9
-      pivot: {x: .544586003, y: .462500006}
+      pivot: {x: .544586003, y: .458333343}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0003
       rect:
         serializedVersion: 2
-        x: 632
-        y: 3853
-        width: 632
-        height: 241
+        x: 318
+        y: 1925
+        width: 316
+        height: 121
       alignment: 9
-      pivot: {x: .547468364, y: .464730293}
+      pivot: {x: .547468364, y: .46280992}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0005
       rect:
         serializedVersion: 2
-        x: 1266
-        y: 3851
-        width: 637
-        height: 243
+        x: 636
+        y: 1925
+        width: 318
+        height: 121
       alignment: 9
-      pivot: {x: .549450576, y: .465020567}
+      pivot: {x: .550314486, y: .46280992}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0007
       rect:
         serializedVersion: 2
-        x: 1905
-        y: 3850
-        width: 642
-        height: 244
+        x: 956
+        y: 1924
+        width: 321
+        height: 122
       alignment: 9
-      pivot: {x: .552959502, y: .467213124}
+      pivot: {x: .551401854, y: .467213124}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0009
       rect:
         serializedVersion: 2
-        x: 2549
-        y: 3849
-        width: 648
-        height: 245
+        x: 1279
+        y: 1924
+        width: 324
+        height: 122
       alignment: 9
-      pivot: {x: .555555582, y: .46938777}
+      pivot: {x: .555555582, y: .467213124}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0011
       rect:
         serializedVersion: 2
-        x: 3199
-        y: 3847
-        width: 652
-        height: 247
+        x: 1605
+        y: 1923
+        width: 326
+        height: 123
       alignment: 9
-      pivot: {x: .558282197, y: .469635636}
+      pivot: {x: .558282197, y: .471544713}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0013
       rect:
         serializedVersion: 2
         x: 2
-        y: 3597
-        width: 658
-        height: 248
+        y: 1798
+        width: 328
+        height: 123
       alignment: 9
-      pivot: {x: .5607903, y: .471774191}
+      pivot: {x: .560975611, y: .471544713}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0015
       rect:
         serializedVersion: 2
-        x: 662
-        y: 3596
-        width: 662
-        height: 249
+        x: 332
+        y: 1796
+        width: 331
+        height: 125
       alignment: 9
-      pivot: {x: .563444138, y: .47389558}
+      pivot: {x: .564954698, y: .472000003}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0017
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 3596
-        width: 666
-        height: 249
+        x: 665
+        y: 1796
+        width: 333
+        height: 125
       alignment: 9
-      pivot: {x: .566066086, y: .47389558}
+      pivot: {x: .567567587, y: .472000003}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0019
       rect:
         serializedVersion: 2
-        x: 1994
-        y: 3594
-        width: 670
-        height: 251
+        x: 1000
+        y: 1796
+        width: 334
+        height: 125
       alignment: 9
-      pivot: {x: .568656743, y: .4741036}
+      pivot: {x: .568862259, y: .472000003}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0021
       rect:
         serializedVersion: 2
-        x: 2666
-        y: 3594
-        width: 672
-        height: 251
+        x: 1336
+        y: 1795
+        width: 337
+        height: 126
       alignment: 9
-      pivot: {x: .569940448, y: .4741036}
+      pivot: {x: .569732964, y: .476190478}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0023
       rect:
         serializedVersion: 2
-        x: 3340
-        y: 3592
-        width: 675
-        height: 253
+        x: 1675
+        y: 1795
+        width: 338
+        height: 126
       alignment: 9
-      pivot: {x: .57185185, y: .478260875}
+      pivot: {x: .57100594, y: .476190478}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0025
       rect:
         serializedVersion: 2
         x: 2
-        y: 3334
-        width: 676
-        height: 256
+        y: 1665
+        width: 339
+        height: 128
       alignment: 9
-      pivot: {x: .572485209, y: .48046875}
+      pivot: {x: .572271407, y: .484375}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0027
       rect:
         serializedVersion: 2
-        x: 680
-        y: 3332
-        width: 677
-        height: 258
+        x: 343
+        y: 1664
+        width: 338
+        height: 129
       alignment: 9
-      pivot: {x: .57311672, y: .484496117}
+      pivot: {x: .573964477, y: .488372087}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0029
       rect:
         serializedVersion: 2
-        x: 1359
-        y: 3330
-        width: 678
-        height: 260
+        x: 683
+        y: 1664
+        width: 338
+        height: 129
       alignment: 9
-      pivot: {x: .573746324, y: .488461524}
+      pivot: {x: .573964477, y: .488372087}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0031
       rect:
         serializedVersion: 2
-        x: 2039
-        y: 3329
-        width: 678
-        height: 261
+        x: 1023
+        y: 1662
+        width: 338
+        height: 131
       alignment: 9
-      pivot: {x: .573746324, y: .490421444}
+      pivot: {x: .573964477, y: .48854962}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0033
       rect:
         serializedVersion: 2
-        x: 2719
-        y: 3329
-        width: 677
-        height: 261
+        x: 1363
+        y: 1662
+        width: 338
+        height: 131
       alignment: 9
-      pivot: {x: .57311672, y: .490421444}
+      pivot: {x: .573964477, y: .48854962}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0035
       rect:
         serializedVersion: 2
-        x: 3398
-        y: 3330
-        width: 676
-        height: 260
+        x: 1703
+        y: 1662
+        width: 339
+        height: 131
       alignment: 9
-      pivot: {x: .572485209, y: .488461524}
+      pivot: {x: .572271407, y: .48854962}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0037
       rect:
         serializedVersion: 2
         x: 2
-        y: 3069
-        width: 674
-        height: 258
+        y: 1530
+        width: 337
+        height: 130
       alignment: 9
-      pivot: {x: .571216643, y: .484496117}
+      pivot: {x: .569732964, y: .484615386}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0039
       rect:
         serializedVersion: 2
-        x: 678
-        y: 3074
-        width: 670
-        height: 253
+        x: 341
+        y: 1533
+        width: 336
+        height: 127
       alignment: 9
-      pivot: {x: .568656743, y: .474308312}
+      pivot: {x: .568452358, y: .472440958}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0041
       rect:
         serializedVersion: 2
-        x: 1350
-        y: 3084
-        width: 658
-        height: 243
+        x: 679
+        y: 1539
+        width: 329
+        height: 121
       alignment: 9
-      pivot: {x: .5607903, y: .452674896}
+      pivot: {x: .56231004, y: .454545468}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0043
       rect:
         serializedVersion: 2
-        x: 2010
-        y: 3087
-        width: 633
-        height: 240
+        x: 1010
+        y: 1540
+        width: 317
+        height: 120
       alignment: 9
-      pivot: {x: .548183262, y: .408333331}
+      pivot: {x: .548895895, y: .408333331}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0045
       rect:
         serializedVersion: 2
-        x: 2645
-        y: 3084
-        width: 602
-        height: 243
+        x: 1329
+        y: 1538
+        width: 301
+        height: 122
       alignment: 9
-      pivot: {x: .534883738, y: .378600836}
+      pivot: {x: .534883738, y: .377049178}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0047
       rect:
         serializedVersion: 2
-        x: 3249
-        y: 3092
-        width: 575
-        height: 235
+        x: 1632
+        y: 1542
+        width: 287
+        height: 118
       alignment: 9
-      pivot: {x: .52347827, y: .395744681}
+      pivot: {x: .522648096, y: .398305088}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0049
       rect:
         serializedVersion: 2
         x: 2
-        y: 2842
-        width: 558
-        height: 225
+        y: 1416
+        width: 279
+        height: 112
       alignment: 9
-      pivot: {x: .51792115, y: .417777777}
+      pivot: {x: .519713283, y: .419642866}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0051
       rect:
         serializedVersion: 2
-        x: 562
-        y: 2842
-        width: 555
-        height: 225
+        x: 283
+        y: 1416
+        width: 278
+        height: 112
       alignment: 9
-      pivot: {x: .517117143, y: .417777777}
+      pivot: {x: .517985582, y: .419642866}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0053
       rect:
         serializedVersion: 2
-        x: 1119
-        y: 2843
-        width: 561
-        height: 224
+        x: 563
+        y: 1416
+        width: 281
+        height: 112
       alignment: 9
-      pivot: {x: .518716574, y: .415178567}
+      pivot: {x: .519572973, y: .419642866}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0055
       rect:
         serializedVersion: 2
-        x: 1682
-        y: 2843
-        width: 573
-        height: 224
+        x: 846
+        y: 1416
+        width: 286
+        height: 112
       alignment: 9
-      pivot: {x: .521815002, y: .415178567}
+      pivot: {x: .520979047, y: .410714298}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0057
       rect:
         serializedVersion: 2
-        x: 2257
-        y: 2845
-        width: 587
-        height: 222
+        x: 1134
+        y: 1416
+        width: 293
+        height: 112
       alignment: 9
-      pivot: {x: .524701893, y: .409909904}
+      pivot: {x: .525597274, y: .410714298}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0059
       rect:
         serializedVersion: 2
-        x: 2846
-        y: 2842
-        width: 601
-        height: 225
+        x: 1429
+        y: 1415
+        width: 300
+        height: 113
       alignment: 9
-      pivot: {x: .529118121, y: .417777777}
+      pivot: {x: .529999971, y: .415929198}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0061
       rect:
         serializedVersion: 2
-        x: 3449
-        y: 2828
-        width: 614
-        height: 239
+        x: 1731
+        y: 1409
+        width: 307
+        height: 119
       alignment: 9
-      pivot: {x: .532573283, y: .447698742}
+      pivot: {x: .53420198, y: .445378155}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0063
       rect:
         serializedVersion: 2
         x: 2
-        y: 2577
-        width: 622
-        height: 249
+        y: 1283
+        width: 311
+        height: 124
       alignment: 9
-      pivot: {x: .53697747, y: .469879508}
+      pivot: {x: .53697747, y: .467741936}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0065
       rect:
         serializedVersion: 2
-        x: 626
-        y: 2572
-        width: 628
-        height: 254
+        x: 315
+        y: 1280
+        width: 313
+        height: 127
       alignment: 9
-      pivot: {x: .539808929, y: .48031497}
+      pivot: {x: .539936125, y: .48031497}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0067
       rect:
         serializedVersion: 2
-        x: 1256
-        y: 2570
-        width: 632
-        height: 256
+        x: 630
+        y: 1279
+        width: 315
+        height: 128
       alignment: 9
-      pivot: {x: .54272151, y: .484375}
+      pivot: {x: .54285717, y: .484375}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0069
       rect:
         serializedVersion: 2
-        x: 1890
-        y: 2569
-        width: 636
-        height: 257
+        x: 947
+        y: 1279
+        width: 317
+        height: 128
       alignment: 9
-      pivot: {x: .545597494, y: .486381322}
+      pivot: {x: .54574132, y: .484375}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0071
       rect:
         serializedVersion: 2
-        x: 2528
-        y: 2572
-        width: 638
-        height: 254
+        x: 1266
+        y: 1279
+        width: 319
+        height: 128
       alignment: 9
-      pivot: {x: .547021925, y: .484251976}
+      pivot: {x: .548589349, y: .484375}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0073
       rect:
         serializedVersion: 2
-        x: 3168
-        y: 2574
-        width: 640
-        height: 252
+        x: 1587
+        y: 1281
+        width: 319
+        height: 126
       alignment: 9
-      pivot: {x: .548437476, y: .480158716}
+      pivot: {x: .548589349, y: .484126985}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0075
       rect:
         serializedVersion: 2
         x: 2
-        y: 2318
-        width: 638
-        height: 249
+        y: 1153
+        width: 319
+        height: 124
       alignment: 9
-      pivot: {x: .548589349, y: .477911651}
+      pivot: {x: .548589349, y: .475806445}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0077
       rect:
         serializedVersion: 2
-        x: 642
-        y: 2322
-        width: 634
-        height: 245
+        x: 323
+        y: 1154
+        width: 318
+        height: 123
       alignment: 9
-      pivot: {x: .547318637, y: .46938777}
+      pivot: {x: .547169805, y: .471544713}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Attack.0079
       rect:
         serializedVersion: 2
-        x: 1278
-        y: 2326
-        width: 630
-        height: 241
+        x: 643
+        y: 1156
+        width: 315
+        height: 121
       alignment: 9
-      pivot: {x: .546031773, y: .464730293}
+      pivot: {x: .546031773, y: .46280992}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0001
       rect:
         serializedVersion: 2
         x: 2
-        y: 3854
-        width: 628
-        height: 240
+        y: 1926
+        width: 314
+        height: 120
       alignment: 9
-      pivot: {x: .544586003, y: .462500006}
+      pivot: {x: .544586003, y: .458333343}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0003
       rect:
         serializedVersion: 2
-        x: 1910
-        y: 2327
-        width: 628
-        height: 240
+        x: 960
+        y: 1157
+        width: 314
+        height: 120
       alignment: 9
-      pivot: {x: .544586003, y: .462500006}
+      pivot: {x: .544586003, y: .458333343}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0005
       rect:
         serializedVersion: 2
-        x: 2540
-        y: 2327
-        width: 629
-        height: 240
+        x: 1276
+        y: 1157
+        width: 314
+        height: 120
       alignment: 9
-      pivot: {x: .54531002, y: .462500006}
+      pivot: {x: .544586003, y: .458333343}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0007
       rect:
         serializedVersion: 2
-        x: 3171
-        y: 2328
-        width: 630
-        height: 239
+        x: 1592
+        y: 1157
+        width: 315
+        height: 120
       alignment: 9
-      pivot: {x: .546031773, y: .460251033}
+      pivot: {x: .546031773, y: .458333343}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0009
       rect:
         serializedVersion: 2
         x: 2
-        y: 2078
-        width: 631
-        height: 238
+        y: 1033
+        width: 315
+        height: 118
       alignment: 9
-      pivot: {x: .546751201, y: .457983196}
+      pivot: {x: .546031773, y: .457627118}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0011
       rect:
         serializedVersion: 2
-        x: 635
-        y: 2077
-        width: 631
-        height: 239
+        x: 319
+        y: 1032
+        width: 316
+        height: 119
       alignment: 9
-      pivot: {x: .548335969, y: .460251033}
+      pivot: {x: .547468364, y: .462184876}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0013
       rect:
         serializedVersion: 2
-        x: 1268
-        y: 2076
-        width: 633
-        height: 240
+        x: 637
+        y: 1031
+        width: 317
+        height: 120
       alignment: 9
-      pivot: {x: .549763024, y: .466666669}
+      pivot: {x: .548895895, y: .466666669}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0015
       rect:
         serializedVersion: 2
-        x: 1903
-        y: 2074
-        width: 635
-        height: 242
+        x: 956
+        y: 1030
+        width: 318
+        height: 121
       alignment: 9
-      pivot: {x: .551181078, y: .471074373}
+      pivot: {x: .550314486, y: .471074373}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0017
       rect:
         serializedVersion: 2
-        x: 2540
-        y: 2072
-        width: 636
-        height: 244
+        x: 1276
+        y: 1029
+        width: 319
+        height: 122
       alignment: 9
-      pivot: {x: .551886797, y: .475409836}
+      pivot: {x: .551724136, y: .475409836}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0019
       rect:
         serializedVersion: 2
-        x: 3178
-        y: 2069
-        width: 638
-        height: 247
+        x: 1597
+        y: 1028
+        width: 319
+        height: 123
       alignment: 9
-      pivot: {x: .553291559, y: .481781363}
+      pivot: {x: .551724136, y: .479674786}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0021
       rect:
         serializedVersion: 2
         x: 2
-        y: 1818
-        width: 640
-        height: 249
+        y: 901
+        width: 319
+        height: 125
       alignment: 9
-      pivot: {x: .5546875, y: .485943764}
+      pivot: {x: .554858923, y: .488000005}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0023
       rect:
         serializedVersion: 2
-        x: 644
-        y: 1817
-        width: 641
-        height: 250
+        x: 323
+        y: 900
+        width: 320
+        height: 126
       alignment: 9
-      pivot: {x: .555382192, y: .492000014}
+      pivot: {x: .556249976, y: .492063493}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0025
       rect:
         serializedVersion: 2
-        x: 1287
-        y: 1814
-        width: 643
-        height: 253
+        x: 645
+        y: 899
+        width: 321
+        height: 127
       alignment: 9
-      pivot: {x: .556765139, y: .498023719}
+      pivot: {x: .557632387, y: .496062994}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0027
       rect:
         serializedVersion: 2
-        x: 1932
-        y: 1813
-        width: 644
-        height: 254
+        x: 968
+        y: 899
+        width: 321
+        height: 127
       alignment: 9
-      pivot: {x: .557453394, y: .5}
+      pivot: {x: .557632387, y: .503937006}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0029
       rect:
         serializedVersion: 2
-        x: 2578
-        y: 1811
-        width: 644
-        height: 256
+        x: 1291
+        y: 899
+        width: 322
+        height: 127
       alignment: 9
-      pivot: {x: .559006214, y: .50390625}
+      pivot: {x: .559006214, y: .503937006}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0031
       rect:
         serializedVersion: 2
-        x: 3224
-        y: 1810
-        width: 645
-        height: 257
+        x: 1615
+        y: 898
+        width: 323
+        height: 128
       alignment: 9
-      pivot: {x: .559689939, y: .505836546}
+      pivot: {x: .560371518, y: .5078125}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0033
       rect:
         serializedVersion: 2
         x: 2
-        y: 1550
-        width: 646
-        height: 258
+        y: 768
+        width: 323
+        height: 128
       alignment: 9
-      pivot: {x: .560371518, y: .507751942}
+      pivot: {x: .560371518, y: .5078125}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0035
       rect:
         serializedVersion: 2
-        x: 650
-        y: 1551
-        width: 647
-        height: 257
+        x: 327
+        y: 767
+        width: 323
+        height: 129
       alignment: 9
-      pivot: {x: .561051011, y: .509727597}
+      pivot: {x: .560371518, y: .511627913}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0037
       rect:
         serializedVersion: 2
-        x: 1299
-        y: 1551
-        width: 647
-        height: 257
+        x: 652
+        y: 767
+        width: 323
+        height: 129
       alignment: 9
-      pivot: {x: .561051011, y: .509727597}
+      pivot: {x: .560371518, y: .511627913}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0039
       rect:
         serializedVersion: 2
-        x: 1948
-        y: 1551
-        width: 647
-        height: 257
+        x: 977
+        y: 768
+        width: 323
+        height: 128
       alignment: 9
-      pivot: {x: .561051011, y: .509727597}
+      pivot: {x: .560371518, y: .5078125}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0041
       rect:
         serializedVersion: 2
-        x: 2597
-        y: 1551
-        width: 647
-        height: 257
+        x: 1302
+        y: 768
+        width: 323
+        height: 128
       alignment: 9
-      pivot: {x: .561051011, y: .505836546}
+      pivot: {x: .560371518, y: .5078125}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0043
       rect:
         serializedVersion: 2
-        x: 3246
-        y: 1552
-        width: 647
-        height: 256
+        x: 1627
+        y: 768
+        width: 323
+        height: 128
       alignment: 9
-      pivot: {x: .561051011, y: .50390625}
+      pivot: {x: .560371518, y: .5078125}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0045
       rect:
         serializedVersion: 2
         x: 2
-        y: 1293
-        width: 646
-        height: 255
+        y: 638
+        width: 323
+        height: 127
       alignment: 9
-      pivot: {x: .560371518, y: .501960814}
+      pivot: {x: .560371518, y: .503937006}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0047
       rect:
         serializedVersion: 2
-        x: 650
-        y: 1294
-        width: 645
-        height: 254
+        x: 327
+        y: 639
+        width: 323
+        height: 126
       alignment: 9
-      pivot: {x: .559689939, y: .5}
+      pivot: {x: .560371518, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0049
       rect:
         serializedVersion: 2
-        x: 1297
-        y: 1296
-        width: 644
-        height: 252
+        x: 652
+        y: 639
+        width: 322
+        height: 126
       alignment: 9
-      pivot: {x: .559006214, y: .496031731}
+      pivot: {x: .559006214, y: .492063493}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0051
       rect:
         serializedVersion: 2
-        x: 1943
-        y: 1298
-        width: 643
-        height: 250
+        x: 976
+        y: 640
+        width: 321
+        height: 125
       alignment: 9
-      pivot: {x: .558320343, y: .492000014}
+      pivot: {x: .557632387, y: .488000005}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0053
       rect:
         serializedVersion: 2
-        x: 2588
-        y: 1300
-        width: 643
-        height: 248
+        x: 1299
+        y: 640
+        width: 321
+        height: 125
       alignment: 9
-      pivot: {x: .556765139, y: .487903237}
+      pivot: {x: .557632387, y: .488000005}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0055
       rect:
         serializedVersion: 2
-        x: 3233
-        y: 1301
-        width: 641
-        height: 247
+        x: 1622
+        y: 641
+        width: 320
+        height: 124
       alignment: 9
-      pivot: {x: .555382192, y: .481781363}
+      pivot: {x: .556249976, y: .483870953}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0057
       rect:
         serializedVersion: 2
         x: 2
-        y: 1046
-        width: 640
-        height: 245
+        y: 513
+        width: 319
+        height: 123
       alignment: 9
-      pivot: {x: .5546875, y: .477551013}
+      pivot: {x: .554858923, y: .479674786}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0059
       rect:
         serializedVersion: 2
-        x: 644
-        y: 1048
-        width: 638
-        height: 243
+        x: 323
+        y: 514
+        width: 318
+        height: 122
       alignment: 9
-      pivot: {x: .553291559, y: .473251015}
+      pivot: {x: .553459108, y: .475409836}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0061
       rect:
         serializedVersion: 2
-        x: 1284
-        y: 1050
-        width: 636
-        height: 241
+        x: 643
+        y: 515
+        width: 319
+        height: 121
       alignment: 9
-      pivot: {x: .551886797, y: .46887967}
+      pivot: {x: .551724136, y: .471074373}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0063
       rect:
         serializedVersion: 2
-        x: 1922
-        y: 1051
-        width: 635
-        height: 240
+        x: 964
+        y: 516
+        width: 318
+        height: 120
       alignment: 9
-      pivot: {x: .551181078, y: .466666669}
+      pivot: {x: .550314486, y: .466666669}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0065
       rect:
         serializedVersion: 2
-        x: 2559
-        y: 1052
-        width: 633
-        height: 239
+        x: 1284
+        y: 517
+        width: 317
+        height: 119
       alignment: 9
-      pivot: {x: .549763024, y: .460251033}
+      pivot: {x: .548895895, y: .462184876}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0067
       rect:
         serializedVersion: 2
-        x: 3194
-        y: 1054
-        width: 632
-        height: 237
+        x: 1603
+        y: 518
+        width: 316
+        height: 118
       alignment: 9
-      pivot: {x: .549050629, y: .455696195}
+      pivot: {x: .547468364, y: .457627118}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0069
       rect:
         serializedVersion: 2
         x: 2
-        y: 808
-        width: 630
-        height: 236
+        y: 393
+        width: 316
+        height: 118
       alignment: 9
-      pivot: {x: .547619045, y: .453389823}
+      pivot: {x: .547468364, y: .457627118}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0071
       rect:
         serializedVersion: 2
-        x: 634
-        y: 806
-        width: 630
-        height: 238
+        x: 320
+        y: 392
+        width: 315
+        height: 119
       alignment: 9
-      pivot: {x: .546031773, y: .457983196}
+      pivot: {x: .546031773, y: .453781515}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0073
       rect:
         serializedVersion: 2
-        x: 1266
-        y: 805
-        width: 629
-        height: 239
+        x: 637
+        y: 391
+        width: 315
+        height: 120
       alignment: 9
-      pivot: {x: .54531002, y: .460251033}
+      pivot: {x: .546031773, y: .458333343}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0075
       rect:
         serializedVersion: 2
-        x: 1897
-        y: 805
-        width: 629
-        height: 239
+        x: 954
+        y: 391
+        width: 314
+        height: 120
       alignment: 9
-      pivot: {x: .54531002, y: .460251033}
+      pivot: {x: .544586003, y: .458333343}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0077
       rect:
         serializedVersion: 2
-        x: 2528
-        y: 804
-        width: 628
-        height: 240
+        x: 1270
+        y: 391
+        width: 314
+        height: 120
       alignment: 9
-      pivot: {x: .544586003, y: .462500006}
+      pivot: {x: .544586003, y: .458333343}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Shark_Idle.0079
       rect:
         serializedVersion: 2
-        x: 3158
-        y: 804
-        width: 628
-        height: 240
+        x: 1586
+        y: 391
+        width: 314
+        height: 120
       alignment: 9
-      pivot: {x: .544586003, y: .462500006}
+      pivot: {x: .544586003, y: .458333343}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

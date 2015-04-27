@@ -294,8 +294,18 @@ public class UnitStatScript : MonoBehaviour
         //if the unit manager says I am trying to sell something
         if (UnitManager.shouldSell)
         {
-            //return half my cost * percentage of health remaining.
-            GameObject.Find("ResourceManager").GetComponent<ResourceManager>().DeltaResourceTG(cost*(int).5 * (health/maxHealth), transform.position);
+            if (health > maxHealth/2)
+            {
+                //return half my cost of the fish when sold
+                GameObject.Find("ResourceManager").GetComponent<ResourceManager>().DeltaResourceTG(cost / 2, transform.position);
+               
+            }
+            else
+            {
+                //return half my cost of the fish when sold
+                GameObject.Find("ResourceManager").GetComponent<ResourceManager>().DeltaResourceTG(cost / 4, transform.position);
+            
+            }
             //Kill this unit
             health = 0;
             //Tell the Unit manager that you have just sold something

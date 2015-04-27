@@ -261,7 +261,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 565
+  spritePixelsToUnits: 265
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings:
@@ -271,805 +271,805 @@ TextureImporter:
     compressionQuality: 50
   spriteSheet:
     sprites:
-    - name: Turtle_Attack_60.0043
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 7826
-        width: 564
-        height: 364
-      alignment: 9
-      pivot: {x: .6241135, y: .587912083}
-      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0041
       rect:
         serializedVersion: 2
-        x: 568
-        y: 7826
-        width: 564
-        height: 364
+        x: 854
+        y: 1864
+        width: 282
+        height: 182
       alignment: 9
       pivot: {x: .6241135, y: .587912083}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0035
-      rect:
-        serializedVersion: 2
-        x: 2268
-        y: 7827
-        width: 565
-        height: 363
-      alignment: 9
-      pivot: {x: .623008847, y: .58953166}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0037
-      rect:
-        serializedVersion: 2
-        x: 1701
-        y: 7827
-        width: 565
-        height: 363
-      alignment: 9
-      pivot: {x: .623008847, y: .58953166}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0039
       rect:
         serializedVersion: 2
-        x: 1134
-        y: 7826
-        width: 565
-        height: 364
+        x: 570
+        y: 1864
+        width: 282
+        height: 182
       alignment: 9
-      pivot: {x: .623008847, y: .587912083}
+      pivot: {x: .6241135, y: .587912083}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0033
+    - name: Turtle_Attack_60.0043
       rect:
         serializedVersion: 2
-        x: 570
-        y: 7453
-        width: 566
-        height: 365
+        x: 286
+        y: 1864
+        width: 282
+        height: 182
       alignment: 9
-      pivot: {x: .621908128, y: .594520569}
+      pivot: {x: .6241135, y: .587912083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0037
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1864
+        width: 282
+        height: 182
+      alignment: 9
+      pivot: {x: .6241135, y: .587912083}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0031
       rect:
         serializedVersion: 2
-        x: 2
-        y: 7450
-        width: 566
-        height: 368
+        x: 3133
+        y: 1862
+        width: 283
+        height: 184
       alignment: 9
       pivot: {x: .621908128, y: .597826064}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0027
-      rect:
-        serializedVersion: 2
-        x: 2835
-        y: 7820
-        width: 566
-        height: 370
-      alignment: 9
-      pivot: {x: .621908128, y: .60540539}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0045
-      rect:
-        serializedVersion: 2
-        x: 1138
-        y: 7436
-        width: 566
-        height: 382
-      alignment: 9
-      pivot: {x: .621908128, y: .612565458}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0029
-      rect:
-        serializedVersion: 2
-        x: 3403
-        y: 7821
-        width: 566
-        height: 369
-      alignment: 9
-      pivot: {x: .621908128, y: .601626039}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0025
-      rect:
-        serializedVersion: 2
-        x: 1706
-        y: 7446
-        width: 567
-        height: 372
-      alignment: 9
-      pivot: {x: .622574985, y: .607526898}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0021
-      rect:
-        serializedVersion: 2
-        x: 2845
-        y: 7448
-        width: 568
-        height: 370
-      alignment: 9
-      pivot: {x: .621478856, y: .610810816}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0019
       rect:
         serializedVersion: 2
-        x: 3415
-        y: 7451
-        width: 568
-        height: 367
+        x: 3703
+        y: 1862
+        width: 283
+        height: 184
       alignment: 9
-      pivot: {x: .621478856, y: .610354245}
+      pivot: {x: .621908128, y: .608695626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0033
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1863
+        width: 283
+        height: 183
+      alignment: 9
+      pivot: {x: .621908128, y: .59562844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0021
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1861
+        width: 283
+        height: 185
+      alignment: 9
+      pivot: {x: .621908128, y: .610810816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0045
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1855
+        width: 283
+        height: 191
+      alignment: 9
+      pivot: {x: .621908128, y: .612565458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0027
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1861
+        width: 283
+        height: 185
+      alignment: 9
+      pivot: {x: .621908128, y: .60540539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0029
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1861
+        width: 283
+        height: 185
+      alignment: 9
+      pivot: {x: .621908128, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0025
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1860
+        width: 283
+        height: 186
+      alignment: 9
+      pivot: {x: .621908128, y: .607526898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0035
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1865
+        width: 283
+        height: 181
+      alignment: 9
+      pivot: {x: .621908128, y: .591160238}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0023
       rect:
         serializedVersion: 2
-        x: 2275
-        y: 7447
-        width: 568
-        height: 371
+        x: 2278
+        y: 1861
+        width: 283
+        height: 185
       alignment: 9
-      pivot: {x: .621478856, y: .609164417}
+      pivot: {x: .621908128, y: .610810816}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0017
       rect:
         serializedVersion: 2
         x: 2
-        y: 7070
-        width: 571
-        height: 364
+        y: 1671
+        width: 285
+        height: 182
       alignment: 9
-      pivot: {x: .623467624, y: .609890103}
+      pivot: {x: .624561429, y: .609890103}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0015
       rect:
         serializedVersion: 2
-        x: 575
-        y: 7073
-        width: 578
-        height: 361
+        x: 289
+        y: 1673
+        width: 288
+        height: 180
       alignment: 9
-      pivot: {x: .628027678, y: .606648207}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0013
-      rect:
-        serializedVersion: 2
-        x: 1155
-        y: 7078
-        width: 583
-        height: 356
-      alignment: 9
-      pivot: {x: .631217837, y: .603932559}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0071
-      rect:
-        serializedVersion: 2
-        x: 1740
-        y: 7077
-        width: 586
-        height: 357
-      alignment: 9
-      pivot: {x: .617747426, y: .624649882}
+      pivot: {x: .628472209, y: .605555534}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0069
       rect:
         serializedVersion: 2
-        x: 2328
-        y: 7074
-        width: 586
-        height: 360
+        x: 579
+        y: 1673
+        width: 292
+        height: 180
       alignment: 9
-      pivot: {x: .616040945, y: .633333325}
+      pivot: {x: .616438329, y: .633333325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0013
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1675
+        width: 292
+        height: 178
+      alignment: 9
+      pivot: {x: .630136967, y: .606741548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0071
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1675
+        width: 293
+        height: 178
+      alignment: 9
+      pivot: {x: .617747426, y: .623595476}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0011
       rect:
         serializedVersion: 2
-        x: 2916
-        y: 7082
-        width: 588
-        height: 352
+        x: 1462
+        y: 1677
+        width: 294
+        height: 176
       alignment: 9
-      pivot: {x: .634353757, y: .602272749}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0067
-      rect:
-        serializedVersion: 2
-        x: 593
-        y: 6706
-        width: 589
-        height: 362
-      alignment: 9
-      pivot: {x: .616298795, y: .640883982}
+      pivot: {x: .632653058, y: .602272749}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0073
       rect:
         serializedVersion: 2
-        x: 2
-        y: 6719
-        width: 589
-        height: 349
+        x: 1758
+        y: 1678
+        width: 294
+        height: 175
       alignment: 9
-      pivot: {x: .623089969, y: .613180518}
+      pivot: {x: .622448981, y: .611428559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0067
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1672
+        width: 295
+        height: 181
+      alignment: 9
+      pivot: {x: .616949141, y: .640883982}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0009
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 6720
-        width: 592
-        height: 348
+        x: 2351
+        y: 1679
+        width: 296
+        height: 174
       alignment: 9
-      pivot: {x: .63682431, y: .597701132}
+      pivot: {x: .635135114, y: .597701132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0075
       rect:
         serializedVersion: 2
-        x: 1778
-        y: 6728
-        width: 593
-        height: 340
+        x: 2649
+        y: 1684
+        width: 296
+        height: 169
       alignment: 9
-      pivot: {x: .629005075, y: .597058833}
+      pivot: {x: .628378391, y: .597633123}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0065
       rect:
         serializedVersion: 2
-        x: 2970
-        y: 6705
-        width: 595
-        height: 363
+        x: 2947
+        y: 1672
+        width: 297
+        height: 181
       alignment: 9
-      pivot: {x: .62016809, y: .647382915}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0007
-      rect:
-        serializedVersion: 2
-        x: 2373
-        y: 6724
-        width: 595
-        height: 344
-      alignment: 9
-      pivot: {x: .638655484, y: .595930219}
+      pivot: {x: .619528592, y: .646408856}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0077
       rect:
         serializedVersion: 2
-        x: 2
-        y: 6370
-        width: 595
-        height: 333
+        x: 3246
+        y: 1687
+        width: 298
+        height: 166
       alignment: 9
-      pivot: {x: .635294139, y: .585585594}
+      pivot: {x: .63422817, y: .584337354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0007
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 1680
+        width: 298
+        height: 173
+      alignment: 9
+      pivot: {x: .637583911, y: .595375717}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0005
       rect:
         serializedVersion: 2
-        x: 599
-        y: 6361
-        width: 597
-        height: 342
+        x: 905
+        y: 1499
+        width: 299
+        height: 170
       alignment: 9
-      pivot: {x: .639865994, y: .593567252}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0025
-      rect:
-        serializedVersion: 2
-        x: 1198
-        y: 6360
-        width: 598
-        height: 343
-      alignment: 9
-      pivot: {x: .642140448, y: .600583076}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0023
-      rect:
-        serializedVersion: 2
-        x: 1805
-        y: 6016
-        width: 599
-        height: 342
-      alignment: 9
-      pivot: {x: .641068459, y: .599415183}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0001
-      rect:
-        serializedVersion: 2
-        x: 2406
-        y: 6018
-        width: 599
-        height: 340
-      alignment: 9
-      pivot: {x: .641068459, y: .59117645}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0003
-      rect:
-        serializedVersion: 2
-        x: 3007
-        y: 6018
-        width: 599
-        height: 340
-      alignment: 9
-      pivot: {x: .641068459, y: .59117645}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0029
-      rect:
-        serializedVersion: 2
-        x: 1204
-        y: 6015
-        width: 599
-        height: 343
-      alignment: 9
-      pivot: {x: .642737925, y: .600583076}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0021
-      rect:
-        serializedVersion: 2
-        x: 3000
-        y: 6361
-        width: 599
-        height: 342
-      alignment: 9
-      pivot: {x: .641068459, y: .596491218}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0031
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 6017
-        width: 599
-        height: 341
-      alignment: 9
-      pivot: {x: .644407332, y: .601173043}
+      pivot: {x: .638795972, y: .594117641}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0079
       rect:
         serializedVersion: 2
-        x: 2399
-        y: 6372
-        width: 599
-        height: 331
+        x: 604
+        y: 1503
+        width: 299
+        height: 166
       alignment: 9
-      pivot: {x: .639398992, y: .583081543}
+      pivot: {x: .638795972, y: .584337354}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0019
+    - name: Turtle_Idle.0025
       rect:
         serializedVersion: 2
-        x: 1798
-        y: 6362
-        width: 599
-        height: 341
+        x: 303
+        y: 1497
+        width: 299
+        height: 172
       alignment: 9
-      pivot: {x: .641068459, y: .595307946}
+      pivot: {x: .642140448, y: .598837197}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0027
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 6015
-        width: 599
-        height: 343
-      alignment: 9
-      pivot: {x: .642737925, y: .600583076}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0009
-      rect:
-        serializedVersion: 2
-        x: 2410
-        y: 5681
-        width: 600
-        height: 332
-      alignment: 9
-      pivot: {x: .639999986, y: .581325293}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0033
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 5673
-        width: 600
-        height: 340
-      alignment: 9
-      pivot: {x: .644999981, y: .600000024}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0037
+    - name: Turtle_Idle.0023
       rect:
         serializedVersion: 2
         x: 2
-        y: 5335
-        width: 600
-        height: 336
+        y: 1497
+        width: 299
+        height: 172
       alignment: 9
-      pivot: {x: .646666646, y: .59523809}
+      pivot: {x: .642140448, y: .598837197}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0017
+    - name: Turtle_Idle.0011
       rect:
         serializedVersion: 2
-        x: 1206
-        y: 5674
-        width: 600
-        height: 339
+        x: 3320
+        y: 1501
+        width: 300
+        height: 168
       alignment: 9
-      pivot: {x: .639999986, y: .592920363}
+      pivot: {x: .639999986, y: .583333313}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Idle.0015
       rect:
         serializedVersion: 2
-        x: 604
-        y: 5676
-        width: 600
-        height: 337
+        x: 3622
+        y: 1500
+        width: 300
+        height: 169
       alignment: 9
-      pivot: {x: .639999986, y: .590504467}
+      pivot: {x: .639999986, y: .591715991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0031
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1324
+        width: 300
+        height: 171
+      alignment: 9
+      pivot: {x: .643333316, y: .602339208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0001
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1326
+        width: 300
+        height: 169
+      alignment: 9
+      pivot: {x: .639999986, y: .591715991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0003
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1325
+        width: 300
+        height: 170
+      alignment: 9
+      pivot: {x: .639999986, y: .594117641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0017
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 1499
+        width: 300
+        height: 170
+      alignment: 9
+      pivot: {x: .639999986, y: .594117641}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Idle.0013
       rect:
         serializedVersion: 2
         x: 2
-        y: 5678
-        width: 600
-        height: 335
+        y: 1327
+        width: 300
+        height: 168
       alignment: 9
-      pivot: {x: .639999986, y: .588059723}
+      pivot: {x: .639999986, y: .589285731}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0011
+    - name: Turtle_Idle.0029
       rect:
         serializedVersion: 2
-        x: 1808
-        y: 5679
-        width: 600
-        height: 334
+        x: 1206
+        y: 1497
+        width: 300
+        height: 172
       alignment: 9
-      pivot: {x: .639999986, y: .583832324}
+      pivot: {x: .643333316, y: .598837197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0009
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1502
+        width: 300
+        height: 167
+      alignment: 9
+      pivot: {x: .639999986, y: .580838323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0021
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1498
+        width: 300
+        height: 171
+      alignment: 9
+      pivot: {x: .639999986, y: .596491218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0019
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 1498
+        width: 300
+        height: 171
+      alignment: 9
+      pivot: {x: .639999986, y: .596491218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0027
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1497
+        width: 300
+        height: 172
+      alignment: 9
+      pivot: {x: .643333316, y: .598837197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0037
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 1501
+        width: 300
+        height: 168
+      alignment: 9
+      pivot: {x: .646666646, y: .59523809}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Idle.0001
       rect:
         serializedVersion: 2
-        x: 1208
-        y: 5005
-        width: 601
-        height: 328
+        x: 911
+        y: 1157
+        width: 301
+        height: 165
       alignment: 9
-      pivot: {x: .638935089, y: .576219499}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0079
-      rect:
-        serializedVersion: 2
-        x: 1811
-        y: 5005
-        width: 601
-        height: 328
-      alignment: 9
-      pivot: {x: .638935089, y: .576219499}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0003
-      rect:
-        serializedVersion: 2
-        x: 3017
-        y: 5004
-        width: 601
-        height: 329
-      alignment: 9
-      pivot: {x: .638935089, y: .577507615}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0035
-      rect:
-        serializedVersion: 2
-        x: 605
-        y: 4995
-        width: 601
-        height: 338
-      alignment: 9
-      pivot: {x: .645590663, y: .597633123}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0005
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 4663
-        width: 601
-        height: 330
-      alignment: 9
-      pivot: {x: .638935089, y: .578787863}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0007
-      rect:
-        serializedVersion: 2
-        x: 2414
-        y: 5002
-        width: 601
-        height: 331
-      alignment: 9
-      pivot: {x: .638935089, y: .580060422}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0073
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 5005
-        width: 601
-        height: 328
-      alignment: 9
-      pivot: {x: .640599012, y: .576219499}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0039
-      rect:
-        serializedVersion: 2
-        x: 604
-        y: 5337
-        width: 601
-        height: 334
-      alignment: 9
-      pivot: {x: .647254586, y: .592814386}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0067
-      rect:
-        serializedVersion: 2
-        x: 1810
-        y: 5344
-        width: 601
-        height: 327
-      alignment: 9
-      pivot: {x: .642262876, y: .577981651}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0075
-      rect:
-        serializedVersion: 2
-        x: 1207
-        y: 5343
-        width: 601
-        height: 328
-      alignment: 9
-      pivot: {x: .638935089, y: .576219499}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0071
-      rect:
-        serializedVersion: 2
-        x: 2413
-        y: 5344
-        width: 601
-        height: 327
-      alignment: 9
-      pivot: {x: .640599012, y: .577981651}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0077
-      rect:
-        serializedVersion: 2
-        x: 3016
-        y: 5343
-        width: 601
-        height: 328
-      alignment: 9
-      pivot: {x: .638935089, y: .576219499}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0041
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 4329
-        width: 602
-        height: 332
-      alignment: 9
-      pivot: {x: .647840559, y: .593373477}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0043
-      rect:
-        serializedVersion: 2
-        x: 2417
-        y: 4663
-        width: 602
-        height: 330
-      alignment: 9
-      pivot: {x: .647840559, y: .590909064}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0057
-      rect:
-        serializedVersion: 2
-        x: 3021
-        y: 4668
-        width: 602
-        height: 325
-      alignment: 9
-      pivot: {x: .646179378, y: .581538439}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0061
-      rect:
-        serializedVersion: 2
-        x: 605
-        y: 4667
-        width: 602
-        height: 326
-      alignment: 9
-      pivot: {x: .644518256, y: .579754591}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0069
-      rect:
-        serializedVersion: 2
-        x: 1813
-        y: 4666
-        width: 602
-        height: 327
-      alignment: 9
-      pivot: {x: .641196012, y: .577981651}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0065
-      rect:
-        serializedVersion: 2
-        x: 1209
-        y: 4667
-        width: 602
-        height: 326
-      alignment: 9
-      pivot: {x: .642857134, y: .579754591}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0047
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 3969
-        width: 603
-        height: 327
-      alignment: 9
-      pivot: {x: .648424566, y: .587155938}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0053
-      rect:
-        serializedVersion: 2
-        x: 607
-        y: 3971
-        width: 603
-        height: 325
-      alignment: 9
-      pivot: {x: .646766186, y: .584615409}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0049
-      rect:
-        serializedVersion: 2
-        x: 1212
-        y: 3970
-        width: 603
-        height: 326
-      alignment: 9
-      pivot: {x: .648424566, y: .585889578}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Idle.0063
-      rect:
-        serializedVersion: 2
-        x: 3026
-        y: 4335
-        width: 603
-        height: 326
-      alignment: 9
-      pivot: {x: .643449426, y: .579754591}
+      pivot: {x: .637873769, y: .575757563}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Idle.0051
       rect:
         serializedVersion: 2
-        x: 1817
-        y: 3971
-        width: 603
-        height: 325
+        x: 608
+        y: 1159
+        width: 301
+        height: 163
       alignment: 9
-      pivot: {x: .648424566, y: .584615409}
+      pivot: {x: .647840559, y: .582822084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0067
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1158
+        width: 301
+        height: 164
+      alignment: 9
+      pivot: {x: .641196012, y: .579268277}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0063
       rect:
         serializedVersion: 2
-        x: 606
-        y: 4298
-        width: 603
-        height: 363
+        x: 1214
+        y: 1141
+        width: 301
+        height: 181
       alignment: 9
-      pivot: {x: .623548925, y: .650137722}
+      pivot: {x: .624584734, y: .65193373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0079
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1157
+        width: 301
+        height: 165
+      alignment: 9
+      pivot: {x: .637873769, y: .575757563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0061
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1158
+        width: 301
+        height: 164
+      alignment: 9
+      pivot: {x: .644518256, y: .579268277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0005
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1157
+        width: 301
+        height: 165
+      alignment: 9
+      pivot: {x: .637873769, y: .575757563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0033
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1152
+        width: 301
+        height: 170
+      alignment: 9
+      pivot: {x: .644518256, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0007
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 1156
+        width: 301
+        height: 166
+      alignment: 9
+      pivot: {x: .637873769, y: .578313231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0003
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1157
+        width: 301
+        height: 165
+      alignment: 9
+      pivot: {x: .637873769, y: .575757563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0039
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1328
+        width: 301
+        height: 167
+      alignment: 9
+      pivot: {x: .647840559, y: .592814386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0077
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1330
+        width: 301
+        height: 165
+      alignment: 9
+      pivot: {x: .637873769, y: .575757563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0073
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1330
+        width: 301
+        height: 165
+      alignment: 9
+      pivot: {x: .641196012, y: .575757563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0075
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1330
+        width: 301
+        height: 165
+      alignment: 9
+      pivot: {x: .637873769, y: .575757563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0043
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 1329
+        width: 301
+        height: 166
+      alignment: 9
+      pivot: {x: .647840559, y: .590361416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0069
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 1331
+        width: 301
+        height: 164
+      alignment: 9
+      pivot: {x: .641196012, y: .579268277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0071
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1331
+        width: 301
+        height: 164
+      alignment: 9
+      pivot: {x: .641196012, y: .579268277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0035
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 1326
+        width: 301
+        height: 169
+      alignment: 9
+      pivot: {x: .644518256, y: .597633123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0041
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 1328
+        width: 301
+        height: 167
+      alignment: 9
+      pivot: {x: .647840559, y: .592814386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0047
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 975
+        width: 302
+        height: 164
+      alignment: 9
+      pivot: {x: .649006605, y: .585365832}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Idle.0055
       rect:
         serializedVersion: 2
-        x: 2421
-        y: 4336
-        width: 603
-        height: 325
+        x: 1522
+        y: 976
+        width: 302
+        height: 163
       alignment: 9
-      pivot: {x: .646766186, y: .581538439}
+      pivot: {x: .645695388, y: .582822084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0053
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 976
+        width: 302
+        height: 163
+      alignment: 9
+      pivot: {x: .645695388, y: .582822084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0063
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 975
+        width: 302
+        height: 164
+      alignment: 9
+      pivot: {x: .642384112, y: .579268277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0049
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 975
+        width: 302
+        height: 164
+      alignment: 9
+      pivot: {x: .649006605, y: .585365832}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Idle.0059
       rect:
         serializedVersion: 2
-        x: 1211
-        y: 4336
-        width: 603
-        height: 325
+        x: 3032
+        y: 1159
+        width: 302
+        height: 163
       alignment: 9
-      pivot: {x: .645107806, y: .581538439}
+      pivot: {x: .645695388, y: .582822084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0057
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1159
+        width: 302
+        height: 163
+      alignment: 9
+      pivot: {x: .645695388, y: .582822084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Idle.0065
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 975
+        width: 302
+        height: 164
+      alignment: 9
+      pivot: {x: .642384112, y: .579268277}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Idle.0045
       rect:
         serializedVersion: 2
-        x: 1816
-        y: 4332
-        width: 603
-        height: 329
+        x: 3640
+        y: 1157
+        width: 302
+        height: 165
       alignment: 9
-      pivot: {x: .648424566, y: .589665651}
+      pivot: {x: .649006605, y: .587878764}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0047
       rect:
         serializedVersion: 2
-        x: 2422
-        y: 3893
-        width: 604
-        height: 403
+        x: 2
+        y: 937
+        width: 302
+        height: 202
       alignment: 9
-      pivot: {x: .632450342, y: .665012419}
+      pivot: {x: .632450342, y: .663366318}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0061
       rect:
         serializedVersion: 2
-        x: 3028
-        y: 3936
-        width: 611
-        height: 360
+        x: 2130
+        y: 959
+        width: 305
+        height: 180
       alignment: 9
-      pivot: {x: .628477931, y: .652777791}
+      pivot: {x: .629508197, y: .655555546}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0059
       rect:
         serializedVersion: 2
-        x: 2
-        y: 3535
-        width: 618
-        height: 356
+        x: 2437
+        y: 961
+        width: 310
+        height: 178
       alignment: 9
-      pivot: {x: .632686079, y: .651685417}
+      pivot: {x: .632258058, y: .651685417}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0057
       rect:
         serializedVersion: 2
-        x: 622
-        y: 3544
-        width: 627
-        height: 347
+        x: 2749
+        y: 965
+        width: 314
+        height: 174
       alignment: 9
-      pivot: {x: .637958527, y: .648414969}
+      pivot: {x: .636942685, y: .649425268}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0055
       rect:
         serializedVersion: 2
-        x: 1251
-        y: 3557
-        width: 635
-        height: 334
+        x: 3065
+        y: 971
+        width: 318
+        height: 168
       alignment: 9
-      pivot: {x: .644094467, y: .637724578}
+      pivot: {x: .644654095, y: .636904776}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0053
       rect:
         serializedVersion: 2
-        x: 1888
-        y: 3566
-        width: 640
-        height: 325
+        x: 2
+        y: 773
+        width: 321
+        height: 162
       alignment: 9
-      pivot: {x: .6484375, y: .630769253}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Turtle_Attack_60.0049
-      rect:
-        serializedVersion: 2
-        x: 2530
-        y: 3529
-        width: 642
-        height: 362
-      alignment: 9
-      pivot: {x: .651090324, y: .662983418}
+      pivot: {x: .647975087, y: .629629612}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Turtle_Attack_60.0051
       rect:
         serializedVersion: 2
-        x: 3174
-        y: 3560
-        width: 644
-        height: 331
+        x: 3708
+        y: 973
+        width: 321
+        height: 166
       alignment: 9
-      pivot: {x: .650621116, y: .637462258}
+      pivot: {x: .651090324, y: .638554215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turtle_Attack_60.0049
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 958
+        width: 321
+        height: 181
+      alignment: 9
+      pivot: {x: .651090324, y: .662983418}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

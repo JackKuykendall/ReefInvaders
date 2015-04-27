@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: 9ed3a5537f1419f4b9ed8876a61ba51b
+timeCreated: 1429565682
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Slap_Attack.0001
+    21300002: Slap_Attack.0003
+    21300004: Slap_Attack.0005
+    21300006: Slap_Attack.0007
+    21300008: Slap_Attack.0009
+    21300010: Slap_Attack.0011
+    21300012: Slap_Attack.0013
+    21300014: Slap_Attack.0015
+    21300016: Slap_Attack.0017
+    21300018: Slap_Attack.0019
+    21300020: Slap_Attack.0021
+    21300022: Slap_Attack.0023
+    21300024: Slap_Attack.0025
+    21300026: Slap_Attack.0027
+    21300028: Slap_Attack.0029
+    21300030: Slap_Attack.0031
+    21300032: Slap_Attack.0033
+    21300034: Slap_Attack.0035
+    21300036: Slap_Attack.0037
+    21300038: Slap_Attack.0039
+    21300040: Slap_Attack.0041
+    21300042: Slap_Attack.0043
+    21300044: Slap_Attack.0045
+    21300046: Slap_Attack.0047
+    21300048: Slap_Attack.0049
+    21300050: Slap_Attack.0051
+    21300052: Slap_Attack.0053
+    21300054: Slap_Attack.0055
+    21300056: Slap_Attack.0057
+    21300058: Slap_Attack.0059
+    21300060: Slap_Attack.0061
+    21300062: Slap_Attack.0063
+    21300064: Slap_Attack.0065
+    21300066: Slap_Attack.0067
+    21300068: Slap_Attack.0069
+    21300070: Slap_Attack.0071
+    21300072: Slap_Attack.0073
+    21300074: Slap_Attack.0075
+    21300076: Slap_Attack.0077
+    21300078: Slap_Attack.0079
+    21300080: Slap_Swim.0001
+    21300082: Slap_Swim.0003
+    21300084: Slap_Swim.0005
+    21300086: Slap_Swim.0007
+    21300088: Slap_Swim.0009
+    21300090: Slap_Swim.0011
+    21300092: Slap_Swim.0013
+    21300094: Slap_Swim.0015
+    21300096: Slap_Swim.0017
+    21300098: Slap_Swim.0019
+    21300100: Slap_Swim.0021
+    21300102: Slap_Swim.0023
+    21300104: Slap_Swim.0025
+    21300106: Slap_Swim.0027
+    21300108: Slap_Swim.0029
+    21300110: Slap_Swim.0031
+    21300112: Slap_Swim.0033
+    21300114: Slap_Swim.0035
+    21300116: Slap_Swim.0037
+    21300118: Slap_Swim.0039
+    21300120: Slap_Swim.0041
+    21300122: Slap_Swim.0043
+    21300124: Slap_Swim.0045
+    21300126: Slap_Swim.0047
+    21300128: Slap_Swim.0049
+    21300130: Slap_Swim.0051
+    21300132: Slap_Swim.0053
+    21300134: Slap_Swim.0055
+    21300136: Slap_Swim.0057
+    21300138: Slap_Swim.0059
+    21300140: Slap_Swim.0061
+    21300142: Slap_Swim.0063
+    21300144: Slap_Swim.0065
+    21300146: Slap_Swim.0067
+    21300148: Slap_Swim.0069
+    21300150: Slap_Swim.0071
+    21300152: Slap_Swim.0073
+    21300154: Slap_Swim.0075
+    21300156: Slap_Swim.0077
+    21300158: Slap_Swim.0079
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 225
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Slap_Attack.0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1839
+        width: 238
+        height: 207
+      alignment: 9
+      pivot: {x: .554621875, y: .521739125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0003
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1839
+        width: 239
+        height: 207
+      alignment: 9
+      pivot: {x: .556485355, y: .521739125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0005
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1840
+        width: 240
+        height: 206
+      alignment: 9
+      pivot: {x: .558333337, y: .519417465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0007
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1841
+        width: 241
+        height: 205
+      alignment: 9
+      pivot: {x: .560166001, y: .517073154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0009
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1842
+        width: 241
+        height: 204
+      alignment: 9
+      pivot: {x: .560166001, y: .514705896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0011
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1843
+        width: 242
+        height: 203
+      alignment: 9
+      pivot: {x: .561983466, y: .512315273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0013
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1843
+        width: 241
+        height: 203
+      alignment: 9
+      pivot: {x: .564315379, y: .512315273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0015
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1842
+        width: 242
+        height: 204
+      alignment: 9
+      pivot: {x: .566115677, y: .514705896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0017
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1842
+        width: 241
+        height: 204
+      alignment: 9
+      pivot: {x: .568464756, y: .514705896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0019
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 1841
+        width: 240
+        height: 205
+      alignment: 9
+      pivot: {x: .570833325, y: .517073154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0021
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 1841
+        width: 239
+        height: 205
+      alignment: 9
+      pivot: {x: .573221743, y: .517073154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0023
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 1841
+        width: 237
+        height: 205
+      alignment: 9
+      pivot: {x: .573839664, y: .517073154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0025
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 1841
+        width: 237
+        height: 205
+      alignment: 9
+      pivot: {x: .573839664, y: .517073154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0027
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1842
+        width: 237
+        height: 204
+      alignment: 9
+      pivot: {x: .573839664, y: .514705896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0029
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 1842
+        width: 237
+        height: 204
+      alignment: 9
+      pivot: {x: .573839664, y: .514705896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0031
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1842
+        width: 239
+        height: 204
+      alignment: 9
+      pivot: {x: .573221743, y: .514705896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0033
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1630
+        width: 241
+        height: 207
+      alignment: 9
+      pivot: {x: .568464756, y: .526570022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0035
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1627
+        width: 242
+        height: 210
+      alignment: 9
+      pivot: {x: .561983466, y: .533333361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0037
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1626
+        width: 240
+        height: 211
+      alignment: 9
+      pivot: {x: .5625, y: .535545051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0039
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1633
+        width: 234
+        height: 204
+      alignment: 9
+      pivot: {x: .56410259, y: .524509788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0041
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1641
+        width: 224
+        height: 196
+      alignment: 9
+      pivot: {x: .571428597, y: .505102038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0043
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1650
+        width: 240
+        height: 187
+      alignment: 9
+      pivot: {x: .512499988, y: .481283426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0045
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1652
+        width: 246
+        height: 185
+      alignment: 9
+      pivot: {x: .483739823, y: .475675672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0047
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1654
+        width: 241
+        height: 183
+      alignment: 9
+      pivot: {x: .477178425, y: .469945341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0049
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1653
+        width: 235
+        height: 184
+      alignment: 9
+      pivot: {x: .480851054, y: .472826093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0051
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1653
+        width: 235
+        height: 184
+      alignment: 9
+      pivot: {x: .480851054, y: .472826093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0053
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1653
+        width: 238
+        height: 184
+      alignment: 9
+      pivot: {x: .478991598, y: .472826093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0055
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1652
+        width: 243
+        height: 185
+      alignment: 9
+      pivot: {x: .481481493, y: .475675672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0057
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 1652
+        width: 249
+        height: 185
+      alignment: 9
+      pivot: {x: .485943764, y: .475675672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0059
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1651
+        width: 253
+        height: 186
+      alignment: 9
+      pivot: {x: .494071156, y: .478494614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0061
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 1649
+        width: 252
+        height: 188
+      alignment: 9
+      pivot: {x: .511904776, y: .478723407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0063
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1644
+        width: 245
+        height: 193
+      alignment: 9
+      pivot: {x: .54285717, y: .492227972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0065
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1425
+        width: 228
+        height: 199
+      alignment: 9
+      pivot: {x: .592105269, y: .507537663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0067
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1421
+        width: 230
+        height: 203
+      alignment: 9
+      pivot: {x: .591304362, y: .517241359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0069
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1415
+        width: 233
+        height: 209
+      alignment: 9
+      pivot: {x: .583691001, y: .531100452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0071
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1412
+        width: 235
+        height: 212
+      alignment: 9
+      pivot: {x: .578723431, y: .53773582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0073
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1411
+        width: 237
+        height: 213
+      alignment: 9
+      pivot: {x: .573839664, y: .539906085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0075
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1411
+        width: 238
+        height: 213
+      alignment: 9
+      pivot: {x: .567226887, y: .535211265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0077
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1413
+        width: 238
+        height: 211
+      alignment: 9
+      pivot: {x: .563025236, y: .530805707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Attack.0079
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1416
+        width: 237
+        height: 208
+      alignment: 9
+      pivot: {x: .556962013, y: .524038434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0001
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1415
+        width: 205
+        height: 209
+      alignment: 9
+      pivot: {x: .48780489, y: .526315808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0003
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1415
+        width: 205
+        height: 209
+      alignment: 9
+      pivot: {x: .48780489, y: .526315808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0005
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 1414
+        width: 204
+        height: 210
+      alignment: 9
+      pivot: {x: .485294104, y: .528571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0007
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 1413
+        width: 202
+        height: 211
+      alignment: 9
+      pivot: {x: .480198026, y: .530805707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0009
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1411
+        width: 197
+        height: 213
+      alignment: 9
+      pivot: {x: .467005074, y: .535211265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0011
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 1410
+        width: 204
+        height: 214
+      alignment: 9
+      pivot: {x: .485294104, y: .537383199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0013
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1409
+        width: 213
+        height: 215
+      alignment: 9
+      pivot: {x: .50234741, y: .539534867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0015
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 1408
+        width: 221
+        height: 216
+      alignment: 9
+      pivot: {x: .52036202, y: .541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0017
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1407
+        width: 229
+        height: 217
+      alignment: 9
+      pivot: {x: .537117898, y: .543778777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0019
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 1407
+        width: 235
+        height: 217
+      alignment: 9
+      pivot: {x: .548936188, y: .543778777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0021
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1189
+        width: 240
+        height: 216
+      alignment: 9
+      pivot: {x: .558333337, y: .541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0023
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1190
+        width: 243
+        height: 215
+      alignment: 9
+      pivot: {x: .56378603, y: .539534867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0025
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1192
+        width: 243
+        height: 213
+      alignment: 9
+      pivot: {x: .56378603, y: .535211265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0027
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1194
+        width: 240
+        height: 211
+      alignment: 9
+      pivot: {x: .558333337, y: .530805707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0029
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1197
+        width: 236
+        height: 208
+      alignment: 9
+      pivot: {x: .550847471, y: .528846145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0031
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1200
+        width: 230
+        height: 205
+      alignment: 9
+      pivot: {x: .539130449, y: .521951199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0033
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1203
+        width: 224
+        height: 202
+      alignment: 9
+      pivot: {x: .526785731, y: .514851511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0035
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1203
+        width: 218
+        height: 202
+      alignment: 9
+      pivot: {x: .513761461, y: .514851511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0037
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1203
+        width: 214
+        height: 202
+      alignment: 9
+      pivot: {x: .504672885, y: .514851511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0039
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 1203
+        width: 211
+        height: 202
+      alignment: 9
+      pivot: {x: .497630328, y: .514851511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0041
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1203
+        width: 210
+        height: 202
+      alignment: 9
+      pivot: {x: .495238096, y: .514851511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0043
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1203
+        width: 212
+        height: 202
+      alignment: 9
+      pivot: {x: .5, y: .514851511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0045
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 1203
+        width: 216
+        height: 202
+      alignment: 9
+      pivot: {x: .509259284, y: .514851511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0047
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 1203
+        width: 221
+        height: 202
+      alignment: 9
+      pivot: {x: .52036202, y: .514851511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0049
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1203
+        width: 227
+        height: 202
+      alignment: 9
+      pivot: {x: .533039629, y: .514851511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0051
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 1201
+        width: 233
+        height: 204
+      alignment: 9
+      pivot: {x: .54506439, y: .519607842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0053
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 1198
+        width: 239
+        height: 207
+      alignment: 9
+      pivot: {x: .556485355, y: .521739125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0055
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 977
+        width: 242
+        height: 210
+      alignment: 9
+      pivot: {x: .561983466, y: .528571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0057
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 975
+        width: 243
+        height: 212
+      alignment: 9
+      pivot: {x: .56378603, y: .533018887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0059
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 973
+        width: 242
+        height: 214
+      alignment: 9
+      pivot: {x: .561983466, y: .537383199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0061
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 972
+        width: 238
+        height: 215
+      alignment: 9
+      pivot: {x: .554621875, y: .539534867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0063
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 970
+        width: 232
+        height: 217
+      alignment: 9
+      pivot: {x: .543103456, y: .543778777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0065
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 970
+        width: 225
+        height: 217
+      alignment: 9
+      pivot: {x: .528888881, y: .543778777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0067
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 969
+        width: 217
+        height: 218
+      alignment: 9
+      pivot: {x: .511520743, y: .545871556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0069
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 970
+        width: 208
+        height: 217
+      alignment: 9
+      pivot: {x: .495192319, y: .543778777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0071
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 971
+        width: 200
+        height: 216
+      alignment: 9
+      pivot: {x: .474999994, y: .541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0073
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 973
+        width: 193
+        height: 214
+      alignment: 9
+      pivot: {x: .455958545, y: .537383199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0075
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 975
+        width: 200
+        height: 212
+      alignment: 9
+      pivot: {x: .474999994, y: .533018887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0077
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 977
+        width: 204
+        height: 210
+      alignment: 9
+      pivot: {x: .485294104, y: .528571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slap_Swim.0079
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 978
+        width: 205
+        height: 209
+      alignment: 9
+      pivot: {x: .48780489, y: .526315808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

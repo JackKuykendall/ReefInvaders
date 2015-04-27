@@ -61,6 +61,10 @@ public class EnemySpecialsScript : MonoBehaviour {
 				sR.Targets.RemoveAt(0);
 			}
 		}
+        else
+        {
+            sR.AttackCounter -= Time.deltaTime;
+        }
 
 	}
 	public void OnDeath ()

@@ -123,7 +123,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 425
+  spritePixelsToUnits: 225
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings:
@@ -137,801 +137,801 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2
-        y: 3703
-        width: 378
-        height: 391
+        y: 1851
+        width: 188
+        height: 195
       alignment: 9
-      pivot: {x: .462962955, y: .496163696}
+      pivot: {x: .462765962, y: .497435898}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0003
       rect:
         serializedVersion: 2
-        x: 382
-        y: 3701
-        width: 375
-        height: 393
+        x: 192
+        y: 1851
+        width: 188
+        height: 195
       alignment: 9
-      pivot: {x: .456, y: .496183217}
+      pivot: {x: .457446814, y: .497435898}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0005
       rect:
         serializedVersion: 2
-        x: 759
-        y: 3699
-        width: 372
-        height: 395
+        x: 382
+        y: 1849
+        width: 187
+        height: 197
       alignment: 9
-      pivot: {x: .44892472, y: .496202528}
+      pivot: {x: .449197859, y: .497461915}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0007
       rect:
         serializedVersion: 2
-        x: 1133
-        y: 3699
-        width: 370
-        height: 395
+        x: 571
+        y: 1848
+        width: 185
+        height: 198
       alignment: 9
-      pivot: {x: .443243235, y: .496202528}
+      pivot: {x: .443243235, y: .49494949}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0009
       rect:
         serializedVersion: 2
-        x: 1505
-        y: 3697
-        width: 367
-        height: 397
+        x: 758
+        y: 1849
+        width: 183
+        height: 197
       alignment: 9
-      pivot: {x: .435967296, y: .496221662}
+      pivot: {x: .437158465, y: .497461915}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0011
       rect:
         serializedVersion: 2
-        x: 1874
-        y: 3696
-        width: 364
-        height: 398
+        x: 943
+        y: 1847
+        width: 182
+        height: 199
       alignment: 9
       pivot: {x: .428571433, y: .497487426}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0013
       rect:
         serializedVersion: 2
-        x: 2240
-        y: 3694
-        width: 359
-        height: 400
+        x: 1127
+        y: 1847
+        width: 180
+        height: 199
       alignment: 9
-      pivot: {x: .420612812, y: .497500002}
+      pivot: {x: .422222227, y: .497487426}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0015
       rect:
         serializedVersion: 2
-        x: 2601
-        y: 3694
-        width: 355
-        height: 400
+        x: 1309
+        y: 1847
+        width: 177
+        height: 199
       alignment: 9
-      pivot: {x: .414084494, y: .497500002}
+      pivot: {x: .412429392, y: .497487426}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0017
       rect:
         serializedVersion: 2
-        x: 2958
-        y: 3694
-        width: 352
-        height: 400
+        x: 1488
+        y: 1846
+        width: 176
+        height: 200
       alignment: 9
-      pivot: {x: .409090906, y: .497500002}
+      pivot: {x: .409090906, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0019
       rect:
         serializedVersion: 2
-        x: 3312
-        y: 3693
-        width: 350
-        height: 401
+        x: 1666
+        y: 1846
+        width: 175
+        height: 200
       alignment: 9
-      pivot: {x: .405714273, y: .49875313}
+      pivot: {x: .405714273, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0021
       rect:
         serializedVersion: 2
-        x: 3664
-        y: 3694
-        width: 347
-        height: 400
+        x: 1843
+        y: 1846
+        width: 174
+        height: 200
       alignment: 9
-      pivot: {x: .400576383, y: .5}
+      pivot: {x: .402298838, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0023
       rect:
         serializedVersion: 2
         x: 2
-        y: 3291
-        width: 345
-        height: 400
+        y: 1644
+        width: 172
+        height: 200
       alignment: 9
-      pivot: {x: .397101462, y: .5}
+      pivot: {x: .395348847, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0025
       rect:
         serializedVersion: 2
-        x: 349
-        y: 3291
-        width: 341
-        height: 400
+        x: 176
+        y: 1644
+        width: 171
+        height: 200
       alignment: 9
-      pivot: {x: .39296189, y: .5}
+      pivot: {x: .391812861, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0027
       rect:
         serializedVersion: 2
-        x: 692
-        y: 3293
-        width: 337
-        height: 398
+        x: 349
+        y: 1645
+        width: 169
+        height: 199
       alignment: 9
-      pivot: {x: .388724029, y: .5}
+      pivot: {x: .390532553, y: .497487426}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0029
       rect:
         serializedVersion: 2
-        x: 1031
-        y: 3293
-        width: 334
-        height: 398
+        x: 520
+        y: 1646
+        width: 167
+        height: 198
       alignment: 9
       pivot: {x: .383233547, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0031
       rect:
         serializedVersion: 2
-        x: 1367
-        y: 3295
-        width: 330
-        height: 396
+        x: 689
+        y: 1647
+        width: 164
+        height: 197
       alignment: 9
-      pivot: {x: .378787875, y: .5}
+      pivot: {x: .378048778, y: .502538085}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0033
       rect:
         serializedVersion: 2
-        x: 1699
-        y: 3297
-        width: 325
-        height: 394
+        x: 855
+        y: 1647
+        width: 163
+        height: 197
       alignment: 9
-      pivot: {x: .372307688, y: .5}
+      pivot: {x: .374233127, y: .502538085}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0035
       rect:
         serializedVersion: 2
-        x: 2026
-        y: 3299
-        width: 320
-        height: 392
+        x: 1020
+        y: 1648
+        width: 160
+        height: 196
       alignment: 9
-      pivot: {x: .365624994, y: .5}
+      pivot: {x: .368750006, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0037
       rect:
         serializedVersion: 2
-        x: 2348
-        y: 3311
-        width: 300
-        height: 380
+        x: 1182
+        y: 1655
+        width: 150
+        height: 189
       alignment: 9
-      pivot: {x: .340000004, y: .492105275}
+      pivot: {x: .340000004, y: .492063493}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0039
       rect:
         serializedVersion: 2
-        x: 2650
-        y: 3328
-        width: 277
-        height: 363
+        x: 1334
+        y: 1663
+        width: 139
+        height: 181
       alignment: 9
-      pivot: {x: .306859195, y: .47382921}
+      pivot: {x: .309352517, y: .475138128}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0041
       rect:
         serializedVersion: 2
-        x: 2929
-        y: 3326
-        width: 290
-        height: 365
+        x: 1475
+        y: 1661
+        width: 145
+        height: 183
       alignment: 9
-      pivot: {x: .306896538, y: .471232891}
+      pivot: {x: .310344815, y: .469945341}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0043
       rect:
         serializedVersion: 2
-        x: 3221
-        y: 3309
-        width: 335
-        height: 382
+        x: 1622
+        y: 1654
+        width: 167
+        height: 190
       alignment: 9
-      pivot: {x: .349253744, y: .484293193}
+      pivot: {x: .347305387, y: .484210521}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0045
       rect:
         serializedVersion: 2
-        x: 3558
-        y: 3297
-        width: 373
-        height: 394
+        x: 1791
+        y: 1647
+        width: 186
+        height: 197
       alignment: 9
-      pivot: {x: .391420901, y: .49492386}
+      pivot: {x: .392473131, y: .497461915}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0047
       rect:
         serializedVersion: 2
         x: 2
-        y: 2900
-        width: 399
-        height: 389
+        y: 1448
+        width: 199
+        height: 194
       alignment: 9
-      pivot: {x: .451127827, y: .498714656}
+      pivot: {x: .452261299, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0049
       rect:
         serializedVersion: 2
-        x: 403
-        y: 2911
-        width: 397
-        height: 378
+        x: 203
+        y: 1453
+        width: 199
+        height: 189
       alignment: 9
-      pivot: {x: .488664985, y: .497354507}
+      pivot: {x: .487437189, y: .497354507}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0051
       rect:
         serializedVersion: 2
-        x: 802
-        y: 2911
-        width: 394
-        height: 378
+        x: 404
+        y: 1454
+        width: 196
+        height: 188
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0053
       rect:
         serializedVersion: 2
-        x: 1198
-        y: 2911
-        width: 392
-        height: 378
+        x: 602
+        y: 1453
+        width: 196
+        height: 189
       alignment: 9
       pivot: {x: .505102038, y: .502645493}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0055
       rect:
         serializedVersion: 2
-        x: 1592
-        y: 2912
-        width: 393
-        height: 377
+        x: 800
+        y: 1454
+        width: 196
+        height: 188
       alignment: 9
-      pivot: {x: .508905828, y: .503978789}
+      pivot: {x: .510204077, y: .505319178}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0057
       rect:
         serializedVersion: 2
-        x: 1987
-        y: 2910
-        width: 394
-        height: 379
+        x: 998
+        y: 1454
+        width: 196
+        height: 188
       alignment: 9
-      pivot: {x: .51015228, y: .503957808}
+      pivot: {x: .510204077, y: .505319178}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0059
       rect:
         serializedVersion: 2
-        x: 2383
-        y: 2910
-        width: 396
-        height: 379
+        x: 1196
+        y: 1452
+        width: 198
+        height: 190
       alignment: 9
-      pivot: {x: .51010102, y: .503957808}
+      pivot: {x: .51010102, y: .50526315}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0061
       rect:
         serializedVersion: 2
-        x: 2781
-        y: 2909
-        width: 398
-        height: 380
+        x: 1396
+        y: 1452
+        width: 199
+        height: 190
       alignment: 9
-      pivot: {x: .507537663, y: .502631605}
+      pivot: {x: .507537663, y: .50526315}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0063
       rect:
         serializedVersion: 2
-        x: 3181
-        y: 2908
-        width: 400
-        height: 381
+        x: 1597
+        y: 1451
+        width: 200
+        height: 191
       alignment: 9
-      pivot: {x: .504999995, y: .503937006}
+      pivot: {x: .504999995, y: .502617776}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0065
       rect:
         serializedVersion: 2
-        x: 3583
-        y: 2906
-        width: 401
-        height: 383
+        x: 1799
+        y: 1452
+        width: 201
+        height: 190
       alignment: 9
-      pivot: {x: .50124687, y: .501305461}
+      pivot: {x: .50248754, y: .50526315}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0067
       rect:
         serializedVersion: 2
         x: 2
-        y: 2515
-        width: 402
-        height: 383
+        y: 1255
+        width: 201
+        height: 191
       alignment: 9
-      pivot: {x: .49751243, y: .501305461}
+      pivot: {x: .49751243, y: .502617776}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0069
       rect:
         serializedVersion: 2
-        x: 406
-        y: 2513
-        width: 402
-        height: 385
+        x: 205
+        y: 1254
+        width: 201
+        height: 192
       alignment: 9
-      pivot: {x: .49253732, y: .498701304}
+      pivot: {x: .49253732, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0071
       rect:
         serializedVersion: 2
-        x: 810
-        y: 2513
-        width: 400
-        height: 385
+        x: 408
+        y: 1253
+        width: 199
+        height: 193
       alignment: 9
-      pivot: {x: .487500012, y: .498701304}
+      pivot: {x: .487437189, y: .497409314}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0073
       rect:
         serializedVersion: 2
-        x: 1212
-        y: 2510
-        width: 397
-        height: 388
+        x: 609
+        y: 1253
+        width: 199
+        height: 193
       alignment: 9
-      pivot: {x: .481108308, y: .497422695}
+      pivot: {x: .48241207, y: .497409314}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0075
       rect:
         serializedVersion: 2
-        x: 1611
-        y: 2510
-        width: 393
-        height: 388
+        x: 810
+        y: 1253
+        width: 196
+        height: 193
       alignment: 9
-      pivot: {x: .475826979, y: .497422695}
+      pivot: {x: .474489808, y: .497409314}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0077
       rect:
         serializedVersion: 2
-        x: 2006
-        y: 2509
-        width: 388
-        height: 389
+        x: 1008
+        y: 1252
+        width: 194
+        height: 194
       alignment: 9
-      pivot: {x: .471649498, y: .496143967}
+      pivot: {x: .469072163, y: .494845361}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Attack.0079
       rect:
         serializedVersion: 2
-        x: 2396
-        y: 2508
-        width: 383
-        height: 390
+        x: 1204
+        y: 1251
+        width: 191
+        height: 195
       alignment: 9
-      pivot: {x: .467362911, y: .494871795}
+      pivot: {x: .465968579, y: .497435898}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0001
       rect:
         serializedVersion: 2
-        x: 2781
-        y: 2507
-        width: 314
-        height: 391
+        x: 1397
+        y: 1251
+        width: 157
+        height: 195
       alignment: 9
-      pivot: {x: .554140151, y: .503836334}
+      pivot: {x: .554140151, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0003
       rect:
         serializedVersion: 2
-        x: 3097
-        y: 2507
-        width: 316
-        height: 391
+        x: 1556
+        y: 1251
+        width: 158
+        height: 195
       alignment: 9
-      pivot: {x: .550632894, y: .503836334}
+      pivot: {x: .550632894, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0005
       rect:
         serializedVersion: 2
-        x: 3415
-        y: 2507
-        width: 322
-        height: 391
+        x: 1716
+        y: 1251
+        width: 161
+        height: 195
       alignment: 9
-      pivot: {x: .54037267, y: .503836334}
+      pivot: {x: .54037267, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0007
       rect:
         serializedVersion: 2
-        x: 3739
-        y: 2507
-        width: 330
-        height: 391
+        x: 1879
+        y: 1251
+        width: 164
+        height: 195
       alignment: 9
-      pivot: {x: .524242401, y: .503836334}
+      pivot: {x: .524390221, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0009
       rect:
         serializedVersion: 2
         x: 2
-        y: 2114
-        width: 340
-        height: 391
+        y: 1054
+        width: 171
+        height: 195
       alignment: 9
-      pivot: {x: .508823514, y: .503836334}
+      pivot: {x: .508771956, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0011
       rect:
         serializedVersion: 2
-        x: 344
-        y: 2114
-        width: 351
-        height: 391
+        x: 175
+        y: 1055
+        width: 175
+        height: 194
       alignment: 9
-      pivot: {x: .492877483, y: .503836334}
+      pivot: {x: .491428584, y: .50515461}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0013
       rect:
         serializedVersion: 2
-        x: 697
-        y: 2114
-        width: 361
-        height: 391
+        x: 352
+        y: 1054
+        width: 180
+        height: 195
       alignment: 9
-      pivot: {x: .476454288, y: .503836334}
+      pivot: {x: .477777779, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0015
       rect:
         serializedVersion: 2
-        x: 1060
-        y: 2115
-        width: 369
-        height: 390
+        x: 534
+        y: 1054
+        width: 185
+        height: 195
       alignment: 9
-      pivot: {x: .466124654, y: .502564132}
+      pivot: {x: .46486485, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0017
       rect:
         serializedVersion: 2
-        x: 1431
-        y: 2115
-        width: 374
-        height: 390
+        x: 721
+        y: 1054
+        width: 186
+        height: 195
       alignment: 9
-      pivot: {x: .457219243, y: .502564132}
+      pivot: {x: .456989259, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0019
       rect:
         serializedVersion: 2
-        x: 1807
-        y: 2114
-        width: 376
-        height: 391
+        x: 909
+        y: 1054
+        width: 188
+        height: 195
       alignment: 9
-      pivot: {x: .452127665, y: .501278758}
+      pivot: {x: .452127665, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0021
       rect:
         serializedVersion: 2
-        x: 2185
-        y: 2114
-        width: 374
-        height: 391
+        x: 1099
+        y: 1054
+        width: 187
+        height: 195
       alignment: 9
-      pivot: {x: .451871663, y: .501278758}
+      pivot: {x: .454545468, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0023
       rect:
         serializedVersion: 2
-        x: 2561
-        y: 2114
-        width: 370
-        height: 391
+        x: 1288
+        y: 1054
+        width: 184
+        height: 195
       alignment: 9
-      pivot: {x: .456756771, y: .501278758}
+      pivot: {x: .456521749, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0025
       rect:
         serializedVersion: 2
-        x: 2933
-        y: 2114
-        width: 362
-        height: 391
+        x: 1474
+        y: 1053
+        width: 181
+        height: 196
       alignment: 9
-      pivot: {x: .46408841, y: .501278758}
+      pivot: {x: .46408841, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0027
       rect:
         serializedVersion: 2
-        x: 3297
-        y: 2114
-        width: 353
-        height: 391
+        x: 1657
+        y: 1053
+        width: 176
+        height: 196
       alignment: 9
-      pivot: {x: .473087817, y: .501278758}
+      pivot: {x: .471590906, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0029
       rect:
         serializedVersion: 2
-        x: 3652
-        y: 2115
-        width: 344
-        height: 390
+        x: 1835
+        y: 1054
+        width: 171
+        height: 195
       alignment: 9
-      pivot: {x: .485465109, y: .5}
+      pivot: {x: .485380113, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0031
       rect:
         serializedVersion: 2
         x: 2
-        y: 1722
-        width: 333
-        height: 390
+        y: 857
+        width: 167
+        height: 194
       alignment: 9
-      pivot: {x: .498498499, y: .5}
+      pivot: {x: .497005999, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0033
       rect:
         serializedVersion: 2
-        x: 337
-        y: 1722
-        width: 325
-        height: 390
+        x: 171
+        y: 855
+        width: 162
+        height: 196
       alignment: 9
-      pivot: {x: .510769248, y: .5}
+      pivot: {x: .512345672, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0035
       rect:
         serializedVersion: 2
-        x: 664
-        y: 1722
-        width: 319
-        height: 390
+        x: 335
+        y: 855
+        width: 159
+        height: 196
       alignment: 9
-      pivot: {x: .523510993, y: .5}
+      pivot: {x: .522012591, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0037
       rect:
         serializedVersion: 2
-        x: 985
-        y: 1722
-        width: 315
-        height: 390
+        x: 496
+        y: 855
+        width: 157
+        height: 196
       alignment: 9
-      pivot: {x: .530158758, y: .5}
+      pivot: {x: .528662443, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0039
       rect:
         serializedVersion: 2
-        x: 1302
-        y: 1722
-        width: 313
-        height: 390
+        x: 655
+        y: 855
+        width: 157
+        height: 196
       alignment: 9
-      pivot: {x: .533546329, y: .5}
+      pivot: {x: .535031855, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0041
       rect:
         serializedVersion: 2
-        x: 1617
-        y: 1722
-        width: 315
-        height: 390
+        x: 814
+        y: 855
+        width: 158
+        height: 196
       alignment: 9
-      pivot: {x: .533333361, y: .5}
+      pivot: {x: .531645596, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0043
       rect:
         serializedVersion: 2
-        x: 1934
-        y: 1722
-        width: 320
-        height: 390
+        x: 974
+        y: 855
+        width: 159
+        height: 196
       alignment: 9
-      pivot: {x: .528124988, y: .5}
+      pivot: {x: .528301895, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0045
       rect:
         serializedVersion: 2
-        x: 2256
-        y: 1722
-        width: 326
-        height: 390
+        x: 1135
+        y: 855
+        width: 163
+        height: 196
       alignment: 9
-      pivot: {x: .518404901, y: .5}
+      pivot: {x: .521472394, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0047
       rect:
         serializedVersion: 2
-        x: 2584
-        y: 1722
-        width: 334
-        height: 390
+        x: 1300
+        y: 855
+        width: 167
+        height: 196
       alignment: 9
       pivot: {x: .508982062, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0049
       rect:
         serializedVersion: 2
-        x: 2920
-        y: 1722
-        width: 342
-        height: 390
+        x: 1469
+        y: 857
+        width: 171
+        height: 194
       alignment: 9
       pivot: {x: .497076035, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0051
       rect:
         serializedVersion: 2
-        x: 3264
-        y: 1722
-        width: 352
-        height: 390
+        x: 1642
+        y: 856
+        width: 175
+        height: 195
       alignment: 9
-      pivot: {x: .485795468, y: .5}
+      pivot: {x: .485714287, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0053
       rect:
         serializedVersion: 2
-        x: 3618
-        y: 1721
-        width: 360
-        height: 391
+        x: 1819
+        y: 856
+        width: 180
+        height: 195
       alignment: 9
-      pivot: {x: .474999994, y: .501278758}
+      pivot: {x: .477777779, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0055
       rect:
         serializedVersion: 2
         x: 2
-        y: 1328
-        width: 368
-        height: 391
+        y: 657
+        width: 184
+        height: 196
       alignment: 9
-      pivot: {x: .467391312, y: .501278758}
+      pivot: {x: .467391312, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0057
       rect:
         serializedVersion: 2
-        x: 372
-        y: 1328
-        width: 374
-        height: 391
+        x: 188
+        y: 658
+        width: 187
+        height: 195
       alignment: 9
-      pivot: {x: .459893048, y: .501278758}
+      pivot: {x: .459893048, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0059
       rect:
         serializedVersion: 2
-        x: 748
-        y: 1328
-        width: 377
-        height: 391
+        x: 377
+        y: 658
+        width: 188
+        height: 195
       alignment: 9
-      pivot: {x: .456233412, y: .501278758}
+      pivot: {x: .457446814, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0061
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 1328
-        width: 378
-        height: 391
+        x: 567
+        y: 659
+        width: 189
+        height: 194
       alignment: 9
-      pivot: {x: .455026448, y: .501278758}
+      pivot: {x: .455026448, y: .50515461}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0063
       rect:
         serializedVersion: 2
-        x: 1507
-        y: 1329
-        width: 375
-        height: 390
+        x: 758
+        y: 658
+        width: 188
+        height: 195
       alignment: 9
-      pivot: {x: .456, y: .502564132}
+      pivot: {x: .457446814, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0065
       rect:
         serializedVersion: 2
-        x: 1884
-        y: 1328
-        width: 370
-        height: 391
+        x: 948
+        y: 658
+        width: 184
+        height: 195
       alignment: 9
-      pivot: {x: .462162167, y: .501278758}
+      pivot: {x: .461956531, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0067
       rect:
         serializedVersion: 2
-        x: 2256
-        y: 1328
-        width: 363
-        height: 391
+        x: 1134
+        y: 658
+        width: 182
+        height: 195
       alignment: 9
-      pivot: {x: .471074373, y: .503836334}
+      pivot: {x: .472527474, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0069
       rect:
         serializedVersion: 2
-        x: 2621
-        y: 1329
-        width: 355
-        height: 390
+        x: 1318
+        y: 658
+        width: 177
+        height: 195
       alignment: 9
-      pivot: {x: .484507054, y: .502564132}
+      pivot: {x: .485875696, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0071
       rect:
         serializedVersion: 2
-        x: 2978
-        y: 1328
-        width: 345
-        height: 391
+        x: 1497
+        y: 659
+        width: 172
+        height: 194
       alignment: 9
-      pivot: {x: .498550713, y: .503836334}
+      pivot: {x: .5, y: .50515461}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0073
       rect:
         serializedVersion: 2
-        x: 3325
-        y: 1328
-        width: 335
-        height: 391
+        x: 1671
+        y: 658
+        width: 168
+        height: 195
       alignment: 9
-      pivot: {x: .51343286, y: .503836334}
+      pivot: {x: .511904776, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0075
       rect:
         serializedVersion: 2
-        x: 3662
-        y: 1328
-        width: 327
-        height: 391
+        x: 1841
+        y: 658
+        width: 163
+        height: 195
       alignment: 9
-      pivot: {x: .52905196, y: .503836334}
+      pivot: {x: .527607381, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0077
       rect:
         serializedVersion: 2
         x: 2
-        y: 935
-        width: 320
-        height: 391
+        y: 460
+        width: 159
+        height: 195
       alignment: 9
-      pivot: {x: .540624976, y: .503836334}
+      pivot: {x: .540880501, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Boss_Final_Swim.0079
       rect:
         serializedVersion: 2
-        x: 324
-        y: 935
-        width: 316
-        height: 391
+        x: 163
+        y: 460
+        width: 158
+        height: 195
       alignment: 9
-      pivot: {x: .550632894, y: .503836334}
+      pivot: {x: .550632894, y: .502564132}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

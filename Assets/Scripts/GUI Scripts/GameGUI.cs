@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 public class GameGUI : MonoBehaviour {
-	public bool shouldShowPauseScreen = false;
+	public static bool shouldShowPauseScreen = false;
 	public GameObject fishToUnlock;
 
 	public float buttonWidthDivider = 3.33f;

@@ -201,7 +201,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 425
+  spritePixelsToUnits: 225
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings:
@@ -215,801 +215,801 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2
-        y: 3761
-        width: 457
-        height: 333
+        y: 1880
+        width: 229
+        height: 166
       alignment: 9
-      pivot: {x: .45514223, y: .498498499}
+      pivot: {x: .454148471, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0003
       rect:
         serializedVersion: 2
-        x: 461
-        y: 3762
-        width: 454
-        height: 332
+        x: 233
+        y: 1881
+        width: 227
+        height: 165
       alignment: 9
-      pivot: {x: .444933921, y: .496987939}
+      pivot: {x: .444933921, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0005
       rect:
         serializedVersion: 2
-        x: 917
-        y: 3763
-        width: 457
-        height: 331
+        x: 462
+        y: 1881
+        width: 228
+        height: 165
       alignment: 9
-      pivot: {x: .435448587, y: .495468289}
+      pivot: {x: .434210539, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0007
       rect:
         serializedVersion: 2
-        x: 1376
-        y: 3764
-        width: 457
-        height: 330
+        x: 692
+        y: 1881
+        width: 229
+        height: 165
       alignment: 9
-      pivot: {x: .424507648, y: .4939394}
+      pivot: {x: .423580796, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0009
       rect:
         serializedVersion: 2
-        x: 1835
-        y: 3761
-        width: 459
-        height: 333
+        x: 923
+        y: 1880
+        width: 229
+        height: 166
       alignment: 9
-      pivot: {x: .411764711, y: .501501501}
+      pivot: {x: .41048035, y: .506024122}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0011
       rect:
         serializedVersion: 2
-        x: 2296
-        y: 3758
-        width: 463
-        height: 336
+        x: 1154
+        y: 1878
+        width: 232
+        height: 168
       alignment: 9
-      pivot: {x: .395248383, y: .505952358}
+      pivot: {x: .392241389, y: .505952358}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0013
       rect:
         serializedVersion: 2
-        x: 2761
-        y: 3754
-        width: 466
-        height: 340
+        x: 1388
+        y: 1877
+        width: 232
+        height: 169
       alignment: 9
-      pivot: {x: .377682418, y: .508823514}
+      pivot: {x: .37931034, y: .508875728}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0015
       rect:
         serializedVersion: 2
-        x: 3229
-        y: 3750
-        width: 465
-        height: 344
+        x: 1622
+        y: 1875
+        width: 233
+        height: 171
       alignment: 9
-      pivot: {x: .361290336, y: .508720934}
+      pivot: {x: .360515028, y: .508771956}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0017
       rect:
         serializedVersion: 2
         x: 2
-        y: 3402
-        width: 465
-        height: 346
+        y: 1700
+        width: 232
+        height: 173
       alignment: 9
-      pivot: {x: .346236557, y: .508670509}
+      pivot: {x: .344827592, y: .508670509}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0019
       rect:
         serializedVersion: 2
-        x: 469
-        y: 3401
-        width: 463
-        height: 347
+        x: 236
+        y: 1700
+        width: 231
+        height: 173
       alignment: 9
-      pivot: {x: .330453575, y: .510086477}
+      pivot: {x: .329004318, y: .508670509}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0021
       rect:
         serializedVersion: 2
-        x: 934
-        y: 3402
-        width: 460
-        height: 346
+        x: 469
+        y: 1700
+        width: 230
+        height: 173
       alignment: 9
       pivot: {x: .317391306, y: .508670509}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0023
       rect:
         serializedVersion: 2
-        x: 1396
-        y: 3402
-        width: 457
-        height: 346
+        x: 701
+        y: 1700
+        width: 228
+        height: 173
       alignment: 9
-      pivot: {x: .304157555, y: .508670509}
+      pivot: {x: .302631587, y: .508670509}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0025
       rect:
         serializedVersion: 2
-        x: 1855
-        y: 3403
-        width: 453
-        height: 345
+        x: 931
+        y: 1700
+        width: 226
+        height: 173
       alignment: 9
-      pivot: {x: .293598235, y: .507246375}
+      pivot: {x: .292035401, y: .508670509}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0027
       rect:
         serializedVersion: 2
-        x: 2310
-        y: 3402
-        width: 453
-        height: 346
+        x: 1159
+        y: 1700
+        width: 226
+        height: 173
       alignment: 9
-      pivot: {x: .289183229, y: .508670509}
+      pivot: {x: .28761062, y: .508670509}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0029
       rect:
         serializedVersion: 2
-        x: 2765
-        y: 3401
-        width: 452
-        height: 347
+        x: 1387
+        y: 1700
+        width: 226
+        height: 173
       alignment: 9
-      pivot: {x: .28761062, y: .512968302}
+      pivot: {x: .28761062, y: .514450848}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0031
       rect:
         serializedVersion: 2
-        x: 3219
-        y: 3400
-        width: 452
-        height: 348
+        x: 1615
+        y: 1700
+        width: 226
+        height: 173
       alignment: 9
-      pivot: {x: .28761062, y: .514367819}
+      pivot: {x: .28761062, y: .514450848}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0033
       rect:
         serializedVersion: 2
         x: 2
-        y: 3051
-        width: 452
-        height: 347
+        y: 1525
+        width: 225
+        height: 173
       alignment: 9
-      pivot: {x: .289822996, y: .518732011}
+      pivot: {x: .288888901, y: .520231187}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0035
       rect:
         serializedVersion: 2
-        x: 456
-        y: 3052
-        width: 453
-        height: 346
+        x: 229
+        y: 1525
+        width: 226
+        height: 173
       alignment: 9
-      pivot: {x: .304635763, y: .543352604}
+      pivot: {x: .305309743, y: .543352604}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0037
       rect:
         serializedVersion: 2
-        x: 911
-        y: 3057
-        width: 448
-        height: 341
+        x: 457
+        y: 1527
+        width: 222
+        height: 171
       alignment: 9
-      pivot: {x: .332589298, y: .571847498}
+      pivot: {x: .328828841, y: .573099434}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0039
       rect:
         serializedVersion: 2
-        x: 1361
-        y: 3061
-        width: 447
-        height: 337
+        x: 681
+        y: 1530
+        width: 223
+        height: 168
       alignment: 9
-      pivot: {x: .380313188, y: .584569752}
+      pivot: {x: .381165922, y: .583333313}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0041
       rect:
         serializedVersion: 2
-        x: 1810
-        y: 3064
-        width: 456
-        height: 334
+        x: 906
+        y: 1532
+        width: 229
+        height: 166
       alignment: 9
-      pivot: {x: .440789461, y: .568862259}
+      pivot: {x: .441048026, y: .572289169}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0043
       rect:
         serializedVersion: 2
-        x: 2268
-        y: 3063
-        width: 473
-        height: 335
+        x: 1137
+        y: 1532
+        width: 236
+        height: 166
       alignment: 9
-      pivot: {x: .482029587, y: .552238822}
+      pivot: {x: .483050853, y: .554216862}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0045
       rect:
         serializedVersion: 2
-        x: 2743
-        y: 3068
-        width: 468
-        height: 330
+        x: 1375
+        y: 1533
+        width: 233
+        height: 165
       alignment: 9
-      pivot: {x: .510683775, y: .527272701}
+      pivot: {x: .510729611, y: .527272701}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0047
       rect:
         serializedVersion: 2
-        x: 3213
-        y: 3076
-        width: 486
-        height: 322
+        x: 1610
+        y: 1537
+        width: 242
+        height: 161
       alignment: 9
-      pivot: {x: .541152239, y: .506211162}
+      pivot: {x: .541322291, y: .503105581}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0049
       rect:
         serializedVersion: 2
         x: 2
-        y: 2738
-        width: 487
-        height: 311
+        y: 1367
+        width: 244
+        height: 156
       alignment: 9
-      pivot: {x: .554414809, y: .49196142}
+      pivot: {x: .553278685, y: .493589729}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0051
       rect:
         serializedVersion: 2
-        x: 491
-        y: 2745
-        width: 484
-        height: 304
+        x: 248
+        y: 1371
+        width: 242
+        height: 152
       alignment: 9
-      pivot: {x: .553718984, y: .496710539}
+      pivot: {x: .553718984, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0053
       rect:
         serializedVersion: 2
-        x: 977
-        y: 2748
-        width: 484
-        height: 301
+        x: 492
+        y: 1373
+        width: 241
+        height: 150
       alignment: 9
-      pivot: {x: .541322291, y: .498338878}
+      pivot: {x: .543568492, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0055
       rect:
         serializedVersion: 2
-        x: 1463
-        y: 2742
-        width: 480
-        height: 307
+        x: 735
+        y: 1369
+        width: 240
+        height: 154
       alignment: 9
-      pivot: {x: .518750012, y: .495113999}
+      pivot: {x: .516666651, y: .493506491}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0057
       rect:
         serializedVersion: 2
-        x: 1945
-        y: 2733
-        width: 478
-        height: 316
+        x: 977
+        y: 1366
+        width: 239
+        height: 157
       alignment: 9
-      pivot: {x: .491631806, y: .490506321}
+      pivot: {x: .489539742, y: .490445852}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0059
       rect:
         serializedVersion: 2
-        x: 2425
-        y: 2725
-        width: 478
-        height: 324
+        x: 1218
+        y: 1362
+        width: 238
+        height: 161
       alignment: 9
-      pivot: {x: .460251033, y: .490740746}
+      pivot: {x: .462184876, y: .490683228}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0061
       rect:
         serializedVersion: 2
-        x: 2905
-        y: 2721
-        width: 473
-        height: 328
+        x: 1458
+        y: 1360
+        width: 237
+        height: 163
       alignment: 9
-      pivot: {x: .437632143, y: .493902445}
+      pivot: {x: .438818574, y: .490797549}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0063
       rect:
         serializedVersion: 2
-        x: 3380
-        y: 2719
-        width: 472
-        height: 330
+        x: 1697
+        y: 1358
+        width: 235
+        height: 165
       alignment: 9
-      pivot: {x: .421610177, y: .4969697}
+      pivot: {x: .421276599, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0065
       rect:
         serializedVersion: 2
         x: 2
-        y: 2385
-        width: 474
-        height: 332
+        y: 1191
+        width: 236
+        height: 165
       alignment: 9
-      pivot: {x: .413502097, y: .496987939}
+      pivot: {x: .415254235, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0067
       rect:
         serializedVersion: 2
-        x: 478
-        y: 2382
-        width: 473
-        height: 335
+        x: 240
+        y: 1189
+        width: 236
+        height: 167
       alignment: 9
-      pivot: {x: .410147995, y: .50149256}
+      pivot: {x: .411016941, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0069
       rect:
         serializedVersion: 2
-        x: 953
-        y: 2382
-        width: 471
-        height: 335
+        x: 478
+        y: 1189
+        width: 236
+        height: 167
       alignment: 9
-      pivot: {x: .41401273, y: .50149256}
+      pivot: {x: .415254235, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0071
       rect:
         serializedVersion: 2
-        x: 1426
-        y: 2383
-        width: 468
-        height: 334
+        x: 716
+        y: 1190
+        width: 234
+        height: 166
       alignment: 9
-      pivot: {x: .420940161, y: .5}
+      pivot: {x: .418803424, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0073
       rect:
         serializedVersion: 2
-        x: 1896
-        y: 2383
-        width: 464
-        height: 334
+        x: 952
+        y: 1190
+        width: 232
+        height: 166
       alignment: 9
-      pivot: {x: .428879321, y: .5}
+      pivot: {x: .431034476, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0075
       rect:
         serializedVersion: 2
-        x: 2362
-        y: 2383
-        width: 462
-        height: 334
+        x: 1186
+        y: 1190
+        width: 231
+        height: 166
       alignment: 9
       pivot: {x: .437229425, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0077
       rect:
         serializedVersion: 2
-        x: 2826
-        y: 2383
-        width: 460
-        height: 334
+        x: 1419
+        y: 1190
+        width: 230
+        height: 166
       alignment: 9
       pivot: {x: .443478256, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Attack.0079
       rect:
         serializedVersion: 2
-        x: 3288
-        y: 2383
-        width: 457
-        height: 334
+        x: 1651
+        y: 1190
+        width: 228
+        height: 166
       alignment: 9
-      pivot: {x: .450765878, y: .5}
+      pivot: {x: .451754391, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0001
       rect:
         serializedVersion: 2
         x: 2
-        y: 2046
-        width: 388
-        height: 334
+        y: 1020
+        width: 193
+        height: 167
       alignment: 9
-      pivot: {x: .533505142, y: .502994001}
+      pivot: {x: .53367877, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0003
       rect:
         serializedVersion: 2
-        x: 392
-        y: 2046
-        width: 391
-        height: 334
+        x: 197
+        y: 1020
+        width: 194
+        height: 167
       alignment: 9
-      pivot: {x: .529411793, y: .502994001}
+      pivot: {x: .530927837, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0005
       rect:
         serializedVersion: 2
-        x: 785
-        y: 2046
-        width: 397
-        height: 334
+        x: 393
+        y: 1020
+        width: 199
+        height: 167
       alignment: 9
-      pivot: {x: .521410584, y: .502994001}
+      pivot: {x: .522613049, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0007
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 2046
-        width: 410
-        height: 334
+        x: 594
+        y: 1020
+        width: 204
+        height: 167
       alignment: 9
-      pivot: {x: .504878044, y: .502994001}
+      pivot: {x: .504901946, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0009
       rect:
         serializedVersion: 2
-        x: 1596
-        y: 2046
-        width: 425
-        height: 334
+        x: 800
+        y: 1020
+        width: 212
+        height: 167
       alignment: 9
-      pivot: {x: .487058818, y: .502994001}
+      pivot: {x: .485849053, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0011
       rect:
         serializedVersion: 2
-        x: 2023
-        y: 2046
-        width: 440
-        height: 334
+        x: 1014
+        y: 1020
+        width: 220
+        height: 167
       alignment: 9
-      pivot: {x: .470454544, y: .502994001}
+      pivot: {x: .472727269, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0013
       rect:
         serializedVersion: 2
-        x: 2465
-        y: 2047
-        width: 453
-        height: 333
+        x: 1236
+        y: 1020
+        width: 226
+        height: 167
       alignment: 9
-      pivot: {x: .456953645, y: .501501501}
+      pivot: {x: .455752224, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0015
       rect:
         serializedVersion: 2
-        x: 2920
-        y: 2047
-        width: 463
-        height: 333
+        x: 1464
+        y: 1021
+        width: 231
+        height: 166
       alignment: 9
-      pivot: {x: .447084248, y: .501501501}
+      pivot: {x: .450216442, y: .506024122}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0017
       rect:
         serializedVersion: 2
-        x: 3385
-        y: 2047
-        width: 466
-        height: 333
+        x: 1697
+        y: 1021
+        width: 232
+        height: 166
       alignment: 9
-      pivot: {x: .444205999, y: .501501501}
+      pivot: {x: .443965524, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0019
       rect:
         serializedVersion: 2
         x: 2
-        y: 1711
-        width: 463
-        height: 333
+        y: 852
+        width: 232
+        height: 166
       alignment: 9
-      pivot: {x: .447084248, y: .501501501}
+      pivot: {x: .448275864, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0021
       rect:
         serializedVersion: 2
-        x: 467
-        y: 1712
-        width: 454
-        height: 332
+        x: 236
+        y: 852
+        width: 227
+        height: 166
       alignment: 9
-      pivot: {x: .455947131, y: .5}
+      pivot: {x: .453744501, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0023
       rect:
         serializedVersion: 2
-        x: 923
-        y: 1712
-        width: 441
-        height: 332
+        x: 465
+        y: 852
+        width: 220
+        height: 166
       alignment: 9
-      pivot: {x: .46938777, y: .5}
+      pivot: {x: .468181819, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0025
       rect:
         serializedVersion: 2
-        x: 1366
-        y: 1712
-        width: 423
-        height: 332
+        x: 687
+        y: 852
+        width: 211
+        height: 166
       alignment: 9
-      pivot: {x: .486997634, y: .5}
+      pivot: {x: .48815167, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0027
       rect:
         serializedVersion: 2
-        x: 1791
-        y: 1713
-        width: 403
-        height: 331
+        x: 900
+        y: 852
+        width: 201
+        height: 166
       alignment: 9
-      pivot: {x: .511166275, y: .498489439}
+      pivot: {x: .51243782, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0029
       rect:
         serializedVersion: 2
-        x: 2196
-        y: 1713
-        width: 381
-        height: 331
+        x: 1103
+        y: 853
+        width: 191
+        height: 165
       alignment: 9
-      pivot: {x: .538057745, y: .498489439}
+      pivot: {x: .539267004, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0031
       rect:
         serializedVersion: 2
-        x: 2579
-        y: 1713
-        width: 363
-        height: 331
+        x: 1296
+        y: 854
+        width: 182
+        height: 164
       alignment: 9
-      pivot: {x: .564738274, y: .498489439}
+      pivot: {x: .565934062, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0033
       rect:
         serializedVersion: 2
-        x: 2944
-        y: 1713
-        width: 348
-        height: 331
+        x: 1480
+        y: 854
+        width: 173
+        height: 164
       alignment: 9
-      pivot: {x: .589080453, y: .498489439}
+      pivot: {x: .589595377, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0035
       rect:
         serializedVersion: 2
-        x: 3294
-        y: 1714
-        width: 335
-        height: 330
+        x: 1655
+        y: 853
+        width: 167
+        height: 165
       alignment: 9
-      pivot: {x: .608955204, y: .4969697}
+      pivot: {x: .610778451, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0037
       rect:
         serializedVersion: 2
-        x: 3631
-        y: 1714
-        width: 325
-        height: 330
+        x: 1824
+        y: 853
+        width: 163
+        height: 165
       alignment: 9
-      pivot: {x: .627692282, y: .4969697}
+      pivot: {x: .625766873, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0039
       rect:
         serializedVersion: 2
         x: 2
-        y: 1379
-        width: 319
-        height: 330
+        y: 685
+        width: 160
+        height: 165
       alignment: 9
-      pivot: {x: .639498413, y: .4969697}
+      pivot: {x: .637499988, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0041
       rect:
         serializedVersion: 2
-        x: 323
-        y: 1379
-        width: 317
-        height: 330
+        x: 164
+        y: 685
+        width: 159
+        height: 165
       alignment: 9
-      pivot: {x: .643533111, y: .4969697}
+      pivot: {x: .641509414, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0043
       rect:
         serializedVersion: 2
-        x: 642
-        y: 1379
-        width: 319
-        height: 330
+        x: 325
+        y: 685
+        width: 160
+        height: 165
       alignment: 9
-      pivot: {x: .639498413, y: .4969697}
+      pivot: {x: .637499988, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0045
       rect:
         serializedVersion: 2
-        x: 963
-        y: 1379
-        width: 325
-        height: 330
+        x: 487
+        y: 685
+        width: 163
+        height: 165
       alignment: 9
-      pivot: {x: .627692282, y: .4969697}
+      pivot: {x: .625766873, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0047
       rect:
         serializedVersion: 2
-        x: 1290
-        y: 1379
-        width: 335
-        height: 330
+        x: 652
+        y: 685
+        width: 167
+        height: 165
       alignment: 9
-      pivot: {x: .608955204, y: .4969697}
+      pivot: {x: .610778451, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0049
       rect:
         serializedVersion: 2
-        x: 1627
-        y: 1378
-        width: 349
-        height: 331
+        x: 821
+        y: 686
+        width: 173
+        height: 164
       alignment: 9
-      pivot: {x: .587392569, y: .498489439}
+      pivot: {x: .589595377, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0051
       rect:
         serializedVersion: 2
-        x: 1978
-        y: 1378
-        width: 363
-        height: 331
+        x: 996
+        y: 686
+        width: 182
+        height: 164
       alignment: 9
-      pivot: {x: .564738274, y: .498489439}
+      pivot: {x: .565934062, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0053
       rect:
         serializedVersion: 2
-        x: 2343
-        y: 1378
-        width: 382
-        height: 331
+        x: 1180
+        y: 685
+        width: 191
+        height: 165
       alignment: 9
-      pivot: {x: .536649227, y: .498489439}
+      pivot: {x: .539267004, y: .4969697}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0055
       rect:
         serializedVersion: 2
-        x: 2727
-        y: 1378
-        width: 403
-        height: 331
+        x: 1373
+        y: 684
+        width: 201
+        height: 166
       alignment: 9
-      pivot: {x: .511166275, y: .498489439}
+      pivot: {x: .51243782, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0057
       rect:
         serializedVersion: 2
-        x: 3132
-        y: 1377
-        width: 423
-        height: 332
+        x: 1576
+        y: 684
+        width: 211
+        height: 166
       alignment: 9
-      pivot: {x: .486997634, y: .5}
+      pivot: {x: .48815167, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0059
       rect:
         serializedVersion: 2
-        x: 3557
-        y: 1377
-        width: 441
-        height: 332
+        x: 1789
+        y: 684
+        width: 220
+        height: 166
       alignment: 9
-      pivot: {x: .46938777, y: .5}
+      pivot: {x: .468181819, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0061
       rect:
         serializedVersion: 2
         x: 2
-        y: 1043
-        width: 455
-        height: 332
+        y: 516
+        width: 227
+        height: 166
       alignment: 9
-      pivot: {x: .454945058, y: .5}
+      pivot: {x: .453744501, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0063
       rect:
         serializedVersion: 2
-        x: 459
-        y: 1042
-        width: 464
-        height: 333
+        x: 231
+        y: 516
+        width: 232
+        height: 166
       alignment: 9
-      pivot: {x: .446120679, y: .501501501}
+      pivot: {x: .448275864, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0065
       rect:
         serializedVersion: 2
-        x: 925
-        y: 1042
-        width: 466
-        height: 333
+        x: 465
+        y: 516
+        width: 232
+        height: 166
       alignment: 9
-      pivot: {x: .444205999, y: .501501501}
+      pivot: {x: .443965524, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0067
       rect:
         serializedVersion: 2
-        x: 1393
-        y: 1042
-        width: 463
-        height: 333
+        x: 699
+        y: 516
+        width: 231
+        height: 166
       alignment: 9
-      pivot: {x: .447084248, y: .501501501}
+      pivot: {x: .450216442, y: .506024122}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0069
       rect:
         serializedVersion: 2
-        x: 1858
-        y: 1042
-        width: 453
-        height: 333
+        x: 932
+        y: 515
+        width: 226
+        height: 167
       alignment: 9
-      pivot: {x: .456953645, y: .501501501}
+      pivot: {x: .455752224, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0071
       rect:
         serializedVersion: 2
-        x: 2313
-        y: 1041
-        width: 440
-        height: 334
+        x: 1160
+        y: 515
+        width: 220
+        height: 167
       alignment: 9
-      pivot: {x: .470454544, y: .502994001}
+      pivot: {x: .472727269, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0073
       rect:
         serializedVersion: 2
-        x: 2755
-        y: 1041
-        width: 425
-        height: 334
+        x: 1382
+        y: 515
+        width: 212
+        height: 167
       alignment: 9
-      pivot: {x: .487058818, y: .502994001}
+      pivot: {x: .485849053, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0075
       rect:
         serializedVersion: 2
-        x: 3182
-        y: 1041
-        width: 410
-        height: 334
+        x: 1596
+        y: 515
+        width: 204
+        height: 167
       alignment: 9
-      pivot: {x: .504878044, y: .502994001}
+      pivot: {x: .504901946, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0077
       rect:
         serializedVersion: 2
-        x: 3594
-        y: 1041
-        width: 397
-        height: 334
+        x: 1802
+        y: 515
+        width: 199
+        height: 167
       alignment: 9
-      pivot: {x: .521410584, y: .502994001}
+      pivot: {x: .522613049, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Spiked_Lionfish_Swim.0079
       rect:
         serializedVersion: 2
         x: 2
-        y: 705
-        width: 391
-        height: 334
+        y: 346
+        width: 194
+        height: 167
       alignment: 9
-      pivot: {x: .529411793, y: .502994001}
+      pivot: {x: .530927837, y: .502994001}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

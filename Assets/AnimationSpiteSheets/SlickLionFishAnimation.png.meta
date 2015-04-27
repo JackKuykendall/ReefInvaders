@@ -201,7 +201,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 425
+  spritePixelsToUnits: 225
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings:
@@ -215,801 +215,801 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2
-        y: 3764
-        width: 396
-        height: 330
+        y: 1882
+        width: 197
+        height: 164
       alignment: 9
-      pivot: {x: .472222209, y: .463636369}
+      pivot: {x: .472081214, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0003
       rect:
         serializedVersion: 2
-        x: 400
-        y: 3764
-        width: 396
-        height: 330
+        x: 201
+        y: 1881
+        width: 198
+        height: 165
       alignment: 9
-      pivot: {x: .472222209, y: .463636369}
+      pivot: {x: .474747479, y: .460606068}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0005
       rect:
         serializedVersion: 2
-        x: 798
-        y: 3764
-        width: 397
-        height: 330
+        x: 401
+        y: 1882
+        width: 198
+        height: 164
       alignment: 9
-      pivot: {x: .473551631, y: .463636369}
+      pivot: {x: .474747479, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0007
       rect:
         serializedVersion: 2
-        x: 1197
-        y: 3764
-        width: 396
-        height: 330
+        x: 601
+        y: 1882
+        width: 198
+        height: 164
       alignment: 9
-      pivot: {x: .474747479, y: .463636369}
+      pivot: {x: .474747479, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0009
       rect:
         serializedVersion: 2
-        x: 1595
-        y: 3764
-        width: 397
-        height: 330
+        x: 801
+        y: 1881
+        width: 199
+        height: 165
       alignment: 9
-      pivot: {x: .476070523, y: .463636369}
+      pivot: {x: .477386922, y: .460606068}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0011
       rect:
         serializedVersion: 2
-        x: 1994
-        y: 3763
-        width: 397
-        height: 331
+        x: 1002
+        y: 1881
+        width: 199
+        height: 165
       alignment: 9
-      pivot: {x: .478589416, y: .462235659}
+      pivot: {x: .477386922, y: .460606068}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0013
       rect:
         serializedVersion: 2
-        x: 2393
-        y: 3764
-        width: 397
-        height: 330
+        x: 1203
+        y: 1881
+        width: 199
+        height: 165
       alignment: 9
-      pivot: {x: .481108308, y: .460606068}
+      pivot: {x: .48241207, y: .460606068}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0015
       rect:
         serializedVersion: 2
-        x: 2792
-        y: 3764
-        width: 396
-        height: 330
+        x: 1404
+        y: 1881
+        width: 198
+        height: 165
       alignment: 9
       pivot: {x: .484848499, y: .460606068}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0017
       rect:
         serializedVersion: 2
-        x: 3190
-        y: 3765
-        width: 394
-        height: 329
+        x: 1604
+        y: 1882
+        width: 197
+        height: 164
       alignment: 9
-      pivot: {x: .48984772, y: .458966553}
+      pivot: {x: .487309635, y: .457317084}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0019
       rect:
         serializedVersion: 2
-        x: 3586
-        y: 3766
-        width: 391
-        height: 328
+        x: 1803
+        y: 1882
+        width: 196
+        height: 164
       alignment: 9
-      pivot: {x: .49360615, y: .457317084}
+      pivot: {x: .494897962, y: .457317084}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0021
       rect:
         serializedVersion: 2
         x: 2
-        y: 3435
-        width: 387
-        height: 326
+        y: 1716
+        width: 194
+        height: 163
       alignment: 9
-      pivot: {x: .49870801, y: .453987718}
+      pivot: {x: .5, y: .453987718}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0023
       rect:
         serializedVersion: 2
-        x: 391
-        y: 3436
-        width: 382
-        height: 325
+        x: 198
+        y: 1717
+        width: 192
+        height: 162
       alignment: 9
-      pivot: {x: .505235612, y: .452307701}
+      pivot: {x: .505208313, y: .450617284}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0025
       rect:
         serializedVersion: 2
-        x: 775
-        y: 3438
-        width: 378
-        height: 323
+        x: 392
+        y: 1718
+        width: 188
+        height: 161
       alignment: 9
-      pivot: {x: .51058203, y: .448916405}
+      pivot: {x: .510638297, y: .447204977}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0027
       rect:
         serializedVersion: 2
-        x: 1155
-        y: 3441
-        width: 372
-        height: 320
+        x: 582
+        y: 1719
+        width: 186
+        height: 160
       alignment: 9
       pivot: {x: .516129017, y: .443749994}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0029
       rect:
         serializedVersion: 2
-        x: 1529
-        y: 3442
-        width: 367
-        height: 319
+        x: 770
+        y: 1720
+        width: 184
+        height: 159
       alignment: 9
-      pivot: {x: .520435989, y: .438871473}
+      pivot: {x: .521739125, y: .440251559}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0031
       rect:
         serializedVersion: 2
-        x: 1898
-        y: 3444
-        width: 362
-        height: 317
+        x: 956
+        y: 1721
+        width: 181
+        height: 158
       alignment: 9
-      pivot: {x: .524861872, y: .435331225}
+      pivot: {x: .524861872, y: .436708868}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0033
       rect:
         serializedVersion: 2
-        x: 2262
-        y: 3446
-        width: 358
-        height: 315
+        x: 1139
+        y: 1721
+        width: 179
+        height: 158
       alignment: 9
-      pivot: {x: .527932942, y: .431746036}
+      pivot: {x: .525139689, y: .430379748}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0035
       rect:
         serializedVersion: 2
-        x: 2622
-        y: 3449
-        width: 355
-        height: 312
+        x: 1320
+        y: 1723
+        width: 178
+        height: 156
       alignment: 9
-      pivot: {x: .529577494, y: .426282048}
+      pivot: {x: .528089881, y: .429487169}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0037
       rect:
         serializedVersion: 2
-        x: 2979
-        y: 3450
-        width: 354
-        height: 311
+        x: 1500
+        y: 1723
+        width: 178
+        height: 156
       alignment: 9
-      pivot: {x: .528248608, y: .424437284}
+      pivot: {x: .528089881, y: .423076928}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0039
       rect:
         serializedVersion: 2
-        x: 3335
-        y: 3451
-        width: 365
-        height: 310
+        x: 1680
+        y: 1724
+        width: 182
+        height: 155
       alignment: 9
-      pivot: {x: .517808199, y: .419354826}
+      pivot: {x: .516483545, y: .419354826}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0041
       rect:
         serializedVersion: 2
-        x: 3702
-        y: 3450
-        width: 383
-        height: 311
+        x: 2
+        y: 1558
+        width: 192
+        height: 156
       alignment: 9
-      pivot: {x: .503916442, y: .41800642}
+      pivot: {x: .505208313, y: .416666657}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0043
       rect:
         serializedVersion: 2
-        x: 2
-        y: 3121
-        width: 403
-        height: 312
+        x: 196
+        y: 1559
+        width: 201
+        height: 155
       alignment: 9
-      pivot: {x: .493796527, y: .419871807}
+      pivot: {x: .49253732, y: .419354826}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0045
       rect:
         serializedVersion: 2
-        x: 407
-        y: 3116
-        width: 416
-        height: 317
+        x: 399
+        y: 1555
+        width: 208
+        height: 159
       alignment: 9
-      pivot: {x: .5, y: .435331225}
+      pivot: {x: .5, y: .433962256}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0047
       rect:
         serializedVersion: 2
-        x: 825
-        y: 3116
-        width: 396
-        height: 317
+        x: 609
+        y: 1556
+        width: 197
+        height: 158
       alignment: 9
-      pivot: {x: .517676771, y: .444794953}
+      pivot: {x: .517766476, y: .443037987}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0049
       rect:
         serializedVersion: 2
-        x: 1223
-        y: 3125
-        width: 368
-        height: 308
+        x: 808
+        y: 1560
+        width: 184
+        height: 154
       alignment: 9
       pivot: {x: .538043499, y: .44155845}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0051
       rect:
         serializedVersion: 2
-        x: 1593
-        y: 3129
-        width: 371
-        height: 304
+        x: 994
+        y: 1562
+        width: 185
+        height: 152
       alignment: 9
-      pivot: {x: .530997276, y: .440789461}
+      pivot: {x: .529729724, y: .440789461}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0053
       rect:
         serializedVersion: 2
-        x: 1966
-        y: 3130
-        width: 404
-        height: 303
+        x: 1181
+        y: 1562
+        width: 202
+        height: 152
       alignment: 9
-      pivot: {x: .490099013, y: .438943893}
+      pivot: {x: .490099013, y: .440789461}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0055
       rect:
         serializedVersion: 2
-        x: 2372
-        y: 3127
-        width: 399
-        height: 306
+        x: 1385
+        y: 1560
+        width: 199
+        height: 154
       alignment: 9
-      pivot: {x: .486215532, y: .441176474}
+      pivot: {x: .487437189, y: .44155845}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0057
       rect:
         serializedVersion: 2
-        x: 2773
-        y: 3126
-        width: 401
-        height: 307
+        x: 1586
+        y: 1561
+        width: 201
+        height: 153
       alignment: 9
-      pivot: {x: .486284286, y: .439739406}
+      pivot: {x: .48756218, y: .4379085}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0059
       rect:
         serializedVersion: 2
-        x: 3176
-        y: 3122
-        width: 396
-        height: 311
+        x: 1789
+        y: 1559
+        width: 198
+        height: 155
       alignment: 9
-      pivot: {x: .51010102, y: .437299043}
+      pivot: {x: .51010102, y: .43225807}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0061
       rect:
         serializedVersion: 2
-        x: 3574
-        y: 3118
-        width: 367
-        height: 315
+        x: 2
+        y: 1397
+        width: 183
+        height: 156
       alignment: 9
-      pivot: {x: .547683895, y: .438095242}
+      pivot: {x: .546448112, y: .43589744}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0063
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2794
-        width: 380
-        height: 320
+        x: 187
+        y: 1394
+        width: 190
+        height: 159
       alignment: 9
-      pivot: {x: .534210503, y: .434374988}
+      pivot: {x: .531578958, y: .433962256}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0065
       rect:
         serializedVersion: 2
-        x: 384
-        y: 2789
-        width: 392
-        height: 325
+        x: 379
+        y: 1390
+        width: 196
+        height: 163
       alignment: 9
-      pivot: {x: .505102038, y: .436923087}
+      pivot: {x: .505102038, y: .435582817}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0067
       rect:
         serializedVersion: 2
-        x: 778
-        y: 2787
-        width: 399
-        height: 327
+        x: 577
+        y: 1390
+        width: 199
+        height: 163
       alignment: 9
-      pivot: {x: .486215532, y: .440366983}
+      pivot: {x: .487437189, y: .441717803}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0069
       rect:
         serializedVersion: 2
-        x: 1179
-        y: 2786
-        width: 406
-        height: 328
+        x: 778
+        y: 1389
+        width: 203
+        height: 164
       alignment: 9
       pivot: {x: .482758611, y: .445121944}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0071
       rect:
         serializedVersion: 2
-        x: 1587
-        y: 2785
-        width: 401
-        height: 329
+        x: 983
+        y: 1389
+        width: 201
+        height: 164
       alignment: 9
-      pivot: {x: .486284286, y: .449848026}
+      pivot: {x: .48756218, y: .451219499}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0073
       rect:
         serializedVersion: 2
-        x: 1990
-        y: 2785
-        width: 399
-        height: 329
+        x: 1186
+        y: 1389
+        width: 200
+        height: 164
       alignment: 9
-      pivot: {x: .483709276, y: .452887535}
+      pivot: {x: .485000014, y: .451219499}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0075
       rect:
         serializedVersion: 2
-        x: 2391
-        y: 2785
-        width: 399
-        height: 329
+        x: 1388
+        y: 1388
+        width: 200
+        height: 165
       alignment: 9
-      pivot: {x: .478696734, y: .455927044}
+      pivot: {x: .479999989, y: .454545468}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0077
       rect:
         serializedVersion: 2
-        x: 2792
-        y: 2785
-        width: 398
-        height: 329
+        x: 1590
+        y: 1388
+        width: 199
+        height: 165
       alignment: 9
-      pivot: {x: .474874377, y: .458966553}
+      pivot: {x: .477386922, y: .460606068}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Attack_60.0079
       rect:
         serializedVersion: 2
-        x: 3192
-        y: 2783
-        width: 397
-        height: 331
+        x: 1791
+        y: 1388
+        width: 198
+        height: 165
       alignment: 9
-      pivot: {x: .473551631, y: .462235659}
+      pivot: {x: .474747479, y: .460606068}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0001
       rect:
         serializedVersion: 2
-        x: 3591
-        y: 2784
-        width: 351
-        height: 330
+        x: 2
+        y: 1222
+        width: 175
+        height: 164
       alignment: 9
-      pivot: {x: .544159532, y: .463636369}
+      pivot: {x: .54285717, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0003
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2451
-        width: 353
-        height: 330
+        x: 179
+        y: 1222
+        width: 176
+        height: 164
       alignment: 9
-      pivot: {x: .541076481, y: .463636369}
+      pivot: {x: .539772749, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0005
       rect:
         serializedVersion: 2
         x: 357
-        y: 2451
-        width: 358
-        height: 330
+        y: 1222
+        width: 178
+        height: 164
       alignment: 9
-      pivot: {x: .533519566, y: .463636369}
+      pivot: {x: .533707857, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0007
       rect:
         serializedVersion: 2
-        x: 717
-        y: 2451
-        width: 364
-        height: 330
+        x: 537
+        y: 1222
+        width: 182
+        height: 164
       alignment: 9
-      pivot: {x: .521978021, y: .463636369}
+      pivot: {x: .521978021, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0009
       rect:
         serializedVersion: 2
-        x: 1083
-        y: 2451
-        width: 373
-        height: 330
+        x: 721
+        y: 1222
+        width: 187
+        height: 164
       alignment: 9
-      pivot: {x: .50938338, y: .463636369}
+      pivot: {x: .508021414, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0011
       rect:
         serializedVersion: 2
-        x: 1458
-        y: 2451
-        width: 382
-        height: 330
+        x: 910
+        y: 1222
+        width: 191
+        height: 164
       alignment: 9
-      pivot: {x: .497382194, y: .463636369}
+      pivot: {x: .497382194, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0013
       rect:
         serializedVersion: 2
-        x: 1842
-        y: 2452
-        width: 391
-        height: 329
+        x: 1103
+        y: 1222
+        width: 195
+        height: 164
       alignment: 9
-      pivot: {x: .485933512, y: .465045601}
+      pivot: {x: .487179488, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0015
       rect:
         serializedVersion: 2
-        x: 2235
-        y: 2451
-        width: 396
-        height: 330
+        x: 1300
+        y: 1222
+        width: 198
+        height: 164
       alignment: 9
-      pivot: {x: .477272719, y: .463636369}
+      pivot: {x: .479797989, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0017
       rect:
         serializedVersion: 2
-        x: 2633
-        y: 2451
-        width: 399
-        height: 330
+        x: 1500
+        y: 1222
+        width: 199
+        height: 164
       alignment: 9
-      pivot: {x: .473684222, y: .463636369}
+      pivot: {x: .472361803, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0019
       rect:
         serializedVersion: 2
-        x: 3034
-        y: 2451
-        width: 397
-        height: 330
+        x: 1701
+        y: 1222
+        width: 198
+        height: 164
       alignment: 9
-      pivot: {x: .473551631, y: .463636369}
+      pivot: {x: .474747479, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0021
       rect:
         serializedVersion: 2
-        x: 3433
-        y: 2452
-        width: 393
-        height: 329
+        x: 2
+        y: 1056
+        width: 196
+        height: 164
       alignment: 9
-      pivot: {x: .478371501, y: .465045601}
+      pivot: {x: .479591846, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0023
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2119
-        width: 384
-        height: 330
+        x: 200
+        y: 1056
+        width: 192
+        height: 164
       alignment: 9
-      pivot: {x: .486979157, y: .463636369}
+      pivot: {x: .489583343, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0025
       rect:
         serializedVersion: 2
-        x: 388
-        y: 2121
-        width: 374
-        height: 328
+        x: 394
+        y: 1056
+        width: 186
+        height: 164
       alignment: 9
       pivot: {x: .5, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0027
       rect:
         serializedVersion: 2
-        x: 764
-        y: 2121
-        width: 361
-        height: 328
+        x: 582
+        y: 1056
+        width: 180
+        height: 164
       alignment: 9
-      pivot: {x: .515235484, y: .463414639}
+      pivot: {x: .516666651, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0029
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 2121
-        width: 348
-        height: 328
+        x: 764
+        y: 1056
+        width: 174
+        height: 164
       alignment: 9
       pivot: {x: .534482777, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0031
       rect:
         serializedVersion: 2
-        x: 1477
-        y: 2121
-        width: 334
-        height: 328
+        x: 940
+        y: 1056
+        width: 168
+        height: 164
       alignment: 9
-      pivot: {x: .553892195, y: .463414639}
+      pivot: {x: .553571403, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0033
       rect:
         serializedVersion: 2
-        x: 1813
-        y: 2121
-        width: 323
-        height: 328
+        x: 1110
+        y: 1056
+        width: 161
+        height: 164
       alignment: 9
-      pivot: {x: .572755396, y: .463414639}
+      pivot: {x: .571428597, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0035
       rect:
         serializedVersion: 2
-        x: 2138
-        y: 2121
-        width: 314
-        height: 328
+        x: 1273
+        y: 1056
+        width: 157
+        height: 164
       alignment: 9
       pivot: {x: .58598727, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0037
       rect:
         serializedVersion: 2
-        x: 2454
-        y: 2121
-        width: 310
-        height: 328
+        x: 1432
+        y: 1056
+        width: 155
+        height: 164
       alignment: 9
       pivot: {x: .593548357, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0039
       rect:
         serializedVersion: 2
-        x: 2766
-        y: 2121
-        width: 308
-        height: 328
+        x: 1589
+        y: 1056
+        width: 154
+        height: 164
       alignment: 9
       pivot: {x: .597402573, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0041
       rect:
         serializedVersion: 2
-        x: 3076
-        y: 2121
-        width: 308
-        height: 328
+        x: 1745
+        y: 1056
+        width: 154
+        height: 164
       alignment: 9
       pivot: {x: .597402573, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0043
       rect:
         serializedVersion: 2
-        x: 3386
-        y: 2121
-        width: 308
-        height: 328
+        x: 2
+        y: 890
+        width: 154
+        height: 164
       alignment: 9
       pivot: {x: .597402573, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0045
       rect:
         serializedVersion: 2
-        x: 3696
-        y: 2121
-        width: 310
-        height: 328
+        x: 158
+        y: 890
+        width: 155
+        height: 164
       alignment: 9
       pivot: {x: .593548357, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0047
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1789
-        width: 314
-        height: 328
+        x: 315
+        y: 890
+        width: 157
+        height: 164
       alignment: 9
       pivot: {x: .58598727, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0049
       rect:
         serializedVersion: 2
-        x: 318
-        y: 1789
-        width: 323
-        height: 328
+        x: 474
+        y: 890
+        width: 161
+        height: 164
       alignment: 9
-      pivot: {x: .572755396, y: .463414639}
+      pivot: {x: .571428597, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0051
       rect:
         serializedVersion: 2
-        x: 643
-        y: 1789
-        width: 334
-        height: 328
+        x: 637
+        y: 890
+        width: 168
+        height: 164
       alignment: 9
-      pivot: {x: .553892195, y: .463414639}
+      pivot: {x: .553571403, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0053
       rect:
         serializedVersion: 2
-        x: 979
-        y: 1789
-        width: 348
-        height: 328
+        x: 807
+        y: 890
+        width: 174
+        height: 164
       alignment: 9
       pivot: {x: .534482777, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0055
       rect:
         serializedVersion: 2
-        x: 1329
-        y: 1789
-        width: 361
-        height: 328
+        x: 983
+        y: 890
+        width: 180
+        height: 164
       alignment: 9
-      pivot: {x: .515235484, y: .463414639}
+      pivot: {x: .516666651, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0057
       rect:
         serializedVersion: 2
-        x: 1692
-        y: 1789
-        width: 374
-        height: 328
+        x: 1165
+        y: 890
+        width: 186
+        height: 164
       alignment: 9
       pivot: {x: .5, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0059
       rect:
         serializedVersion: 2
-        x: 2068
-        y: 1787
-        width: 384
-        height: 330
+        x: 1353
+        y: 890
+        width: 192
+        height: 164
       alignment: 9
-      pivot: {x: .486979157, y: .463636369}
+      pivot: {x: .489583343, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0061
       rect:
         serializedVersion: 2
-        x: 2454
-        y: 1788
-        width: 393
-        height: 329
+        x: 1547
+        y: 890
+        width: 196
+        height: 164
       alignment: 9
-      pivot: {x: .478371501, y: .465045601}
+      pivot: {x: .479591846, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0063
       rect:
         serializedVersion: 2
-        x: 2849
-        y: 1787
-        width: 397
-        height: 330
+        x: 1745
+        y: 890
+        width: 198
+        height: 164
       alignment: 9
-      pivot: {x: .473551631, y: .463636369}
+      pivot: {x: .474747479, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0065
       rect:
         serializedVersion: 2
-        x: 3248
-        y: 1787
-        width: 399
-        height: 330
+        x: 2
+        y: 724
+        width: 199
+        height: 164
       alignment: 9
-      pivot: {x: .473684222, y: .463636369}
+      pivot: {x: .472361803, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0067
       rect:
         serializedVersion: 2
-        x: 3649
-        y: 1787
-        width: 396
-        height: 330
+        x: 203
+        y: 724
+        width: 198
+        height: 164
       alignment: 9
-      pivot: {x: .477272719, y: .463636369}
+      pivot: {x: .479797989, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0069
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1456
-        width: 391
-        height: 329
+        x: 403
+        y: 724
+        width: 195
+        height: 164
       alignment: 9
-      pivot: {x: .485933512, y: .465045601}
+      pivot: {x: .487179488, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0071
       rect:
         serializedVersion: 2
-        x: 395
-        y: 1455
-        width: 382
-        height: 330
+        x: 600
+        y: 724
+        width: 191
+        height: 164
       alignment: 9
-      pivot: {x: .497382194, y: .463636369}
+      pivot: {x: .497382194, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0073
       rect:
         serializedVersion: 2
-        x: 779
-        y: 1455
-        width: 373
-        height: 330
+        x: 793
+        y: 724
+        width: 187
+        height: 164
       alignment: 9
-      pivot: {x: .50938338, y: .463636369}
+      pivot: {x: .508021414, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0075
       rect:
         serializedVersion: 2
-        x: 1154
-        y: 1455
-        width: 364
-        height: 330
+        x: 982
+        y: 724
+        width: 182
+        height: 164
       alignment: 9
-      pivot: {x: .521978021, y: .463636369}
+      pivot: {x: .521978021, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0077
       rect:
         serializedVersion: 2
-        x: 1520
-        y: 1455
-        width: 358
-        height: 330
+        x: 1166
+        y: 724
+        width: 178
+        height: 164
       alignment: 9
-      pivot: {x: .533519566, y: .463636369}
+      pivot: {x: .533707857, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Sick_Lionfish_Move_60.0079
       rect:
         serializedVersion: 2
-        x: 1880
-        y: 1455
-        width: 353
-        height: 330
+        x: 1346
+        y: 724
+        width: 176
+        height: 164
       alignment: 9
-      pivot: {x: .541076481, y: .463636369}
+      pivot: {x: .539772749, y: .463414639}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

@@ -84,6 +84,8 @@ TextureImporter:
     21300158: Drone_Shoot_60.0079
     21300160: Drone_Shoot_60.0080
     21300162: Drone_Idle02
+    21300164: Drone_Idle_01
+    21300166: Drone_Idle_02
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -123,7 +125,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 225
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings:
@@ -133,425 +135,425 @@ TextureImporter:
     compressionQuality: 50
   spriteSheet:
     sprites:
-    - name: Drone_Idle
+    - name: Drone_Idle_01
       rect:
         serializedVersion: 2
-        x: 386
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Idle02
+    - name: Drone_Idle_02
       rect:
         serializedVersion: 2
-        x: 386
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0001
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 1361
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0003
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 1361
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0005
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 1361
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0007
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 1361
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0009
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 1361
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0011
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 1361
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0013
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0015
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0017
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0019
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0021
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0023
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0025
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0027
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0029
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0031
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0033
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0035
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0037
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0039
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0041
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0043
-      rect:
-        serializedVersion: 2
-        x: 771
-        y: 1019
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0045
-      rect:
-        serializedVersion: 2
-        x: 1154
-        y: 1018
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0047
-      rect:
-        serializedVersion: 2
-        x: 771
-        y: 677
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0049
-      rect:
-        serializedVersion: 2
-        x: 388
-        y: 676
-        width: 381
-        height: 340
-      alignment: 9
-      pivot: {x: .603674531, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0051
-      rect:
-        serializedVersion: 2
-        x: 387
-        y: 1018
-        width: 382
-        height: 340
-      alignment: 9
-      pivot: {x: .604712069, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0053
-      rect:
-        serializedVersion: 2
         x: 2
-        y: 1018
-        width: 383
-        height: 340
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .605744123, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0055
-      rect:
-        serializedVersion: 2
-        x: 1574
-        y: 1018
-        width: 385
-        height: 341
-      alignment: 9
-      pivot: {x: .607792199, y: .498533726}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0057
-      rect:
-        serializedVersion: 2
-        x: 1184
-        y: 1360
-        width: 388
-        height: 342
-      alignment: 9
-      pivot: {x: .610824764, y: .497076035}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0059
-      rect:
-        serializedVersion: 2
-        x: 1184
-        y: 1704
-        width: 390
-        height: 342
-      alignment: 9
-      pivot: {x: .612820506, y: .497076035}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0061
-      rect:
-        serializedVersion: 2
-        x: 397
-        y: 1703
-        width: 392
-        height: 343
-      alignment: 9
-      pivot: {x: .614795923, y: .495626837}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0063
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 1703
-        width: 393
-        height: 343
-      alignment: 9
-      pivot: {x: .615776062, y: .495626837}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0065
-      rect:
-        serializedVersion: 2
-        x: 791
-        y: 1703
-        width: 391
-        height: 343
-      alignment: 9
-      pivot: {x: .613810718, y: .495626837}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0067
-      rect:
-        serializedVersion: 2
-        x: 1576
-        y: 1704
-        width: 389
-        height: 342
-      alignment: 9
-      pivot: {x: .611825168, y: .497076035}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0069
-      rect:
-        serializedVersion: 2
-        x: 1574
-        y: 1361
-        width: 387
-        height: 341
-      alignment: 9
-      pivot: {x: .609819114, y: .498533726}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0071
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 675
-        width: 384
-        height: 341
-      alignment: 9
-      pivot: {x: .606770813, y: .498533726}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Drone_Shoot_60.0073
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 1361
-        width: 382
-        height: 340
-      alignment: 9
-      pivot: {x: .604712069, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0075
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0077
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Drone_Shoot_60.0079
       rect:
         serializedVersion: 2
-        x: 769
-        y: 1361
-        width: 381
-        height: 340
+        x: 2
+        y: 852
+        width: 191
+        height: 170
       alignment: 9
-      pivot: {x: .603674531, y: .5}
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0001
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 852
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0003
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 852
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0005
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 852
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0007
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 852
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0009
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 852
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0011
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 852
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0043
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 852
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0045
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 852
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0047
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 852
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0049
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 680
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0051
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 680
+        width: 191
+        height: 170
+      alignment: 9
+      pivot: {x: .602094233, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0053
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 680
+        width: 192
+        height: 170
+      alignment: 9
+      pivot: {x: .604166687, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0055
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 680
+        width: 193
+        height: 170
+      alignment: 9
+      pivot: {x: .606217623, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0057
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 679
+        width: 194
+        height: 171
+      alignment: 9
+      pivot: {x: .608247399, y: .497076035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0059
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 506
+        width: 196
+        height: 171
+      alignment: 9
+      pivot: {x: .612244904, y: .497076035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0061
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 506
+        width: 197
+        height: 171
+      alignment: 9
+      pivot: {x: .614213169, y: .497076035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0063
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 506
+        width: 197
+        height: 171
+      alignment: 9
+      pivot: {x: .614213169, y: .497076035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0065
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 506
+        width: 196
+        height: 171
+      alignment: 9
+      pivot: {x: .612244904, y: .497076035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0067
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 506
+        width: 195
+        height: 171
+      alignment: 9
+      pivot: {x: .610256433, y: .497076035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0069
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 333
+        width: 194
+        height: 171
+      alignment: 9
+      pivot: {x: .608247399, y: .497076035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0071
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 334
+        width: 192
+        height: 170
+      alignment: 9
+      pivot: {x: .604166687, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Drone_Shoot_60.0073
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 334
+        width: 192
+        height: 170
+      alignment: 9
+      pivot: {x: .604166687, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

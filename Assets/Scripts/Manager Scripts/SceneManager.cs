@@ -19,6 +19,7 @@ public class SceneManager : MonoBehaviour {
     public GUIStyle plank;
 	private GameObject backgroundImageObject;
 	private GameObject fishToUnlock;
+    private float transitionTime = 2f;
 	// Use this for initialization
 	
 	public enum Scene{Start,Instructions,GameScene,Lose,Win}
@@ -43,6 +44,7 @@ public class SceneManager : MonoBehaviour {
 		if (Input.GetKeyDown(KeyCode.Escape)) 
 		{
 			SceneManager.isPaused = true;
+            GameGUI.shouldShowPauseScreen = true;
 		}
         hasWonStat = hasWon;
         hasLostStat = hasLost;
@@ -54,6 +56,11 @@ public class SceneManager : MonoBehaviour {
 		//Indicates if the player has lost the level
 		if (hasLost)
 		{
+            if (transitionTime > 0)
+            {
+                transitionTime -= Time.deltaTime;
+                return;
+            }
 			isPaused = true;
             if(!hasPlayed)
             {
@@ -66,13 +73,15 @@ public class SceneManager : MonoBehaviour {
 		//Indicated if the player has won the level
 		if (hasWon)
 		{
+            if (transitionTime > 0)
+            {
+                transitionTime -= Time.deltaTime;
+                return;
+            }
+            
 			isPaused = true;
 			if (fishToUnlock == null) {
 				doneUnlockingFish = true;
-			}
-			if (doneUnlockingFish) 
-			{
-
 			}
 			if(!hasPlayed)
 			{
@@ -104,6 +113,12 @@ public class SceneManager : MonoBehaviour {
 		backgroundImageObject.GetComponent<Renderer>().material.mainTexture = backgroundImages[reefLifeCounter-1];
 
 	}
+    public void KillReef()
+    {
+        hasLost = true;
+        backgroundImageObject.GetComponent<Renderer>().material.mainTexture = backgroundImages[0];
+
+    }
 	
 	//Basic Lerp Function
 	public static float Lerp(float currentPos, float targetPos, float percentLerp)

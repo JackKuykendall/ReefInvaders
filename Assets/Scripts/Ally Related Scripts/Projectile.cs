@@ -5,6 +5,8 @@ public class Projectile : MonoBehaviour {
 	public float moveSpeed = 1.3f;
 	public int damage;
 
+    public bool shouldCaptureFish;
+
 	private bool canSlow;
 	private float slowPercentage;
 	private float slowDuration;
@@ -120,6 +122,11 @@ public class Projectile : MonoBehaviour {
 						OriginFish.GetComponent<UnitStatScript>().DeltaHealth(healthGainedOnHit);
 					}
 				}
+                //If I should capture the fish
+                if (shouldCaptureFish)
+                {
+                    sr.Capture();
+                }
 				//TODO Impliment Knockback
 				sr.DeltaHealth(-damage);
 
